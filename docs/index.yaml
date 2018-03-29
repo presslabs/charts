@@ -1,3 +1,21 @@
 apiVersion: v1
-entries: {}
-generated: 2018-03-29T13:28:04.991700454Z
+entries:
+  orchestrator:
+  - apiVersion: v1
+    appVersion: 3.0.9
+    created: 2018-03-29T13:30:09.840413303Z
+    description: A Helm chart for github's mysql orchestrator
+    digest: d82358c8e113a32dcd3f7f7fda1c866242790fc1eb4cf8e8aa45ccd7ceada56e
+    home: https://github.com/github/orchestrator
+    icon: https://github.com/github/orchestrator/raw/master/resources/public/images/orchestrator-logo-32.png
+    keywords:
+    - mysql
+    - percona
+    - orchestrator
+    name: orchestrator
+    sources:
+    - https://github.com/github/orchestrator.git
+    urls:
+    - https://presslabs.github.io/charts/orchestrator-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-03-29T13:30:09.840086813Z
