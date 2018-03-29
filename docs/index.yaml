@@ -1,9 +1,27 @@
 apiVersion: v1
 entries:
+  mysql-operator:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: 2018-03-29T17:20:28.035182873Z
+    description: A Helm chart for mysql operator
+    digest: 0e94c02f4cac16ef9204eb8b830695e3846eec5312e9f30525402f64be3c196e
+    home: https://github.com/presslabs/mysql-operator
+    keywords:
+    - mysql
+    - percona
+    - orchestrator
+    - presslabs
+    name: mysql-operator
+    sources:
+    - https://github.com/github/mysql-operator.git
+    urls:
+    - https://presslabs.github.io/charts/mysql-operator-0.1.0.tgz
+    version: 0.1.0
   orchestrator:
   - apiVersion: v1
     appVersion: 3.0.9
-    created: 2018-03-29T15:15:57.44059269Z
+    created: 2018-03-29T17:20:28.035659588Z
     description: A Helm chart for github's mysql orchestrator
     digest: a439ac3db815b58be4de1aa0ea569534fea73eafc66fe649f5fdbb2c577a9b82
     home: https://github.com/github/orchestrator
@@ -20,7 +38,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 3.0.9
-    created: 2018-03-29T15:15:57.440311895Z
+    created: 2018-03-29T17:20:28.03542801Z
     description: A Helm chart for github's mysql orchestrator
     digest: d82358c8e113a32dcd3f7f7fda1c866242790fc1eb4cf8e8aa45ccd7ceada56e
     home: https://github.com/github/orchestrator
@@ -35,4 +53,4 @@ entries:
     urls:
     - https://presslabs.github.io/charts/orchestrator-0.1.0.tgz
     version: 0.1.0
-generated: 2018-03-29T15:15:57.439992768Z
+generated: 2018-03-29T17:20:28.034687936Z
