@@ -3,7 +3,7 @@ entries:
   mysql-operator:
   - apiVersion: v1
     appVersion: 0.1.2
-    created: 2018-04-04T20:24:39.130072599Z
+    created: 2018-04-05T00:18:25.566954013Z
     description: A Helm chart for mysql operator
     digest: 0cdf0adc6dbfb30b88ce92866b6fd9fcac687e52bffceec4b604ae1ac43bd747
     home: https://github.com/presslabs/mysql-operator
@@ -20,7 +20,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.1.1
-    created: 2018-04-04T20:24:39.129667901Z
+    created: 2018-04-05T00:18:25.566557616Z
     description: A Helm chart for mysql operator
     digest: 5d64ff2dc05640b3add33bc967ba2e5394a927cb9409c632d12721ca06aad694
     home: https://github.com/presslabs/mysql-operator
@@ -37,7 +37,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-04-04T20:24:39.129255383Z
+    created: 2018-04-05T00:18:25.56615034Z
     description: A Helm chart for mysql operator
     digest: 96afe79c6c3d1f84e377ff5448fdad58f4371acaceead057bc8f3322939845a4
     home: https://github.com/presslabs/mysql-operator
@@ -54,7 +54,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-04-04T20:24:39.128852231Z
+    created: 2018-04-05T00:18:25.565747069Z
     description: A Helm chart for mysql operator
     digest: 0e94c02f4cac16ef9204eb8b830695e3846eec5312e9f30525402f64be3c196e
     home: https://github.com/presslabs/mysql-operator
@@ -72,7 +72,7 @@ entries:
   orchestrator:
   - apiVersion: v1
     appVersion: 3.0.9
-    created: 2018-04-04T20:24:39.130562905Z
+    created: 2018-04-05T00:18:25.567409473Z
     description: A Helm chart for github's mysql orchestrator
     digest: a439ac3db815b58be4de1aa0ea569534fea73eafc66fe649f5fdbb2c577a9b82
     home: https://github.com/github/orchestrator
@@ -89,7 +89,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 3.0.9
-    created: 2018-04-04T20:24:39.130302643Z
+    created: 2018-04-05T00:18:25.567183606Z
     description: A Helm chart for github's mysql orchestrator
     digest: d82358c8e113a32dcd3f7f7fda1c866242790fc1eb4cf8e8aa45ccd7ceada56e
     home: https://github.com/github/orchestrator
@@ -106,7 +106,25 @@ entries:
     version: 0.1.0
   wordpress:
   - apiVersion: v1
-    created: 2018-04-04T20:24:39.131078675Z
+    created: 2018-04-05T00:18:25.568432834Z
+    description: Open Source Wordpress Kubernetes Runtime for Presslabs Stack
+    digest: 6d11d80d217e094ff3221cac92158c926cf86bf81cd38fc578fab76bfd1e0cde
+    home: https://www.presslabs.org
+    keywords:
+    - WordPress
+    - Presslabs
+    maintainers:
+    - email: ping@presslabs.com
+      name: Presslabs
+      url: https://www.presslabs.com
+    name: wordpress
+    sources:
+    - https://github.com/presslabs/runtime
+    urls:
+    - https://presslabs.github.io/charts/wordpress-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    created: 2018-04-05T00:18:25.567930817Z
     description: Open Source Wordpress Kubernetes Runtime for Presslabs Stack
     digest: 661154f3f20b5f4acda37b07e57435eeb8df6e1e8786fe6f4aba18f8e6e7d892
     home: https://www.presslabs.org
@@ -123,4 +141,4 @@ entries:
     urls:
     - https://presslabs.github.io/charts/wordpress-0.1.0.tgz
     version: 0.1.0
-generated: 2018-04-04T20:24:39.128330851Z
+generated: 2018-04-05T00:18:25.565244185Z
