@@ -2,8 +2,25 @@ apiVersion: v1
 entries:
   mysql-operator:
   - apiVersion: v1
+    appVersion: 0.1.6
+    created: 2018-05-25T14:08:24.84431367Z
+    description: A Helm chart for mysql operator
+    digest: 0c13f9f6f9ad124d7cafdcec4e1b83f6e4663811320945813f11750c5595a489
+    home: https://github.com/presslabs/mysql-operator
+    keywords:
+    - mysql
+    - percona
+    - orchestrator
+    - presslabs
+    name: mysql-operator
+    sources:
+    - https://github.com/presslabs/mysql-operator.git
+    urls:
+    - https://presslabs.github.io/charts/mysql-operator-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v1
     appVersion: 0.1.5
-    created: 2018-05-21T16:28:10.865298858Z
+    created: 2018-05-25T14:08:24.843617682Z
     description: A Helm chart for mysql operator
     digest: 1f48499051be285792763b27cf2cc7805d964697c45941b9cb4fbcae0088f5bb
     home: https://github.com/presslabs/mysql-operator
@@ -20,7 +37,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 0.1.3
-    created: 2018-05-21T16:28:10.86487426Z
+    created: 2018-05-25T14:08:24.842978546Z
     description: A Helm chart for mysql operator
     digest: ca8daa11099a26ed3a99e0619c16815dca3e5d90bb3d7df6234edaad1742bd27
     home: https://github.com/presslabs/mysql-operator
@@ -37,7 +54,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 0.1.2
-    created: 2018-05-21T16:28:10.864458511Z
+    created: 2018-05-25T14:08:24.84238032Z
     description: A Helm chart for mysql operator
     digest: 0cdf0adc6dbfb30b88ce92866b6fd9fcac687e52bffceec4b604ae1ac43bd747
     home: https://github.com/presslabs/mysql-operator
@@ -54,7 +71,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.1.1
-    created: 2018-05-21T16:28:10.864035737Z
+    created: 2018-05-25T14:08:24.841747235Z
     description: A Helm chart for mysql operator
     digest: 5d64ff2dc05640b3add33bc967ba2e5394a927cb9409c632d12721ca06aad694
     home: https://github.com/presslabs/mysql-operator
@@ -71,7 +88,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-05-21T16:28:10.86365185Z
+    created: 2018-05-25T14:08:24.841117399Z
     description: A Helm chart for mysql operator
     digest: 96afe79c6c3d1f84e377ff5448fdad58f4371acaceead057bc8f3322939845a4
     home: https://github.com/presslabs/mysql-operator
@@ -88,7 +105,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-05-21T16:28:10.863278001Z
+    created: 2018-05-25T14:08:24.840470847Z
     description: A Helm chart for mysql operator
     digest: 0e94c02f4cac16ef9204eb8b830695e3846eec5312e9f30525402f64be3c196e
     home: https://github.com/presslabs/mysql-operator
@@ -106,7 +123,7 @@ entries:
   orchestrator:
   - apiVersion: v1
     appVersion: 3.0.9
-    created: 2018-05-21T16:28:10.865740896Z
+    created: 2018-05-25T14:08:24.845039401Z
     description: A Helm chart for github's mysql orchestrator
     digest: a439ac3db815b58be4de1aa0ea569534fea73eafc66fe649f5fdbb2c577a9b82
     home: https://github.com/github/orchestrator
@@ -123,7 +140,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 3.0.9
-    created: 2018-05-21T16:28:10.865526085Z
+    created: 2018-05-25T14:08:24.84467512Z
     description: A Helm chart for github's mysql orchestrator
     digest: d82358c8e113a32dcd3f7f7fda1c866242790fc1eb4cf8e8aa45ccd7ceada56e
     home: https://github.com/github/orchestrator
@@ -140,7 +157,7 @@ entries:
     version: 0.1.0
   wordpress:
   - apiVersion: v1
-    created: 2018-05-21T16:28:10.866795879Z
+    created: 2018-05-25T14:08:24.846482996Z
     description: Open Source Wordpress Kubernetes Runtime for Presslabs Stack
     digest: 6d11d80d217e094ff3221cac92158c926cf86bf81cd38fc578fab76bfd1e0cde
     home: https://www.presslabs.org
@@ -158,7 +175,7 @@ entries:
     - https://presslabs.github.io/charts/wordpress-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
-    created: 2018-05-21T16:28:10.866277017Z
+    created: 2018-05-25T14:08:24.845884196Z
     description: Open Source Wordpress Kubernetes Runtime for Presslabs Stack
     digest: 661154f3f20b5f4acda37b07e57435eeb8df6e1e8786fe6f4aba18f8e6e7d892
     home: https://www.presslabs.org
@@ -175,4 +192,4 @@ entries:
     urls:
     - https://presslabs.github.io/charts/wordpress-0.1.0.tgz
     version: 0.1.0
-generated: 2018-05-21T16:28:10.862170606Z
+generated: 2018-05-25T14:08:24.839212689Z
