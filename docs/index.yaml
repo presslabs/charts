@@ -3,7 +3,7 @@ entries:
   dashboard:
   - apiVersion: v1
     appVersion: v0.0.5
-    created: 2018-12-14T15:20:15.386003616Z
+    created: 2018-12-19T14:34:54.943303132Z
     description: Presslabs Dashbaord Helm Chart
     digest: 520eb2b2f52dc89ab473c037e8bf3cbc6a68bb4adc9db58910686f211a66291e
     name: dashboard
@@ -12,7 +12,7 @@ entries:
     version: v0.0.5
   - apiVersion: v1
     appVersion: v0.0.3
-    created: 2018-12-14T15:20:15.383695656Z
+    created: 2018-12-19T14:34:54.940478344Z
     description: Presslabs Dashbaord Helm Chart
     digest: d283f9b556bd96b6b2821e010ffaa7f52bdb5e9f380700c68831e2f1e62f2861
     name: dashboard
@@ -21,7 +21,7 @@ entries:
     version: v0.0.3
   - apiVersion: v1
     appVersion: v0.0.1
-    created: 2018-12-14T15:20:15.38343976Z
+    created: 2018-12-19T14:34:54.940191449Z
     description: Presslabs Dashbaord Helm Chart
     digest: 647ddec7319e207476978e39e69de6767d2933ab85f447bb455200fadb9da45e
     name: dashboard
@@ -30,8 +30,25 @@ entries:
     version: v0.0.1
   mysql-operator:
   - apiVersion: v1
+    appVersion: v0.2.2
+    created: 2018-12-19T14:34:54.951938421Z
+    description: A Helm chart for mysql operator
+    digest: ca8eddb8fb8bd92efbeb0c024f6c0da23b4b77cd7b72e8e51a1ea5aefe40a9bf
+    home: https://github.com/presslabs/mysql-operator
+    keywords:
+    - mysql
+    - percona
+    - orchestrator
+    - presslabs
+    name: mysql-operator
+    sources:
+    - https://github.com/presslabs/mysql-operator.git
+    urls:
+    - https://presslabs.github.io/charts/mysql-operator-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v1
     appVersion: v0.2.1
-    created: 2018-12-14T15:20:15.394358736Z
+    created: 2018-12-19T14:34:54.951469511Z
     description: A Helm chart for mysql operator
     digest: 05797def09d8bd1addf023ad45e573505fbd41bb5eccb2c5d37267baa2a66f28
     home: https://github.com/presslabs/mysql-operator
@@ -48,7 +65,7 @@ entries:
     version: 0.2.1
   - apiVersion: v1
     appVersion: v0.2.0
-    created: 2018-12-14T15:20:15.393925363Z
+    created: 2018-12-19T14:34:54.951005471Z
     description: A Helm chart for mysql operator
     digest: 22c9a31a2f6b92e7894b9f7a455c00799172fe4e86759ab749377c68062ab6b5
     home: https://github.com/presslabs/mysql-operator
@@ -65,7 +82,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 0.1.14
-    created: 2018-12-14T15:20:15.389717482Z
+    created: 2018-12-19T14:34:54.946380441Z
     description: A Helm chart for mysql operator
     digest: 87a238b81dd901dc255d74d04ae7362460494a5124401518ad92b8f34fa47266
     home: https://github.com/presslabs/mysql-operator
@@ -82,7 +99,7 @@ entries:
     version: 0.1.14
   - apiVersion: v1
     appVersion: 0.1.13
-    created: 2018-12-14T15:20:15.388701704Z
+    created: 2018-12-19T14:34:54.945926709Z
     description: A Helm chart for mysql operator
     digest: 541b53bd7a82d2c7f88f8283a6c4c264ce59786ca5a547c71e3ade64900e9cd8
     home: https://github.com/presslabs/mysql-operator
@@ -99,7 +116,7 @@ entries:
     version: 0.1.13
   - apiVersion: v1
     appVersion: 0.1.12
-    created: 2018-12-14T15:20:15.388247428Z
+    created: 2018-12-19T14:34:54.94547277Z
     description: A Helm chart for mysql operator
     digest: 5c72fbe988944d701668a7003ed53d90ee9256b824ce3bc1095d5e9aba3e1f50
     home: https://github.com/presslabs/mysql-operator
@@ -116,7 +133,7 @@ entries:
     version: 0.1.12
   - apiVersion: v1
     appVersion: 0.1.11
-    created: 2018-12-14T15:20:15.387812711Z
+    created: 2018-12-19T14:34:54.945037651Z
     description: A Helm chart for mysql operator
     digest: 0321d6c40e380181d08cea70d09946849e218a15a06c638dfb76d6e4afa2ae47
     home: https://github.com/presslabs/mysql-operator
@@ -133,7 +150,7 @@ entries:
     version: 0.1.11
   - apiVersion: v1
     appVersion: 0.1.10
-    created: 2018-12-14T15:20:15.387320915Z
+    created: 2018-12-19T14:34:54.944577763Z
     description: A Helm chart for mysql operator
     digest: a42d55e76959e124c37de5ad015f6bf0f959e19feaa8007849631fb26856154c
     home: https://github.com/presslabs/mysql-operator
@@ -150,7 +167,7 @@ entries:
     version: 0.1.10
   - apiVersion: v1
     appVersion: 0.1.9
-    created: 2018-12-14T15:20:15.39348956Z
+    created: 2018-12-19T14:34:54.950544435Z
     description: A Helm chart for mysql operator
     digest: 7a0589367f976011215c951450a057d54d1608521209efa7af1ad8d9e3c6d435
     home: https://github.com/presslabs/mysql-operator
@@ -167,7 +184,7 @@ entries:
     version: 0.1.9
   - apiVersion: v1
     appVersion: 0.1.8
-    created: 2018-12-14T15:20:15.393088056Z
+    created: 2018-12-19T14:34:54.950097322Z
     description: A Helm chart for mysql operator
     digest: c7d4ebb830f7f0a014161473465f39309a7777cb5a93ab7983e09872aa4f382e
     home: https://github.com/presslabs/mysql-operator
@@ -184,7 +201,7 @@ entries:
     version: 0.1.8
   - apiVersion: v1
     appVersion: 0.1.7
-    created: 2018-12-14T15:20:15.392670512Z
+    created: 2018-12-19T14:34:54.949664458Z
     description: A Helm chart for mysql operator
     digest: 13d55c2ac37e6f9ce572764d15281f75be052a9423c84657b04225b9c6736231
     home: https://github.com/presslabs/mysql-operator
@@ -201,7 +218,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 0.1.6
-    created: 2018-12-14T15:20:15.39225766Z
+    created: 2018-12-19T14:34:54.949226321Z
     description: A Helm chart for mysql operator
     digest: 0c13f9f6f9ad124d7cafdcec4e1b83f6e4663811320945813f11750c5595a489
     home: https://github.com/presslabs/mysql-operator
@@ -218,7 +235,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 0.1.5
-    created: 2018-12-14T15:20:15.391836337Z
+    created: 2018-12-19T14:34:54.948793085Z
     description: A Helm chart for mysql operator
     digest: 1f48499051be285792763b27cf2cc7805d964697c45941b9cb4fbcae0088f5bb
     home: https://github.com/presslabs/mysql-operator
@@ -235,7 +252,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 0.1.3
-    created: 2018-12-14T15:20:15.391399018Z
+    created: 2018-12-19T14:34:54.948396649Z
     description: A Helm chart for mysql operator
     digest: ca8daa11099a26ed3a99e0619c16815dca3e5d90bb3d7df6234edaad1742bd27
     home: https://github.com/presslabs/mysql-operator
@@ -252,7 +269,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 0.1.2
-    created: 2018-12-14T15:20:15.39099169Z
+    created: 2018-12-19T14:34:54.948009352Z
     description: A Helm chart for mysql operator
     digest: 0cdf0adc6dbfb30b88ce92866b6fd9fcac687e52bffceec4b604ae1ac43bd747
     home: https://github.com/presslabs/mysql-operator
@@ -269,7 +286,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.1.1
-    created: 2018-12-14T15:20:15.390532903Z
+    created: 2018-12-19T14:34:54.947459075Z
     description: A Helm chart for mysql operator
     digest: 5d64ff2dc05640b3add33bc967ba2e5394a927cb9409c632d12721ca06aad694
     home: https://github.com/presslabs/mysql-operator
@@ -286,7 +303,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-12-14T15:20:15.386887586Z
+    created: 2018-12-19T14:34:54.944126747Z
     description: A Helm chart for mysql operator
     digest: 96afe79c6c3d1f84e377ff5448fdad58f4371acaceead057bc8f3322939845a4
     home: https://github.com/presslabs/mysql-operator
@@ -303,7 +320,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-12-14T15:20:15.386425419Z
+    created: 2018-12-19T14:34:54.943718809Z
     description: A Helm chart for mysql operator
     digest: 0e94c02f4cac16ef9204eb8b830695e3846eec5312e9f30525402f64be3c196e
     home: https://github.com/presslabs/mysql-operator
@@ -321,7 +338,7 @@ entries:
   orchestrator:
   - apiVersion: v1
     appVersion: 3.0.13
-    created: 2018-12-14T15:20:15.395753865Z
+    created: 2018-12-19T14:34:54.953401898Z
     description: A Helm chart for github's mysql orchestrator
     digest: b66b245b8db70dc36230d10f7292ed61874e2292ebf5f1cdea47527f2b2931ba
     home: https://github.com/github/orchestrator
@@ -338,7 +355,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 3.0.12
-    created: 2018-12-14T15:20:15.395502832Z
+    created: 2018-12-19T14:34:54.953139719Z
     description: A Helm chart for github's mysql orchestrator
     digest: fafad844376393af237f1be5a199e4609abe8e919c975f17c71c453f29ddddd5
     home: https://github.com/github/orchestrator
@@ -355,7 +372,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 3.0.11
-    created: 2018-12-14T15:20:15.395265346Z
+    created: 2018-12-19T14:34:54.952892275Z
     description: A Helm chart for github's mysql orchestrator
     digest: c86ca099ea198c63727d697720c4420a1d13f2c3284d04c7e2092f6ed434df9c
     home: https://github.com/github/orchestrator
@@ -372,7 +389,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 3.0.11
-    created: 2018-12-14T15:20:15.39504395Z
+    created: 2018-12-19T14:34:54.952654433Z
     description: A Helm chart for github's mysql orchestrator
     digest: 546b3cc4356586eec423491d1b31fa6e9fde17e2ded0bbc2d9565e4eb986ef33
     home: https://github.com/github/orchestrator
@@ -389,7 +406,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 3.0.9
-    created: 2018-12-14T15:20:15.394818882Z
+    created: 2018-12-19T14:34:54.952413849Z
     description: A Helm chart for github's mysql orchestrator
     digest: a439ac3db815b58be4de1aa0ea569534fea73eafc66fe649f5fdbb2c577a9b82
     home: https://github.com/github/orchestrator
@@ -406,7 +423,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 3.0.9
-    created: 2018-12-14T15:20:15.394584822Z
+    created: 2018-12-19T14:34:54.952172649Z
     description: A Helm chart for github's mysql orchestrator
     digest: d82358c8e113a32dcd3f7f7fda1c866242790fc1eb4cf8e8aa45ccd7ceada56e
     home: https://github.com/github/orchestrator
@@ -424,7 +441,7 @@ entries:
   stack:
   - apiVersion: v1
     appVersion: v0.2.1
-    created: 2018-12-14T15:20:15.417984141Z
+    created: 2018-12-19T14:34:54.976092402Z
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: bf6fdfed0f810e238edec0f1005fd1db3fe9b161b975a0bf80941ef1b7600195
     name: stack
@@ -433,7 +450,7 @@ entries:
     version: v0.2.1
   - apiVersion: v1
     appVersion: v0.2.0
-    created: 2018-12-14T15:20:15.411171014Z
+    created: 2018-12-19T14:34:54.96856541Z
     description: Presslabs serverless platform for managing WordPress on Kubernetes
     digest: 04cb88b92f23153c322105a4e4cc44a1272bc3474449108b8557e1490c85c428
     name: stack
@@ -442,7 +459,7 @@ entries:
     version: v0.2.0
   - apiVersion: v1
     appVersion: v0.1.0
-    created: 2018-12-14T15:20:15.402840676Z
+    created: 2018-12-19T14:34:54.960439516Z
     description: Presslabs serverless platform for managing WordPress on Kubernetes
     digest: 994d488ed0a56b8268b29fe5086a9a585430d52b523a03d91773163eaccb64b5
     name: stack
@@ -451,7 +468,7 @@ entries:
     version: v0.1.0
   wordpress:
   - apiVersion: v1
-    created: 2018-12-14T15:20:15.418943349Z
+    created: 2018-12-19T14:34:54.977161503Z
     description: Open Source Wordpress Kubernetes Runtime for Presslabs Stack
     digest: 6d11d80d217e094ff3221cac92158c926cf86bf81cd38fc578fab76bfd1e0cde
     home: https://www.presslabs.org
@@ -469,7 +486,7 @@ entries:
     - https://presslabs.github.io/charts/wordpress-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
-    created: 2018-12-14T15:20:15.418460639Z
+    created: 2018-12-19T14:34:54.976641146Z
     description: Open Source Wordpress Kubernetes Runtime for Presslabs Stack
     digest: 661154f3f20b5f4acda37b07e57435eeb8df6e1e8786fe6f4aba18f8e6e7d892
     home: https://www.presslabs.org
@@ -489,7 +506,7 @@ entries:
   wordpress-operator:
   - apiVersion: v1
     appVersion: v0.2.2
-    created: 2018-12-14T15:20:15.420749931Z
+    created: 2018-12-19T14:34:54.978999019Z
     description: Presslabs WordPress Operator Helm Chart
     digest: f419e429ca4960ffe4fd6257fbd006889239306d8db21e9a28cd33296b5926f6
     name: wordpress-operator
@@ -498,7 +515,7 @@ entries:
     version: v0.2.2
   - apiVersion: v1
     appVersion: v0.2.0
-    created: 2018-12-14T15:20:15.420552329Z
+    created: 2018-12-19T14:34:54.978786144Z
     description: Presslabs WordPress Operator Helm Chart
     digest: 979ad2b772767b884706dd79007a3c56782ff5170310ba4030f18fdcf88c6568
     name: wordpress-operator
@@ -507,7 +524,7 @@ entries:
     version: v0.2.0
   - apiVersion: v1
     appVersion: v0.1.8
-    created: 2018-12-14T15:20:15.420350338Z
+    created: 2018-12-19T14:34:54.978549982Z
     description: Presslabs WordPress Operator Helm Chart
     digest: e9ce9609fc6d2d69ec3ef633a2246788fc750380b25e1a9db2b3c8fc6f5994e1
     name: wordpress-operator
@@ -516,7 +533,7 @@ entries:
     version: v0.1.8
   - apiVersion: v1
     appVersion: v0.1.7
-    created: 2018-12-14T15:20:15.420139657Z
+    created: 2018-12-19T14:34:54.978320653Z
     description: Presslabs WordPress Operator Helm Chart
     digest: 620742d1149e6eb3e9a93362b733ff67be02b990e8ff791dd048f0c2cb639fcd
     name: wordpress-operator
@@ -525,7 +542,7 @@ entries:
     version: v0.1.7
   - apiVersion: v1
     appVersion: v0.1.6
-    created: 2018-12-14T15:20:15.419928388Z
+    created: 2018-12-19T14:34:54.978124437Z
     description: Presslabs WordPress Operator Helm Chart
     digest: 9a0ad31d72fc9ff6959b2a16e3ad3fc08de61dc62687fb67ef55993a4e174f74
     name: wordpress-operator
@@ -534,7 +551,7 @@ entries:
     version: v0.1.6
   - apiVersion: v1
     appVersion: v0.1.4
-    created: 2018-12-14T15:20:15.419733597Z
+    created: 2018-12-19T14:34:54.97792923Z
     description: A Helm chart for Kubernetes
     digest: 23fbba8a5bca54a8724076767922a1ff7c2e24db01a209e353629fb1a375e15d
     name: wordpress-operator
@@ -543,7 +560,7 @@ entries:
     version: v0.1.4
   - apiVersion: v1
     appVersion: v0.1.3
-    created: 2018-12-14T15:20:15.419528843Z
+    created: 2018-12-19T14:34:54.977739076Z
     description: A Helm chart for Kubernetes
     digest: 063316fa33a0947e64c0307fed3264c34a2a323de9612d998b55a550509f4f3d
     name: wordpress-operator
@@ -552,7 +569,7 @@ entries:
     version: v0.1.3
   - apiVersion: v1
     appVersion: v0.1.2
-    created: 2018-12-14T15:20:15.41933315Z
+    created: 2018-12-19T14:34:54.977545422Z
     description: A Helm chart for Kubernetes
     digest: a89cb1d3521f459888592260bb0248919e0d99e9b12da5aa9cbb0b6679dcc67a
     name: wordpress-operator
@@ -561,7 +578,7 @@ entries:
     version: v0.1.2
   - apiVersion: v1
     appVersion: v0.1.0
-    created: 2018-12-14T15:20:15.419139634Z
+    created: 2018-12-19T14:34:54.977357533Z
     description: A Helm chart for Kubernetes
     digest: dc3179d8c521f04b81b7dfb57729eb496d2c903f023a434a35da1da3146827fa
     name: wordpress-operator
@@ -571,7 +588,7 @@ entries:
   wordpress-site:
   - apiVersion: v1
     appVersion: 0.1.2
-    created: 2018-12-14T15:20:15.421150761Z
+    created: 2018-12-19T14:34:54.979407592Z
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: b3942c62b70d3a005b0b0876d2a46991be9b21f7aeb31ffea65c7c08fe6e401e
     name: wordpress-site
@@ -580,11 +597,11 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.1.1
-    created: 2018-12-14T15:20:15.420950929Z
+    created: 2018-12-19T14:34:54.979200093Z
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: e20c5478e27c87cc3ab19dcfc2394965126e8359db3c5a06acdc5c582ab54e53
     name: wordpress-site
     urls:
     - https://presslabs.github.io/charts/wordpress-site-0.1.1.tgz
     version: 0.1.1
-generated: 2018-12-14T15:20:15.383120616Z
+generated: 2018-12-19T14:34:54.939785285Z
