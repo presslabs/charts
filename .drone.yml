@@ -1,17 +1,35 @@
-pipeline:
-  update-chart-index:
-    image: presslabs/kluster-toolbox
-    pull: true
-    secrets:
-      - SSH_KEY
-    commands:
-      - /usr/local/bin/setup-credentials-helper.sh
-      - git config --global user.email "bot@presslabs.com"
-      - git config --global user.name "Igor Debot"
-      - git config --global push.default current
-      - git remote set-url origin git@github.com:presslabs/charts.git
-      - ssh-keyscan -H github.com > /etc/ssh/ssh_known_hosts
-      - make index
-      - make publish
-    when:
-      branch: master
+---
+kind: pipeline
+name: default
+
+steps:
+- name: git
+  pull: default
+  image: plugins/git
+  settings:
+    depth: 0
+  tags: true
+
+- name: update-chart-index
+  image: presslabs/build:stable
+  pull: always
+  environment:
+    DOCKER_HOST: unix:///workspace/docker.sock
+    GOOGLE_CREDENTIALS:
+      from_secret: PL_INFRA_GCR_IO_PUSH
+    GIT_USER: presslabs-bot
+    GIT_PASSWORD:
+      from_secret: GH_PASSWORD
+  commands:
+    - /usr/local/bin/setup-credentials-helper.sh
+    - git remote set-url origin git@github.com:presslabs/charts.git
+    - ssh-keyscan -H github.com > /etc/ssh/ssh_known_hosts
+    - make index
+    - make publish
+  when:
+    branch: master
+---
+kind: signature
+hmac: 101560f5ae04f9d8fd45f4fe160b822b3815872bda626f2f47cf433c484c05e4
+
+...

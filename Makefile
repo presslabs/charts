@@ -6,5 +6,4 @@ index:
 publish:
 	git add docs/*
 	git commit -m "Republish charts [CI SKIP]"
-	git pull --no-edit origin master
-	git push
+	git push origin master
