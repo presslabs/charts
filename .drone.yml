@@ -1,3 +1,4 @@
+---
 pipeline:
   update-chart-index:
     image: presslabs/kluster-toolbox
@@ -15,3 +16,8 @@ pipeline:
       - make publish
     when:
       branch: master
+---
+kind: signature
+hmac: b6bdac8f5036ca5a0530e651d53ac1d6490756e2ab53182c6314d3a7b7f474aa
+
+...
