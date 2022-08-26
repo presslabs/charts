@@ -3,11 +3,25 @@ kind: pipeline
 name: default
 
 steps:
+- name: git
+  pull: default
+  image: plugins/git
+  settings:
+    depth: 0
+  tags: true
+
 - name: update-chart-index
-  image: presslabs/kluster-toolbox
+  image: presslabs/build:stable
   pull: always
-  secrets:
-    - SSH_KEY
+  # secrets:
+  #   - SSH_KEY
+  environment:
+    DOCKER_HOST: unix:///workspace/docker.sock
+    GOOGLE_CREDENTIALS:
+      from_secret: PL_INFRA_GCR_IO_PUSH
+    GIT_USER: presslabs-bot
+    GIT_PASSWORD:
+      from_secret: GH_PASSWORD
   commands:
     - /usr/local/bin/setup-credentials-helper.sh
     - git config --global user.email "bot@presslabs.com"
@@ -21,6 +35,6 @@ steps:
     branch: master
 ---
 kind: signature
-hmac: 04dcf946a1e59376c5c106fc712ca5a2031bf92c3a86e634360812df80ed52b6
+hmac: 7eaacae4ad7ac9ca07ff4b21336bf6209f53e2f804e9d06e4bc3c5bd40af045a
 
 ...
