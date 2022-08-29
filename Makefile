@@ -4,6 +4,7 @@ index:
 
 .PHONY: publish
 publish:
+	git branch
 	git add docs/*
 	git commit -m "Republish charts [CI SKIP]"
-	git push origin master
+	git push

@@ -29,6 +29,7 @@ steps:
       from_secret: GH_PASSWORD
   commands:
     - /usr/local/bin/setup-credentials-helper.sh
+    - git config --global push.default current
     - git remote set-url origin git@github.com:presslabs/charts.git
     - ssh-keyscan -H github.com > /etc/ssh/ssh_known_hosts
     - make index
