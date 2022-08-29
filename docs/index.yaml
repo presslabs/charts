@@ -3,26 +3,28 @@ entries:
   calcium:
   - apiVersion: v2
     appVersion: v0.0.0-test.1
-    created: 2022-08-26T13:05:33.067807393Z
+    created: "2022-08-29T10:31:02.621763902Z"
     description: Presslabs Cache Manager
     digest: 38714d46a9b50c222c2fe2ce1d7318385194cf06248bb6f551e56a3f766c9d4b
     name: calcium
+    type: application
     urls:
     - https://presslabs.github.io/charts/calcium-0.0.0-test.1.tgz
     version: 0.0.0-test.1
   - apiVersion: v2
     appVersion: v0.0.0-test.0.dev.1+d8f7ea95
-    created: 2022-08-26T13:05:33.067403197Z
+    created: "2022-08-29T10:31:02.621342856Z"
     description: Presslabs Cache Manager
     digest: a53f1e74e5ccef0767af3be492055399704c915243642f752964e8e0ae40200f
     name: calcium
+    type: application
     urls:
     - https://presslabs.github.io/charts/calcium-0.0.0-test.0.dev.1+d8f7ea95.tgz
     version: 0.0.0-test.0.dev.1+d8f7ea95
   dashboard:
   - apiVersion: v1
     appVersion: v1.0.0-rc.6-dirty
-    created: 2022-08-26T13:05:33.075114246Z
+    created: "2022-08-29T10:31:02.634656819Z"
     description: Presslabs Dashboard Helm Chart
     digest: 3e202ad13d7fb101f7e3d4bff5cdb8fb7c6ba6ad87a3b881b033ac7f30229820
     name: dashboard
@@ -31,7 +33,7 @@ entries:
     version: v1.0.0-rc.6-dirty
   - apiVersion: v1
     appVersion: v1.0.0-rc.3-dirty
-    created: 2022-08-26T13:05:33.073973978Z
+    created: "2022-08-29T10:31:02.633572702Z"
     description: Presslabs Dashboard Helm Chart
     digest: beda120c0e7ae27a64edc2e36e9dcf93e3d939a0c2ca902662a6e97332ca53bf
     name: dashboard
@@ -40,7 +42,7 @@ entries:
     version: v1.0.0-rc.3-dirty
   - apiVersion: v1
     appVersion: v1.0.0-rc.2-dirty
-    created: 2022-08-26T13:05:33.073326048Z
+    created: "2022-08-29T10:31:02.632568667Z"
     description: Presslabs Dashboard Helm Chart
     digest: f45a2212f76cadfcb6fa14beef997428aba9801e9aab56c49560ddde8a60ee4f
     name: dashboard
@@ -49,7 +51,7 @@ entries:
     version: v1.0.0-rc.2-dirty
   - apiVersion: v1
     appVersion: v1.0.0-rc.1-dirty
-    created: 2022-08-26T13:05:33.072716819Z
+    created: "2022-08-29T10:31:02.631560371Z"
     description: Presslabs Dashboard Helm Chart
     digest: 0be8dc6ecb710b462b2228e187b730c965246be9aff7ae7418f72fbf11984b20
     name: dashboard
@@ -58,7 +60,7 @@ entries:
     version: v1.0.0-rc.1-dirty
   - apiVersion: v1
     appVersion: v1.0.0-rc.0-dirty
-    created: 2022-08-26T13:05:33.0721408Z
+    created: "2022-08-29T10:31:02.630523495Z"
     description: Presslabs Dashboard Helm Chart
     digest: af2295c5917d9bfb3be4f4d8427a5bbb5d21dc187701cbd486b103168073a43b
     name: dashboard
@@ -67,7 +69,7 @@ entries:
     version: v1.0.0-rc.0-dirty
   - apiVersion: v1
     appVersion: v0.0.16-dirty
-    created: 2022-08-26T13:05:33.070496305Z
+    created: "2022-08-29T10:31:02.627604811Z"
     description: Presslabs Dashboard Helm Chart
     digest: f313144e0111b308395e939ca5bb1b6839e68a9e6056ac1bd15cef557bcbe9fe
     name: dashboard
@@ -76,7 +78,7 @@ entries:
     version: v0.0.16-dirty
   - apiVersion: v1
     appVersion: v0.0.15-dirty
-    created: 2022-08-26T13:05:33.070022857Z
+    created: "2022-08-29T10:31:02.626445744Z"
     description: Presslabs Dashboard Helm Chart
     digest: c156820c8400ca23ec51b74e48a18b9e9c543f71b22297f835e80285ca82a5c3
     name: dashboard
@@ -85,7 +87,7 @@ entries:
     version: v0.0.15-dirty
   - apiVersion: v1
     appVersion: v0.0.14-dirty
-    created: 2022-08-26T13:05:33.06955065Z
+    created: "2022-08-29T10:31:02.62488151Z"
     description: Presslabs Dashboard Helm Chart
     digest: 19d05eec51411acc7368e5dfab7b93dfcf67c95468628b4593e990e4be70baa5
     name: dashboard
@@ -94,7 +96,7 @@ entries:
     version: v0.0.14-dirty
   - apiVersion: v1
     appVersion: v0.0.13-dirty
-    created: 2022-08-26T13:05:33.069090723Z
+    created: "2022-08-29T10:31:02.624103228Z"
     description: Presslabs Dashboard Helm Chart
     digest: a9b8e161e9504239086dfe96da1c03dfbf66ad0d07dd6b033a1c05c862bd2c7d
     name: dashboard
@@ -103,7 +105,7 @@ entries:
     version: v0.0.13-dirty
   - apiVersion: v1
     appVersion: v0.0.12-dirty
-    created: 2022-08-26T13:05:33.068659296Z
+    created: "2022-08-29T10:31:02.623306556Z"
     description: Presslabs Dashboard Helm Chart
     digest: d0a1123f10e168429c9fd5c3296576acd5af9345c7e370a960a359831614600c
     name: dashboard
@@ -112,7 +114,7 @@ entries:
     version: v0.0.12-dirty
   - apiVersion: v1
     appVersion: v0.0.11-dirty
-    created: 2022-08-26T13:05:33.06823234Z
+    created: "2022-08-29T10:31:02.622512294Z"
     description: Presslabs Dashboard Helm Chart
     digest: 242fcaa0e46afed9b35b348e9a4772118d56ecb24e650d135ee096e09adc35d7
     name: dashboard
@@ -121,7 +123,7 @@ entries:
     version: v0.0.11-dirty
   - apiVersion: v1
     appVersion: v0.0.9-dirty
-    created: 2022-08-26T13:05:33.071549411Z
+    created: "2022-08-29T10:31:02.62948882Z"
     description: Presslabs Dashboard Helm Chart
     digest: 3b63fb41531ea94b34068cc4eb2292ef3f5025d37e789ffeeb09954f0aae640a
     name: dashboard
@@ -130,7 +132,7 @@ entries:
     version: v0.0.9-dirty
   - apiVersion: v1
     appVersion: v0.0.8-dirty
-    created: 2022-08-26T13:05:33.071022443Z
+    created: "2022-08-29T10:31:02.628566946Z"
     description: Presslabs Dashbaord Helm Chart
     digest: f618beff094cab7d5d5e06cf3772f2387853072e850baeb3656e7e2bdf0e5b12
     name: dashboard
@@ -140,7 +142,7 @@ entries:
   db-operator:
   - apiVersion: v1
     appVersion: v0.5.0
-    created: 2022-08-26T13:05:33.113563378Z
+    created: "2022-08-29T10:31:02.659733411Z"
     description: A Helm chart for db operator
     digest: 1482126f008463e60506f4c665eb265a8582ecfc20fca1e7dbf092af539b80c3
     home: https://github.com/presslabs/db-operator
@@ -157,7 +159,7 @@ entries:
     version: v0.5.0
   - apiVersion: v1
     appVersion: v0.5.0-test.3
-    created: 2022-08-26T13:05:33.089413896Z
+    created: "2022-08-29T10:31:02.645708488Z"
     description: A Helm chart for db operator
     digest: 34a8f229897a659caed7b92ff7dbf0eac837e4f901ac422c1695261713c0c00e
     home: https://github.com/presslabs/db-operator
@@ -174,7 +176,7 @@ entries:
     version: 0.5.0-test.3
   - apiVersion: v1
     appVersion: v0.5.0-test.0.dev.6+7772ca6a
-    created: 2022-08-26T13:05:33.086968058Z
+    created: "2022-08-29T10:31:02.642674181Z"
     description: A Helm chart for db operator
     digest: 5cf1524d2604eec765ca7d706342bf30a7668a024840ecf2c411b9ee5099c17a
     home: https://github.com/presslabs/db-operator
@@ -191,7 +193,7 @@ entries:
     version: 0.5.0-test.0.dev.6+7772ca6a
   - apiVersion: v1
     appVersion: v0.5.0-rc.8
-    created: 2022-08-26T13:05:33.106009062Z
+    created: "2022-08-29T10:31:02.65770055Z"
     description: A Helm chart for db operator
     digest: 64dbf9c03cdcd84045c464c6a7fae680d566315721c867674c5759cdbb93dc03
     home: https://github.com/presslabs/db-operator
@@ -208,7 +210,7 @@ entries:
     version: v0.5.0-rc.8
   - apiVersion: v1
     appVersion: v0.5.0-rc.7
-    created: 2022-08-26T13:05:33.10137299Z
+    created: "2022-08-29T10:31:02.656239368Z"
     description: A Helm chart for db operator
     digest: ab238ff0ad2913106651be90bcd26077a9d1d912fe42c0e9476b1ca769a508cd
     home: https://github.com/presslabs/db-operator
@@ -225,7 +227,7 @@ entries:
     version: v0.5.0-rc.7
   - apiVersion: v1
     appVersion: v0.5.0-rc.6
-    created: 2022-08-26T13:05:33.099208447Z
+    created: "2022-08-29T10:31:02.654786395Z"
     description: A Helm chart for db operator
     digest: 277cbc553c016cbd0a00c44f55f64b8c5d6b1c8443abeee584e2f6379ca8a1e4
     home: https://github.com/presslabs/db-operator
@@ -242,7 +244,7 @@ entries:
     version: v0.5.0-rc.6
   - apiVersion: v1
     appVersion: v0.5.0-rc.5
-    created: 2022-08-26T13:05:33.096950432Z
+    created: "2022-08-29T10:31:02.651455325Z"
     description: A Helm chart for db operator
     digest: 268e19b5a208106c3ef57e34a11932dfd56fb3670760527792204f5e956a55cd
     home: https://github.com/presslabs/db-operator
@@ -259,7 +261,7 @@ entries:
     version: v0.5.0-rc.5
   - apiVersion: v1
     appVersion: v0.5.0-rc.4
-    created: 2022-08-26T13:05:33.094724018Z
+    created: "2022-08-29T10:31:02.6485377Z"
     description: A Helm chart for db operator
     digest: cbff29499451abc69c09457f8687ebfdc32b7dcd4a01432a7ceea6f4ed9aee54
     home: https://github.com/presslabs/db-operator
@@ -276,7 +278,7 @@ entries:
     version: v0.5.0-rc.4
   - apiVersion: v1
     appVersion: master
-    created: 2022-08-26T13:05:33.084525931Z
+    created: "2022-08-29T10:31:02.639148577Z"
     description: A Helm chart for db operator
     digest: 229cd2839d7488bc68d0f831026dc492397f1953330c5e8ba50468295dee9d52
     home: https://github.com/presslabs/db-operator
@@ -292,8 +294,9 @@ entries:
     - https://presslabs.github.io/charts/db-operator-0.1.1+master.tgz
     version: 0.1.1+master
   locust:
-  - appVersion: 0.7.5
-    created: 2022-08-26T13:05:33.113953774Z
+  - apiVersion: v1
+    appVersion: 0.7.5
+    created: "2022-08-29T10:31:02.660022225Z"
     description: A modern load testing framework
     digest: 3beb7babcd333cd3542cc19c13c5894e3816fd0ddd877d40c7d1ff50104c77e4
     home: http://locust.io
@@ -310,7 +313,7 @@ entries:
   mysql-cluster:
   - apiVersion: v1
     appVersion: v0.5.0-test.3
-    created: 2022-08-26T13:05:33.115808213Z
+    created: "2022-08-29T10:31:02.661400947Z"
     description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
     digest: 858e4c00f9c8202345cc481bb64426e87337aac7ed81e8255de257426c429c55
     name: mysql-cluster
@@ -319,7 +322,7 @@ entries:
     version: 0.5.0-test.3
   - apiVersion: v1
     appVersion: v0.5.0-test.0.dev.6+7772ca6a
-    created: 2022-08-26T13:05:33.115580829Z
+    created: "2022-08-29T10:31:02.661213474Z"
     description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
     digest: bc0e8f2c2b62d45180fc6a0dd55eec96317bd64ce84cc209a50f7aefde55b847
     name: mysql-cluster
@@ -328,7 +331,7 @@ entries:
     version: 0.5.0-test.0.dev.6+7772ca6a
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2022-08-26T13:05:33.115347916Z
+    created: "2022-08-29T10:31:02.661027971Z"
     description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
     digest: d54126c133b18233d686b6580f3a412e6c331a28c3e90abca0db8fbdb4018322
     name: mysql-cluster
@@ -337,7 +340,7 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2022-08-26T13:05:33.115127752Z
+    created: "2022-08-29T10:31:02.660850968Z"
     description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
     digest: 2c666e39eda46a0ed6e3dcedbab563952a810e279ec2263688f017aa3109bec0
     name: mysql-cluster
@@ -346,7 +349,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2022-08-26T13:05:33.114898239Z
+    created: "2022-08-29T10:31:02.660671085Z"
     description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
     digest: 722a1caa47790d21fa5a125f89861dfd36ea022767212c3bf9f6b1c8a6ae47fb
     name: mysql-cluster
@@ -355,7 +358,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2022-08-26T13:05:33.114666805Z
+    created: "2022-08-29T10:31:02.660503333Z"
     description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
     digest: 52ba49acc128eeef127d58ac454103ff0085b74cfec9b9e5430dc5d7d34de51c
     name: mysql-cluster
@@ -364,7 +367,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2022-08-26T13:05:33.114410081Z
+    created: "2022-08-29T10:31:02.66033684Z"
     description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
     digest: f7108f4bae49e9972ac39e670b5b7b510e4da9a0920d2a3a78277be88a3b24f0
     name: mysql-cluster
@@ -373,7 +376,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2022-08-26T13:05:33.114189548Z
+    created: "2022-08-29T10:31:02.660173388Z"
     description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
     digest: 6bbcc9e9e9b86f16439ecdc81f6dfc9cb366f858b95d6b0782d02e562b5ebd49
     name: mysql-cluster
@@ -383,7 +386,7 @@ entries:
   mysql-operator:
   - apiVersion: v1
     appVersion: v0.5.0-rc.3
-    created: 2022-08-26T13:05:33.157326013Z
+    created: "2022-08-29T10:31:02.700550353Z"
     description: A Helm chart for mysql operator
     digest: 2fc5120b1b76fe785fda20545a19ca8e1f1c333d657b579015a25e49a0bf1e7b
     home: https://github.com/presslabs/mysql-operator
@@ -400,7 +403,7 @@ entries:
     version: 0.5.0-rc.3
   - apiVersion: v1
     appVersion: v0.5.0-rc.2
-    created: 2022-08-26T13:05:33.155164849Z
+    created: "2022-08-29T10:31:02.697631228Z"
     description: A Helm chart for mysql operator
     digest: 43555392d0f362e4422fa2e7bbd6a9366783d978d353afd808b2b2abe990476d
     home: https://github.com/presslabs/mysql-operator
@@ -417,7 +420,7 @@ entries:
     version: 0.5.0-rc.2
   - apiVersion: v1
     appVersion: v0.5.0-rc.1
-    created: 2022-08-26T13:05:33.148647769Z
+    created: "2022-08-29T10:31:02.694821126Z"
     description: A Helm chart for mysql operator
     digest: 87d5e753b556bbe25d000284ecfd8699c953b1fb6f0af101608ebab841c265e2
     home: https://github.com/presslabs/mysql-operator
@@ -434,7 +437,7 @@ entries:
     version: 0.5.0-rc.1
   - apiVersion: v1
     appVersion: v0.4.0
-    created: 2022-08-26T13:05:33.148025099Z
+    created: "2022-08-29T10:31:02.693412284Z"
     description: A Helm chart for mysql operator
     digest: 7b3096ab6d84e49e6df90500507be4de26a27d7ffe90496bd478471f52580a2e
     home: https://github.com/presslabs/mysql-operator
@@ -451,7 +454,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: v0.4.0-rc.1
-    created: 2022-08-26T13:05:33.14742286Z
+    created: "2022-08-29T10:31:02.692810325Z"
     description: A Helm chart for mysql operator
     digest: efc3219c0c1a0989959a116cd1ac4f4047ada81b9f3fe955e4a5da2b811e42e7
     home: https://github.com/presslabs/mysql-operator
@@ -468,7 +471,7 @@ entries:
     version: 0.4.0-rc.1
   - apiVersion: v1
     appVersion: v0.3.10
-    created: 2022-08-26T13:05:33.142338841Z
+    created: "2022-08-29T10:31:02.687724118Z"
     description: A Helm chart for mysql operator
     digest: a5e7777f07c33de0eb56638b9886405b19925fdd876ce79789ef43cb5e74f97e
     home: https://github.com/presslabs/mysql-operator
@@ -485,7 +488,7 @@ entries:
     version: 0.3.10
   - apiVersion: v1
     appVersion: v0.3.9
-    created: 2022-08-26T13:05:33.146867441Z
+    created: "2022-08-29T10:31:02.692234596Z"
     description: A Helm chart for mysql operator
     digest: 9d7a37ca1b4fccff21384af1e4024c1883ef313f33da118344496a9b911fa599
     home: https://github.com/presslabs/mysql-operator
@@ -502,7 +505,7 @@ entries:
     version: 0.3.9
   - apiVersion: v1
     appVersion: v0.3.8
-    created: 2022-08-26T13:05:33.146288502Z
+    created: "2022-08-29T10:31:02.691677128Z"
     description: A Helm chart for mysql operator
     digest: b2bc16971aad767dd700b0496f0b7835249ce4422b27ffbf773a89e09159a769
     home: https://github.com/presslabs/mysql-operator
@@ -519,7 +522,7 @@ entries:
     version: 0.3.8
   - apiVersion: v1
     appVersion: v0.3.7
-    created: 2022-08-26T13:05:33.145731864Z
+    created: "2022-08-29T10:31:02.6911181Z"
     description: A Helm chart for mysql operator
     digest: fc86ce651c9b6676b455e290c7f135efb472ca76519767bb89e66bcd1769b431
     home: https://github.com/presslabs/mysql-operator
@@ -536,7 +539,7 @@ entries:
     version: 0.3.7
   - apiVersion: v1
     appVersion: v0.3.6
-    created: 2022-08-26T13:05:33.145181365Z
+    created: "2022-08-29T10:31:02.690553241Z"
     description: A Helm chart for mysql operator
     digest: 856cb83b5d5612e68d5cb8d75901a54e77285617770f9dc9bed8be1bb240cc28
     home: https://github.com/presslabs/mysql-operator
@@ -553,7 +556,7 @@ entries:
     version: 0.3.6
   - apiVersion: v1
     appVersion: v0.3.5
-    created: 2022-08-26T13:05:33.144627097Z
+    created: "2022-08-29T10:31:02.689978552Z"
     description: A Helm chart for mysql operator
     digest: a288ac45ad2a189d924f891646021e514fd3f00f06c0d0634a2d602f9af7f22d
     home: https://github.com/presslabs/mysql-operator
@@ -570,7 +573,7 @@ entries:
     version: 0.3.5
   - apiVersion: v1
     appVersion: v0.3.4
-    created: 2022-08-26T13:05:33.144073988Z
+    created: "2022-08-29T10:31:02.689426424Z"
     description: A Helm chart for mysql operator
     digest: e1d7e784db8727244c913d37b035f14d4f5656e0871f738d93af325265c56fc2
     home: https://github.com/presslabs/mysql-operator
@@ -587,7 +590,7 @@ entries:
     version: 0.3.4
   - apiVersion: v1
     appVersion: v0.3.3
-    created: 2022-08-26T13:05:33.143509029Z
+    created: "2022-08-29T10:31:02.688861615Z"
     description: A Helm chart for mysql operator
     digest: c1810400649969c3219f4a47dd94d150602e25eccc0f67edc698077bc3ea936d
     home: https://github.com/presslabs/mysql-operator
@@ -604,7 +607,7 @@ entries:
     version: 0.3.3
   - apiVersion: v1
     appVersion: v0.3.2
-    created: 2022-08-26T13:05:33.142948121Z
+    created: "2022-08-29T10:31:02.688301247Z"
     description: A Helm chart for mysql operator
     digest: 736042fbe97ee2b453d85175a8f267d65e87554a27451167522637d73625d1ca
     home: https://github.com/presslabs/mysql-operator
@@ -621,7 +624,7 @@ entries:
     version: 0.3.2
   - apiVersion: v1
     appVersion: v0.3.1
-    created: 2022-08-26T13:05:33.141779473Z
+    created: "2022-08-29T10:31:02.686270676Z"
     description: A Helm chart for mysql operator
     digest: f77d893489a919f291c18e1563910609c89236552b597bcd97ec150ab4345af8
     home: https://github.com/presslabs/mysql-operator
@@ -638,7 +641,7 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: v0.3.0
-    created: 2022-08-26T13:05:33.141225034Z
+    created: "2022-08-29T10:31:02.685451463Z"
     description: A Helm chart for mysql operator
     digest: 5aa5fe68190f713c8e46749bbe98ac830443f26adf2947b4f3dd51aa65f6ab83
     home: https://github.com/presslabs/mysql-operator
@@ -655,7 +658,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: v0.3.0-rc.3
-    created: 2022-08-26T13:05:33.140663356Z
+    created: "2022-08-29T10:31:02.68460685Z"
     description: A Helm chart for mysql operator
     digest: 0da86651ac974bae202f4be7aa4f31159148d25e8e2b8b309994d62ffc0dedb5
     home: https://github.com/presslabs/mysql-operator
@@ -672,7 +675,11 @@ entries:
     version: 0.3.0-rc.3
   - apiVersion: v1
     appVersion: v0.3.0-rc.1
-    created: 2022-08-26T13:05:33.140122407Z
+    created: "2022-08-29T10:31:02.683848509Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.5
     description: A Helm chart for mysql operator
     digest: 1b12c25f349ca7a08e35fa143aead9aa350e083dcc4cca2e1ea8e5d3d26501bb
     home: https://github.com/presslabs/mysql-operator
@@ -689,7 +696,11 @@ entries:
     version: 0.3.0-rc.1
   - apiVersion: v1
     appVersion: v0.2.10
-    created: 2022-08-26T13:05:33.128140203Z
+    created: "2022-08-29T10:31:02.675171636Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.5
     description: A Helm chart for mysql operator
     digest: 2edfb569e6003cddf7a8515fd8801a3ff2e7573ac1c00d78fcb5b44bf8aadb4d
     home: https://github.com/presslabs/mysql-operator
@@ -706,7 +717,11 @@ entries:
     version: 0.2.10
   - apiVersion: v1
     appVersion: v0.2.9
-    created: 2022-08-26T13:05:33.139450777Z
+    created: "2022-08-29T10:31:02.682934185Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.5
     description: A Helm chart for mysql operator
     digest: 0e37e2ed8c582bc14dd614b01a25214178bc33e6650cabf45dea8db17aaf369c
     home: https://github.com/presslabs/mysql-operator
@@ -723,7 +738,11 @@ entries:
     version: 0.2.9
   - apiVersion: v1
     appVersion: v0.2.8-dirty
-    created: 2022-08-26T13:05:33.137404846Z
+    created: "2022-08-29T10:31:02.682065421Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.5
     description: A Helm chart for mysql operator
     digest: d07612be1d3dac1285a0b6edeb758598cd73db263c02c17c4d27175c96bf2b52
     home: https://github.com/presslabs/mysql-operator
@@ -740,7 +759,11 @@ entries:
     version: 0.2.8-dirty
   - apiVersion: v1
     appVersion: v0.2.7
-    created: 2022-08-26T13:05:33.136280248Z
+    created: "2022-08-29T10:31:02.681150007Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.5
     description: A Helm chart for mysql operator
     digest: a2c3e600a89009d9f951411a936106b52029054cd1a0c890a2812252bb9fcec2
     home: https://github.com/presslabs/mysql-operator
@@ -757,7 +780,11 @@ entries:
     version: 0.2.7
   - apiVersion: v1
     appVersion: v0.2.6
-    created: 2022-08-26T13:05:33.135226712Z
+    created: "2022-08-29T10:31:02.680298714Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.5
     description: A Helm chart for mysql operator
     digest: 83c10c36f23277debcf26c453846a6a2ba1962ae6aa0c0a54981b79ffd8ef45b
     home: https://github.com/presslabs/mysql-operator
@@ -774,7 +801,11 @@ entries:
     version: 0.2.6
   - apiVersion: v1
     appVersion: v0.2.5
-    created: 2022-08-26T13:05:33.134189936Z
+    created: "2022-08-29T10:31:02.679448171Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.5
     description: A Helm chart for mysql operator
     digest: 8b0df3868d4ca5f3cd76c0bae059192204f118c0df77c2711a276f32f21c8d53
     home: https://github.com/presslabs/mysql-operator
@@ -791,7 +822,11 @@ entries:
     version: 0.2.5
   - apiVersion: v1
     appVersion: v0.2.4
-    created: 2022-08-26T13:05:33.13314374Z
+    created: "2022-08-29T10:31:02.678449146Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.5
     description: A Helm chart for mysql operator
     digest: e1ce16be22ea647ba611af8c951c969818113cdb894a15053949a8f496c2c20e
     home: https://github.com/presslabs/mysql-operator
@@ -808,7 +843,11 @@ entries:
     version: 0.2.4
   - apiVersion: v1
     appVersion: v0.2.3
-    created: 2022-08-26T13:05:33.129401602Z
+    created: "2022-08-29T10:31:02.677435161Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.5
     description: A Helm chart for mysql operator
     digest: 97e5958e24b60f5bfceea2fe1f0fce27bc4aa97b4bc670fd522973dc5f2239a9
     home: https://github.com/presslabs/mysql-operator
@@ -825,7 +864,11 @@ entries:
     version: 0.2.3
   - apiVersion: v1
     appVersion: v0.2.2
-    created: 2022-08-26T13:05:33.128776872Z
+    created: "2022-08-29T10:31:02.676012739Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.5
     description: A Helm chart for mysql operator
     digest: ca8eddb8fb8bd92efbeb0c024f6c0da23b4b77cd7b72e8e51a1ea5aefe40a9bf
     home: https://github.com/presslabs/mysql-operator
@@ -842,7 +885,11 @@ entries:
     version: 0.2.2
   - apiVersion: v1
     appVersion: v0.2.1
-    created: 2022-08-26T13:05:33.127531033Z
+    created: "2022-08-29T10:31:02.674307193Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.5
     description: A Helm chart for mysql operator
     digest: 05797def09d8bd1addf023ad45e573505fbd41bb5eccb2c5d37267baa2a66f28
     home: https://github.com/presslabs/mysql-operator
@@ -859,7 +906,11 @@ entries:
     version: 0.2.1
   - apiVersion: v1
     appVersion: v0.2.0
-    created: 2022-08-26T13:05:33.126937694Z
+    created: "2022-08-29T10:31:02.67346509Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.5
     description: A Helm chart for mysql operator
     digest: 22c9a31a2f6b92e7894b9f7a455c00799172fe4e86759ab749377c68062ab6b5
     home: https://github.com/presslabs/mysql-operator
@@ -876,7 +927,11 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 0.1.14
-    created: 2022-08-26T13:05:33.119791884Z
+    created: "2022-08-29T10:31:02.665160724Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.3
     description: A Helm chart for mysql operator
     digest: 87a238b81dd901dc255d74d04ae7362460494a5124401518ad92b8f34fa47266
     home: https://github.com/presslabs/mysql-operator
@@ -893,7 +948,11 @@ entries:
     version: 0.1.14
   - apiVersion: v1
     appVersion: 0.1.13
-    created: 2022-08-26T13:05:33.119222045Z
+    created: "2022-08-29T10:31:02.664612906Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.3
     description: A Helm chart for mysql operator
     digest: 541b53bd7a82d2c7f88f8283a6c4c264ce59786ca5a547c71e3ade64900e9cd8
     home: https://github.com/presslabs/mysql-operator
@@ -910,7 +969,11 @@ entries:
     version: 0.1.13
   - apiVersion: v1
     appVersion: 0.1.12
-    created: 2022-08-26T13:05:33.118656917Z
+    created: "2022-08-29T10:31:02.664067277Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.3
     description: A Helm chart for mysql operator
     digest: 5c72fbe988944d701668a7003ed53d90ee9256b824ce3bc1095d5e9aba3e1f50
     home: https://github.com/presslabs/mysql-operator
@@ -927,7 +990,11 @@ entries:
     version: 0.1.12
   - apiVersion: v1
     appVersion: 0.1.11
-    created: 2022-08-26T13:05:33.118059928Z
+    created: "2022-08-29T10:31:02.663526849Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.3
     description: A Helm chart for mysql operator
     digest: 0321d6c40e380181d08cea70d09946849e218a15a06c638dfb76d6e4afa2ae47
     home: https://github.com/presslabs/mysql-operator
@@ -944,7 +1011,11 @@ entries:
     version: 0.1.11
   - apiVersion: v1
     appVersion: 0.1.10
-    created: 2022-08-26T13:05:33.117488219Z
+    created: "2022-08-29T10:31:02.662986191Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.3
     description: A Helm chart for mysql operator
     digest: a42d55e76959e124c37de5ad015f6bf0f959e19feaa8007849631fb26856154c
     home: https://github.com/presslabs/mysql-operator
@@ -961,7 +1032,11 @@ entries:
     version: 0.1.10
   - apiVersion: v1
     appVersion: 0.1.9
-    created: 2022-08-26T13:05:33.126326615Z
+    created: "2022-08-29T10:31:02.672605937Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.3
     description: A Helm chart for mysql operator
     digest: 7a0589367f976011215c951450a057d54d1608521209efa7af1ad8d9e3c6d435
     home: https://github.com/presslabs/mysql-operator
@@ -978,7 +1053,11 @@ entries:
     version: 0.1.9
   - apiVersion: v1
     appVersion: 0.1.8
-    created: 2022-08-26T13:05:33.125749246Z
+    created: "2022-08-29T10:31:02.671803225Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.3
     description: A Helm chart for mysql operator
     digest: c7d4ebb830f7f0a014161473465f39309a7777cb5a93ab7983e09872aa4f382e
     home: https://github.com/presslabs/mysql-operator
@@ -995,7 +1074,11 @@ entries:
     version: 0.1.8
   - apiVersion: v1
     appVersion: 0.1.7
-    created: 2022-08-26T13:05:33.125180477Z
+    created: "2022-08-29T10:31:02.670993992Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.1
     description: A Helm chart for mysql operator
     digest: 13d55c2ac37e6f9ce572764d15281f75be052a9423c84657b04225b9c6736231
     home: https://github.com/presslabs/mysql-operator
@@ -1012,7 +1095,11 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 0.1.6
-    created: 2022-08-26T13:05:33.124560177Z
+    created: "2022-08-29T10:31:02.669975797Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.1
     description: A Helm chart for mysql operator
     digest: 0c13f9f6f9ad124d7cafdcec4e1b83f6e4663811320945813f11750c5595a489
     home: https://github.com/presslabs/mysql-operator
@@ -1029,7 +1116,11 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 0.1.5
-    created: 2022-08-26T13:05:33.121927947Z
+    created: "2022-08-29T10:31:02.668898251Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.1
     description: A Helm chart for mysql operator
     digest: 1f48499051be285792763b27cf2cc7805d964697c45941b9cb4fbcae0088f5bb
     home: https://github.com/presslabs/mysql-operator
@@ -1046,7 +1137,11 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 0.1.3
-    created: 2022-08-26T13:05:33.121333778Z
+    created: "2022-08-29T10:31:02.667874765Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.1
     description: A Helm chart for mysql operator
     digest: ca8daa11099a26ed3a99e0619c16815dca3e5d90bb3d7df6234edaad1742bd27
     home: https://github.com/presslabs/mysql-operator
@@ -1063,7 +1158,11 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 0.1.2
-    created: 2022-08-26T13:05:33.12083633Z
+    created: "2022-08-29T10:31:02.66687176Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.1
     description: A Helm chart for mysql operator
     digest: 0cdf0adc6dbfb30b88ce92866b6fd9fcac687e52bffceec4b604ae1ac43bd747
     home: https://github.com/presslabs/mysql-operator
@@ -1080,7 +1179,11 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.1.1
-    created: 2022-08-26T13:05:33.120299432Z
+    created: "2022-08-29T10:31:02.665650261Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.1
     description: A Helm chart for mysql operator
     digest: 5d64ff2dc05640b3add33bc967ba2e5394a927cb9409c632d12721ca06aad694
     home: https://github.com/presslabs/mysql-operator
@@ -1097,7 +1200,11 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2022-08-26T13:05:33.11689133Z
+    created: "2022-08-29T10:31:02.662436042Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.1
     description: A Helm chart for mysql operator
     digest: 96afe79c6c3d1f84e377ff5448fdad58f4371acaceead057bc8f3322939845a4
     home: https://github.com/presslabs/mysql-operator
@@ -1114,7 +1221,11 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2022-08-26T13:05:33.116341721Z
+    created: "2022-08-29T10:31:02.661938855Z"
+    dependencies:
+    - name: orchestrator
+      repository: https://presslabs.github.io/charts/
+      version: 0.1.1
     description: A Helm chart for mysql operator
     digest: 0e94c02f4cac16ef9204eb8b830695e3846eec5312e9f30525402f64be3c196e
     home: https://github.com/presslabs/mysql-operator
@@ -1132,7 +1243,7 @@ entries:
   orchestrator:
   - apiVersion: v1
     appVersion: 3.0.14
-    created: 2022-08-26T13:05:33.159851202Z
+    created: "2022-08-29T10:31:02.705097753Z"
     description: A Helm chart for github's mysql orchestrator
     digest: b415d00ffbcab8ced7c6de715ae8eed2bb1292441384ffafcc97b6f697731166
     home: https://github.com/github/orchestrator
@@ -1149,7 +1260,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 3.0.14
-    created: 2022-08-26T13:05:33.159462336Z
+    created: "2022-08-29T10:31:02.704444063Z"
     description: A Helm chart for github's mysql orchestrator
     digest: 6b05f67d2e061ccb59919b242237c63b58d47536411cffeb51081414f67ebaa6
     home: https://github.com/github/orchestrator
@@ -1166,7 +1277,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 3.0.13
-    created: 2022-08-26T13:05:33.159154421Z
+    created: "2022-08-29T10:31:02.703965705Z"
     description: A Helm chart for github's mysql orchestrator
     digest: b66b245b8db70dc36230d10f7292ed61874e2292ebf5f1cdea47527f2b2931ba
     home: https://github.com/github/orchestrator
@@ -1183,7 +1294,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 3.0.12
-    created: 2022-08-26T13:05:33.158840376Z
+    created: "2022-08-29T10:31:02.703488818Z"
     description: A Helm chart for github's mysql orchestrator
     digest: fafad844376393af237f1be5a199e4609abe8e919c975f17c71c453f29ddddd5
     home: https://github.com/github/orchestrator
@@ -1200,7 +1311,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 3.0.11
-    created: 2022-08-26T13:05:33.158531871Z
+    created: "2022-08-29T10:31:02.703006941Z"
     description: A Helm chart for github's mysql orchestrator
     digest: c86ca099ea198c63727d697720c4420a1d13f2c3284d04c7e2092f6ed434df9c
     home: https://github.com/github/orchestrator
@@ -1217,7 +1328,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 3.0.11
-    created: 2022-08-26T13:05:33.158223197Z
+    created: "2022-08-29T10:31:02.702538763Z"
     description: A Helm chart for github's mysql orchestrator
     digest: 546b3cc4356586eec423491d1b31fa6e9fde17e2ded0bbc2d9565e4eb986ef33
     home: https://github.com/github/orchestrator
@@ -1234,7 +1345,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 3.0.9
-    created: 2022-08-26T13:05:33.157933532Z
+    created: "2022-08-29T10:31:02.702010885Z"
     description: A Helm chart for github's mysql orchestrator
     digest: a439ac3db815b58be4de1aa0ea569534fea73eafc66fe649f5fdbb2c577a9b82
     home: https://github.com/github/orchestrator
@@ -1251,7 +1362,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 3.0.9
-    created: 2022-08-26T13:05:33.157638878Z
+    created: "2022-08-29T10:31:02.70101347Z"
     description: A Helm chart for github's mysql orchestrator
     digest: d82358c8e113a32dcd3f7f7fda1c866242790fc1eb4cf8e8aa45ccd7ceada56e
     home: https://github.com/github/orchestrator
@@ -1269,7 +1380,28 @@ entries:
   stack:
   - apiVersion: v1
     appVersion: v0.11.0-rc.2
-    created: 2022-08-26T13:05:34.682084365Z
+    created: "2022-08-29T10:31:04.229627469Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0-rc.2
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.0-alpha.1
+    - condition: nginx-ingress.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.23.0
+    - condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 13.13.1
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 80bb92e86ced71078ed2120c83ceb4ed52c28f43ca73c365e004d695a0e3dcec
     name: stack
@@ -1278,7 +1410,28 @@ entries:
     version: v0.11.0-rc.2
   - apiVersion: v1
     appVersion: v0.11.0-rc.1
-    created: 2022-08-26T13:05:34.660110067Z
+    created: "2022-08-29T10:31:04.201848466Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0-rc.2
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.0-alpha.1
+    - condition: nginx-ingress.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.23.0
+    - condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 13.13.1
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: cf5b064baa52b53fabfa7f2ab6285a3d13f343c0cc281cecd50e844d97590c37
     name: stack
@@ -1287,7 +1440,28 @@ entries:
     version: v0.11.0-rc.1
   - apiVersion: v1
     appVersion: v0.10.4
-    created: 2022-08-26T13:05:34.639802594Z
+    created: "2022-08-29T10:31:04.179052088Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.4.0
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.10.5
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://charts.helm.sh/stable
+      version: 9.1.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 760ff55aea00d8199de08fd5ca9f18df64bdc00001c314fea51e459ba5044d72
     name: stack
@@ -1296,7 +1470,28 @@ entries:
     version: v0.10.4
   - apiVersion: v1
     appVersion: v0.10.3
-    created: 2022-08-26T13:05:34.621527493Z
+    created: "2022-08-29T10:31:04.15491433Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.4.0
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.10.5
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.40.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 9.1.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 3526efa7b5697122db510224a5deb120c03a00a139a9cdb1ecb7919ae44164ed
     name: stack
@@ -1305,7 +1500,28 @@ entries:
     version: v0.10.3
   - apiVersion: v1
     appVersion: v0.10.2
-    created: 2022-08-26T13:05:34.600324356Z
+    created: "2022-08-29T10:31:04.13192658Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.4.0
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.10.4
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.40.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 9.1.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 6d31048c812233716f9065647ccdbfae18b66a1d447a0ab69523970f5fbed416
     name: stack
@@ -1314,7 +1530,28 @@ entries:
     version: v0.10.2
   - apiVersion: v1
     appVersion: v0.10.1
-    created: 2022-08-26T13:05:34.580551461Z
+    created: "2022-08-29T10:31:04.108285699Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.4.0
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.10.3
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.40.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 9.1.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 9b46e60f111798a4d7df6d5aca21d6207b0d03147fcb33c9517872cf49d7a1b3
     name: stack
@@ -1323,7 +1560,28 @@ entries:
     version: v0.10.1
   - apiVersion: v1
     appVersion: v0.10.0
-    created: 2022-08-26T13:05:34.55973424Z
+    created: "2022-08-29T10:31:04.083995679Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.4.0
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.10.1
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.40.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 9.1.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 059352ed0cd3470ea02478a42a5f0f52ba5f7bd5ffa1a4bb5b24eae781ff3059
     name: stack
@@ -1332,7 +1590,32 @@ entries:
     version: v0.10.0
   - apiVersion: v1
     appVersion: v0.9.1
-    created: 2022-08-26T13:05:35.311598925Z
+    created: "2022-08-29T10:31:04.931915613Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.10
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.9.1
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.30.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.13.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~8.7.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 90ddd2b685e0e546ff7de3e7ccfcfaad9d76b199e5cafee4558b8afe61df05b7
     name: stack
@@ -1341,7 +1624,32 @@ entries:
     version: v0.9.1
   - apiVersion: v1
     appVersion: v0.9.0
-    created: 2022-08-26T13:05:35.288622701Z
+    created: "2022-08-29T10:31:04.910278214Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.10
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.9.0
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.30.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.13.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~8.7.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: c383c75e155065314cbf0ddaeecb59d5256c6ac07d66495fb52d865c940b7427
     name: stack
@@ -1350,7 +1658,32 @@ entries:
     version: v0.9.0
   - apiVersion: v1
     appVersion: v0.8.5
-    created: 2022-08-26T13:05:35.266613142Z
+    created: "2022-08-29T10:31:04.8851041Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.9
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: v0.8.4
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.30.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.13.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~8.7.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 7447ddbc6fe92bb3e3299e7e4715259746ea1dc2acec9eb88ad47de82b444144
     name: stack
@@ -1359,7 +1692,32 @@ entries:
     version: v0.8.5
   - apiVersion: v1
     appVersion: v0.8.4
-    created: 2022-08-26T13:05:35.246844358Z
+    created: "2022-08-29T10:31:04.86480265Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.9
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: v0.8.4
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.30.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.13.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~8.7.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 4505d115589f304dbb94341c3f64e126db6db5ee44829432164c5726de1af46d
     name: stack
@@ -1368,7 +1726,32 @@ entries:
     version: v0.8.4
   - apiVersion: v1
     appVersion: v0.8.3
-    created: 2022-08-26T13:05:35.225800713Z
+    created: "2022-08-29T10:31:04.843024729Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.8
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: v0.8.4
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.30.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.13.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~8.7.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: c69007e6b549ba8f7c4d7bfe1b06a22dc34caf5d987231203e1139fe19f06224
     name: stack
@@ -1377,7 +1760,32 @@ entries:
     version: v0.8.3
   - apiVersion: v1
     appVersion: v0.8.2
-    created: 2022-08-26T13:05:35.20152317Z
+    created: "2022-08-29T10:31:04.817558Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.8
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.8.3
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.30.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.13.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~8.7.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 4571dc48673992ec798ca236a3c95016ab41dcfe6919e11584171b94f1b73bf7
     name: stack
@@ -1386,7 +1794,32 @@ entries:
     version: v0.8.2
   - apiVersion: v1
     appVersion: v0.8.1
-    created: 2022-08-26T13:05:35.179041503Z
+    created: "2022-08-29T10:31:04.792185363Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.8
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.8.3
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.30.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.13.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~8.7.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 37d84b49ca22b22fff5d134eb42fa4a02f314ce37623a4d8654cd7e6e8ffc249
     name: stack
@@ -1395,7 +1828,32 @@ entries:
     version: v0.8.1
   - apiVersion: v1
     appVersion: v0.8.0
-    created: 2022-08-26T13:05:35.157746975Z
+    created: "2022-08-29T10:31:04.768968949Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.8
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.8.2
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.30.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.13.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~8.7.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: bedeace9007843d795a90a45f7e307dfccbdb555e79daf59276e4ffafe0b5305
     name: stack
@@ -1404,7 +1862,32 @@ entries:
     version: v0.8.0
   - apiVersion: v1
     appVersion: v0.7.5
-    created: 2022-08-26T13:05:35.131985138Z
+    created: "2022-08-29T10:31:04.740497226Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.6
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.7.0
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.29.2
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.12.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~8.5.10
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 439294ef30bac29db8c4a72c7151389975b549b43b5eff4d3bfb7217da4fe4cc
     name: stack
@@ -1413,7 +1896,32 @@ entries:
     version: v0.7.5
   - apiVersion: v1
     appVersion: v0.7.4
-    created: 2022-08-26T13:05:35.106760989Z
+    created: "2022-08-29T10:31:04.71909894Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.5
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.6.3
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.24.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.11.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~6.6.1
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 10d85747a15c3431f40041aca094108c3c6866c324c2109f4a084ebc801dd694
     name: stack
@@ -1422,7 +1930,32 @@ entries:
     version: v0.7.4
   - apiVersion: v1
     appVersion: v0.7.3
-    created: 2022-08-26T13:05:35.092054203Z
+    created: "2022-08-29T10:31:04.699308188Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.4
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.6.3
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.24.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.11.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~6.6.1
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 43aebb85d5dc8e6ce72a273a697b1abdf0e5a38f3790aee2103c2d67289cac45
     name: stack
@@ -1431,7 +1964,32 @@ entries:
     version: v0.7.3
   - apiVersion: v1
     appVersion: v0.7.2
-    created: 2022-08-26T13:05:35.074867038Z
+    created: "2022-08-29T10:31:04.682907878Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.4
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.6.3
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.24.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.11.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~6.6.1
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 3fc25d09b706d29b88094766d733171674cf4a53bba2314f231636fdd3f62590
     name: stack
@@ -1440,7 +1998,32 @@ entries:
     version: v0.7.2
   - apiVersion: v1
     appVersion: v0.7.1
-    created: 2022-08-26T13:05:35.05426224Z
+    created: "2022-08-29T10:31:04.663203257Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.4
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.6.3
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.24.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.11.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~6.6.1
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 4ac92c1dee0385e154273fecbdd1de12c858a1609a367d2a7a05e941f73842ec
     name: stack
@@ -1449,7 +2032,32 @@ entries:
     version: v0.7.1
   - apiVersion: v1
     appVersion: v0.7.0
-    created: 2022-08-26T13:05:35.036596268Z
+    created: "2022-08-29T10:31:04.641033689Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.3
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.6.3
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.24.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.11.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~6.6.1
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: ad2a452c6b87aaa3c45e744db09ca3aa15d2d65a97f6f9a591a002a71f240e90
     name: stack
@@ -1458,7 +2066,32 @@ entries:
     version: v0.7.0
   - apiVersion: v1
     appVersion: v0.7.0-alpha.0
-    created: 2022-08-26T13:05:35.022508411Z
+    created: "2022-08-29T10:31:04.619013314Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.3
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.6.3
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.24.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.11.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~6.6.1
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: a493636da7a19cd7af3408806fef7c147fa71d12c9b7acb31d2cd6a3ff325c57
     name: stack
@@ -1467,7 +2100,32 @@ entries:
     version: v0.7.0-alpha.0
   - apiVersion: v1
     appVersion: v0.6.2
-    created: 2022-08-26T13:05:35.00036178Z
+    created: "2022-08-29T10:31:04.594754824Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.3
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.6.3
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.24.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.10.1
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~6.6.1
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: a34c39a3e43ea72f6133f8daa779a11593eb385c2740542f09a231314438e5c1
     name: stack
@@ -1476,7 +2134,32 @@ entries:
     version: v0.6.2
   - apiVersion: v1
     appVersion: v0.6.1
-    created: 2022-08-26T13:05:34.981116523Z
+    created: "2022-08-29T10:31:04.577034894Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.3
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.6.1
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.24.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.10.1
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~6.6.1
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: c00bbc3f715159edbf383b90f5cc4100597bd0a9debf78e9f32f5e2120026e7e
     name: stack
@@ -1485,7 +2168,32 @@ entries:
     version: v0.6.1
   - apiVersion: v1
     appVersion: v0.6.0
-    created: 2022-08-26T13:05:34.966685001Z
+    created: "2022-08-29T10:31:04.557194282Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.3
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.6.0
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.24.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.10.1
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~6.6.1
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 401bff20e647ee730766e9fd3a0cb437d65b082ac78862eab4fb47aa4e4be3dc
     name: stack
@@ -1494,7 +2202,32 @@ entries:
     version: v0.6.0
   - apiVersion: v1
     appVersion: v0.5.1
-    created: 2022-08-26T13:05:34.951076331Z
+    created: "2022-08-29T10:31:04.536526887Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.2
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.5.1
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.15.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.9.1
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~6.6.1
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: f6882007b93900b651f0786235db90a7786c7b881403a48b7639da276225d263
     name: stack
@@ -1503,7 +2236,32 @@ entries:
     version: v0.5.1
   - apiVersion: v1
     appVersion: v0.5.0
-    created: 2022-08-26T13:05:34.934539305Z
+    created: "2022-08-29T10:31:04.51643546Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.2
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.5.0
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.15.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.9.1
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~6.6.1
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: b93286ba61624ab67b3436d8863a5f4890402745915bcf9e9271c7bacd34dce3
     name: stack
@@ -1512,7 +2270,32 @@ entries:
     version: v0.5.0
   - apiVersion: v1
     appVersion: v0.4.1
-    created: 2022-08-26T13:05:34.919001466Z
+    created: "2022-08-29T10:31:04.499917259Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.2
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.4.2
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.15.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.9.1
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~6.6.1
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: bf2962e77f41a1fb437652ab0375c2532768403429300c71c2f9351981e72b4e
     name: stack
@@ -1521,7 +2304,32 @@ entries:
     version: v0.4.1
   - apiVersion: v1
     appVersion: v0.4.0
-    created: 2022-08-26T13:05:34.904406071Z
+    created: "2022-08-29T10:31:04.485009902Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.2
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.4.1
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.15.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.9.1
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~6.6.1
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: b41359317ffc29cc3d24c539fa082beddf567df59b8b3f6e3c42b0f6897585f5
     name: stack
@@ -1530,7 +2338,32 @@ entries:
     version: v0.4.0
   - apiVersion: v1
     appVersion: v0.3.10
-    created: 2022-08-26T13:05:34.786528865Z
+    created: "2022-08-29T10:31:04.343946851Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.2
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.7
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.6.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.8.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~5.12.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: f6aba14cc1a2e1994cfe21eec9a0d241fe7cfb6ee7e3fa7c3611f5bd53750cd3
     name: stack
@@ -1539,7 +2372,28 @@ entries:
     version: v0.3.10
   - apiVersion: v1
     appVersion: v0.3.9
-    created: 2022-08-26T13:05:34.886663398Z
+    created: "2022-08-29T10:31:04.463869929Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.10
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.7
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.6.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.8.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~5.12.0
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 8a12350af579bbbee3f5c479808b8092867292d5f0eb63bb097309337b3f23e8
     name: stack
@@ -1548,7 +2402,28 @@ entries:
     version: v0.3.9
   - apiVersion: v1
     appVersion: v0.3.8
-    created: 2022-08-26T13:05:34.874808986Z
+    created: "2022-08-29T10:31:04.449757464Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.10
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.7
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.6.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.8.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~5.12.0
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: adc05eb3a9733b07f59730b43db6fb991e868c41784ae34ed246cca14f1cdf74
     name: stack
@@ -1557,7 +2432,28 @@ entries:
     version: v0.3.8
   - apiVersion: v1
     appVersion: v0.3.7
-    created: 2022-08-26T13:05:34.861666123Z
+    created: "2022-08-29T10:31:04.435167042Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.10
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.6
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.6.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.8.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~5.12.0
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 38dec2742028de9b829dbe7693838c03341b4f36e08c8b573968e855deb62d94
     name: stack
@@ -1566,7 +2462,28 @@ entries:
     version: v0.3.7
   - apiVersion: v1
     appVersion: v0.3.6
-    created: 2022-08-26T13:05:34.849299502Z
+    created: "2022-08-29T10:31:04.419671136Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.10
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.5
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.6.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.8.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~5.12.0
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: b915dc0484816ddb52175ea0c82a33eb7e62bdbda5df2016bd42bea0ac0ab093
     name: stack
@@ -1575,7 +2492,28 @@ entries:
     version: v0.3.6
   - apiVersion: v1
     appVersion: v0.3.5
-    created: 2022-08-26T13:05:34.834440664Z
+    created: "2022-08-29T10:31:04.404435333Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.10
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.4
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.6.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.8.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~5.12.0
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 7ef45acf71602362bf29e9e34d3ffc09a708bd0f453d8b9ab6f9f3e01fed894e
     name: stack
@@ -1584,7 +2522,28 @@ entries:
     version: v0.3.5
   - apiVersion: v1
     appVersion: v0.3.4
-    created: 2022-08-26T13:05:34.824112054Z
+    created: "2022-08-29T10:31:04.388773935Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.9
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.4
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.6.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.8.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~5.12.0
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 601f7c27c79a6bc8c85b456a280bbee2dda43ee2e9af9f2490bd03470cd6f1d9
     name: stack
@@ -1593,7 +2552,28 @@ entries:
     version: v0.3.4
   - apiVersion: v1
     appVersion: v0.3.3
-    created: 2022-08-26T13:05:34.807684431Z
+    created: "2022-08-29T10:31:04.373410241Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.7
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.4
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.6.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.8.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~5.12.0
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 91e4ed794ab968b49a5765e512320d79dde9ddbd6e5ed9e32cc9d01b5cf4f7a9
     name: stack
@@ -1602,7 +2582,28 @@ entries:
     version: v0.3.3
   - apiVersion: v1
     appVersion: v0.3.2
-    created: 2022-08-26T13:05:34.796632341Z
+    created: "2022-08-29T10:31:04.355317845Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.7
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.3
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.6.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://charts.jetstack.io
+      version: ~0.8.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~5.12.0
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: a3e479307ff1efaa8f554771b1431d0dde6dbcdda191168437013a02fd7f69c6
     name: stack
@@ -1611,7 +2612,28 @@ entries:
     version: v0.3.2
   - apiVersion: v1
     appVersion: v0.3.1
-    created: 2022-08-26T13:05:34.773775399Z
+    created: "2022-08-29T10:31:04.327535871Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.7
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.1
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.6.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~0.6.7
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~5.7.0
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 54eda5072a5e1cf8fcd44588ffb2fe3c8c5deecddc338a90643832fbf0ae9e39
     name: stack
@@ -1620,7 +2642,28 @@ entries:
     version: v0.3.1
   - apiVersion: v1
     appVersion: v0.3.0
-    created: 2022-08-26T13:05:34.757461287Z
+    created: "2022-08-29T10:31:04.311410006Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.7
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.3.0
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.4.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~0.6.6
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~5.0.0
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: e3a63e6ea050a95ad792d244e0e508af6601ac3b4e00abdb421772a99759b558
     name: stack
@@ -1629,7 +2672,28 @@ entries:
     version: v0.3.0
   - apiVersion: v1
     appVersion: v0.2.4
-    created: 2022-08-26T13:05:34.746233164Z
+    created: "2022-08-29T10:31:04.295532044Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.4
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.9
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.3.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~0.6.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~2.2.0
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: c63051c864f117c3b45472a6c92afbc30653e95db3b90a4c5012e19e7f87f195
     name: stack
@@ -1638,7 +2702,28 @@ entries:
     version: v0.2.4
   - apiVersion: v1
     appVersion: v0.2.3
-    created: 2022-08-26T13:05:34.726597362Z
+    created: "2022-08-29T10:31:04.280583085Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.4
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.8
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.3.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~0.6.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~2.2.0
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 5516b9d6307d5e3e550820d0c5a688f4d38cd96502c4d07d2e2e514c79a08510
     name: stack
@@ -1647,7 +2732,28 @@ entries:
     version: v0.2.3
   - apiVersion: v1
     appVersion: v0.2.2
-    created: 2022-08-26T13:05:34.713208505Z
+    created: "2022-08-29T10:31:04.266528601Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.3
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.4
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~1.1.5
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~0.6.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~2.0.0
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: d7462c3b4ab43ff0b76fc78d48500817c1bcad6474fc078a97df8516481df6b5
     name: stack
@@ -1656,7 +2762,28 @@ entries:
     version: v0.2.2
   - apiVersion: v1
     appVersion: v0.2.1
-    created: 2022-08-26T13:05:34.703285382Z
+    created: "2022-08-29T10:31:04.252523498Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.1
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.2
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~0.31.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~0.5.2
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~0.1.28
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: bf6fdfed0f810e238edec0f1005fd1db3fe9b161b975a0bf80941ef1b7600195
     name: stack
@@ -1665,7 +2792,28 @@ entries:
     version: v0.2.1
   - apiVersion: v1
     appVersion: v0.2.0
-    created: 2022-08-26T13:05:34.690171391Z
+    created: "2022-08-29T10:31:04.241928076Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.1
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.2.0
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~0.31.0
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~0.5.2
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~0.1.28
     description: Presslabs serverless platform for managing WordPress on Kubernetes
     digest: 04cb88b92f23153c322105a4e4cc44a1272bc3474449108b8557e1490c85c428
     name: stack
@@ -1674,7 +2822,28 @@ entries:
     version: v0.2.0
   - apiVersion: v1
     appVersion: v0.1.0
-    created: 2022-08-26T13:05:34.537423367Z
+    created: "2022-08-29T10:31:04.060369689Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: mysql-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.1.13
+    - condition: wordpress-operator.enabled
+      name: wordpress-operator
+      repository: https://presslabs.github.io/charts/
+      version: ~0.1.8
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~0.29.1
+    - condition: cert-manager.enabled
+      name: cert-manager
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~0.5.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: ~0.1.0
     description: Presslabs serverless platform for managing WordPress on Kubernetes
     digest: 994d488ed0a56b8268b29fe5086a9a585430d52b523a03d91773163eaccb64b5
     name: stack
@@ -1684,7 +2853,29 @@ entries:
   stack-operators:
   - apiVersion: v1
     appVersion: v1.6.4
-    created: 2022-08-26T13:05:34.525997101Z
+    created: "2022-08-29T10:31:04.053096208Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 1.4.1
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 4.1.4
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 36.0.3
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 23966c8e4ff55f4eee1e1bc42f08f37ba9f82c6401308f4e770ad8c2e263987c
     name: stack-operators
@@ -1693,7 +2884,29 @@ entries:
     version: v1.6.4
   - apiVersion: v1
     appVersion: v1.6.3
-    created: 2022-08-26T13:05:34.502540499Z
+    created: "2022-08-29T10:31:04.021943193Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 1.4.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 4.1.4
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 36.0.3
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: b65127e123994ecb295b339c7b5b903ba65087e7ee0603ec8d9429b77c6f61ce
     name: stack-operators
@@ -1702,7 +2915,29 @@ entries:
     version: v1.6.3
   - apiVersion: v1
     appVersion: v1.6.2
-    created: 2022-08-26T13:05:34.47532375Z
+    created: "2022-08-29T10:31:03.992645557Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 1.3.2
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 4.1.4
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 36.0.3
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: f1c7f02b4fead64c170e7024771cc7b0c53e1dccf77c24bf40756b8ec7f069d1
     name: stack-operators
@@ -1711,7 +2946,29 @@ entries:
     version: v1.6.2
   - apiVersion: v1
     appVersion: v1.6.1
-    created: 2022-08-26T13:05:34.449571963Z
+    created: "2022-08-29T10:31:03.961077295Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 1.3.1
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 4.1.4
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 36.0.3
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 785e5dd7f3c7a48d3dd6bba9b69824a4d7ca72a416cb4aefb854c67968062d93
     name: stack-operators
@@ -1720,7 +2977,29 @@ entries:
     version: v1.6.1
   - apiVersion: v1
     appVersion: v1.6.0
-    created: 2022-08-26T13:05:34.424656789Z
+    created: "2022-08-29T10:31:03.932299257Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 1.3.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 4.1.4
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 36.0.3
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 18d9c1bff5237486e7f27dc15f158174b4a1365348181b04a0de7e948168f38f
     name: stack-operators
@@ -1729,7 +3008,29 @@ entries:
     version: v1.6.0
   - apiVersion: v1
     appVersion: v1.5.0
-    created: 2022-08-26T13:05:34.395333287Z
+    created: "2022-08-29T10:31:03.90949362Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 1.2.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 4.1.4
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 36.0.3
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: bc9aa5b976304cceefe920b436e37db438239808607575c063581e67328f57ee
     name: stack-operators
@@ -1738,7 +3039,29 @@ entries:
     version: v1.5.0
   - apiVersion: v1
     appVersion: v1.4.1
-    created: 2022-08-26T13:05:34.368072147Z
+    created: "2022-08-29T10:31:03.880182103Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 1.2.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 4.1.4
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: b4ec955b096e905dbf68353fbc0d28a3215ae871ee4c050460653bea77d75afc
     name: stack-operators
@@ -1747,7 +3070,29 @@ entries:
     version: v1.4.1
   - apiVersion: v1
     appVersion: v1.4.0
-    created: 2022-08-26T13:05:34.346451864Z
+    created: "2022-08-29T10:31:03.848266137Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 1.2.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 4.1.4
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 90341bdf7479db035637827bed572748c75a623d4ac0cf52b025ba484f0fded2
     name: stack-operators
@@ -1756,7 +3101,29 @@ entries:
     version: v1.4.0
   - apiVersion: v1
     appVersion: v1.3.0
-    created: 2022-08-26T13:05:34.320729048Z
+    created: "2022-08-29T10:31:03.821753172Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 1.1.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 4.1.4
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: f4951fdfeccfbc48799c975200a1ccbeba12af53aa06137468cf19574dd1aefe
     name: stack-operators
@@ -1765,7 +3132,29 @@ entries:
     version: v1.3.0
   - apiVersion: v1
     appVersion: v1.2.0
-    created: 2022-08-26T13:05:34.300231172Z
+    created: "2022-08-29T10:31:03.793513872Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 1.1.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: a4afff0343a4cd784bcb4658edda9eab69cd2ed8c18c010731e2faf247c50d95
     name: stack-operators
@@ -1774,7 +3163,29 @@ entries:
     version: v1.2.0
   - apiVersion: v1
     appVersion: v1.1.2
-    created: 2022-08-26T13:05:34.278981155Z
+    created: "2022-08-29T10:31:03.769706669Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 1.0.1
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 35b6196fc3ef42b2002323a7c98637aa7869889d2c72bf9123e385b454df713a
     name: stack-operators
@@ -1783,7 +3194,29 @@ entries:
     version: v1.1.2
   - apiVersion: v1
     appVersion: v1.1.1
-    created: 2022-08-26T13:05:34.257539744Z
+    created: "2022-08-29T10:31:03.745771544Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 1.0.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 31f70f50ed86ac387ecae95664ee77e6a4e81de0c68e8e7ce0439cb939529550
     name: stack-operators
@@ -1792,7 +3225,29 @@ entries:
     version: v1.1.1
   - apiVersion: v1
     appVersion: v1.1.0
-    created: 2022-08-26T13:05:34.234891825Z
+    created: "2022-08-29T10:31:03.725663637Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 1.0.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: e3e1807a8b08175e24d289b9cda9db86d1f75f90a1584d07b4fc6e2cbadf4417
     name: stack-operators
@@ -1801,7 +3256,29 @@ entries:
     version: v1.1.0
   - apiVersion: v1
     appVersion: v1.1.0-rc.0
-    created: 2022-08-26T13:05:34.207570134Z
+    created: "2022-08-29T10:31:03.696709296Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 1.0.0-rc.2
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 32639b99bb13d42358eb2400fdfb937d5680563d85c0003a05262700ad333793
     name: stack-operators
@@ -1810,7 +3287,33 @@ entries:
     version: v1.1.0-rc.0
   - apiVersion: v1
     appVersion: v1.0.0
-    created: 2022-08-26T13:05:34.182594509Z
+    created: "2022-08-29T10:31:03.67072044Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.12.4
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: f7db22ce5fa6da76f487897bfad892737d3c5eeb401646878e2a3b1702e30b16
     name: stack-operators
@@ -1819,7 +3322,32 @@ entries:
     version: v1.0.0
   - apiVersion: v1
     appVersion: v1.0.0-test.1
-    created: 2022-08-26T13:05:34.162824105Z
+    created: "2022-08-29T10:31:03.643985392Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.7
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - condition: kube-prometheus-stack.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 18.0.13
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: dbd1d3641051b02701d7c77058a59a3fc5c6b3faae7c67cb26f03a160eaa9586
     name: stack-operators
@@ -1828,7 +3356,33 @@ entries:
     version: v1.0.0-test.1
   - apiVersion: v1
     appVersion: v1.0.0-rc.3
-    created: 2022-08-26T13:05:34.143979474Z
+    created: "2022-08-29T10:31:03.611573669Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.12.4
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: b0b54e2f8c9747d739b5b828e6e9ea554561fe4a72468246e59e25c758627013
     name: stack-operators
@@ -1837,7 +3391,33 @@ entries:
     version: v1.0.0-rc.3
   - apiVersion: v1
     appVersion: v1.0.0-rc.2
-    created: 2022-08-26T13:05:34.118591124Z
+    created: "2022-08-29T10:31:03.584078459Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.12.2
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: e723751597f810ea3f50dad948e93e126a9c6b050f133793cb6a6d1ae3d1c77c
     name: stack-operators
@@ -1846,7 +3426,33 @@ entries:
     version: v1.0.0-rc.2
   - apiVersion: v1
     appVersion: v1.0.0-rc.1
-    created: 2022-08-26T13:05:34.096413582Z
+    created: "2022-08-29T10:31:03.550060021Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.12.1
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 64d950039dda8fb13ad55b7a6f8edafc66119abf06239abd949c4a8213847660
     name: stack-operators
@@ -1855,7 +3461,33 @@ entries:
     version: v1.0.0-rc.1
   - apiVersion: v1
     appVersion: v1.0.0-rc.0
-    created: 2022-08-26T13:05:34.0703586Z
+    created: "2022-08-29T10:31:03.518913856Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.12.0
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 0f69723951053ee8dd29caf82614f9a2fe12d5a2f50c6167f4129f03ea768f2c
     name: stack-operators
@@ -1864,7 +3496,33 @@ entries:
     version: v1.0.0-rc.0
   - apiVersion: v1
     appVersion: v0.13.2
-    created: 2022-08-26T13:05:34.045002809Z
+    created: "2022-08-29T10:31:03.488339481Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.10
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: a5c3287e9e2073a87ebaa43f775938aca7b7a2b5fdc817c4a85d6de66b63a9e2
     name: stack-operators
@@ -1873,7 +3531,33 @@ entries:
     version: v0.13.2
   - apiVersion: v1
     appVersion: v0.13.1
-    created: 2022-08-26T13:05:34.023377436Z
+    created: "2022-08-29T10:31:03.46144194Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.10
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 038d82948ac7c7c78cacc1d10aab861717e0dcb5b5d7e28dc6b5f8ae2cb657c5
     name: stack-operators
@@ -1882,7 +3566,33 @@ entries:
     version: v0.13.1
   - apiVersion: v1
     appVersion: v0.13.0
-    created: 2022-08-26T13:05:33.999304255Z
+    created: "2022-08-29T10:31:03.432045662Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.10
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: e87e130199789da6b7d54a6ab863aa8ecb1cffb964450df31f8c1fc6191a646a
     name: stack-operators
@@ -1891,7 +3601,32 @@ entries:
     version: v0.13.0
   - apiVersion: v1
     appVersion: v0.13.0-rc-3
-    created: 2022-08-26T13:05:33.635432809Z
+    created: "2022-08-29T10:31:03.080793039Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.7
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - condition: kube-prometheus-stack.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 30.2.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: d20a9124c540ee7fee05d050bad643e7d74f4232fefd304782b88e625829e9f5
     name: stack-operators
@@ -1900,7 +3635,33 @@ entries:
     version: v0.13.0-rc-3
   - apiVersion: v1
     appVersion: v0.13.0-rc.12
-    created: 2022-08-26T13:05:33.770238476Z
+    created: "2022-08-29T10:31:03.199293804Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.10
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: c2a8f69bf7a4bd2d681929e60e7abd644bdeef3d132e8fc2903c979325525c86
     name: stack-operators
@@ -1909,7 +3670,33 @@ entries:
     version: v0.13.0-rc.12
   - apiVersion: v1
     appVersion: v0.13.0-rc.11
-    created: 2022-08-26T13:05:33.739232168Z
+    created: "2022-08-29T10:31:03.169800835Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.9
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 745483eaca696f41f5352e45af7b84026eda845b5a8c81128f5ef530e0b0b6cf
     name: stack-operators
@@ -1918,7 +3705,33 @@ entries:
     version: v0.13.0-rc.11
   - apiVersion: v1
     appVersion: v0.13.0-rc.10
-    created: 2022-08-26T13:05:33.710432274Z
+    created: "2022-08-29T10:31:03.143357602Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.8
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: e54417615ca8b1ac9e1f53a0607b21f45e28fb7cf6105032e709a865450f8362
     name: stack-operators
@@ -1927,7 +3740,33 @@ entries:
     version: v0.13.0-rc.10
   - apiVersion: v1
     appVersion: v0.13.0-rc.9
-    created: 2022-08-26T13:05:33.970533002Z
+    created: "2022-08-29T10:31:03.402954439Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.7
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - alias: prometheus-operator
+      condition: prometheus-operator.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 3b1fcf4488ffbb05d61cf9e3bf44c9086c74918953c212de4028e4978c215d17
     name: stack-operators
@@ -1936,7 +3775,32 @@ entries:
     version: v0.13.0-rc.9
   - apiVersion: v1
     appVersion: v0.13.0-rc.8
-    created: 2022-08-26T13:05:33.948845298Z
+    created: "2022-08-29T10:31:03.375781475Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.7
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - condition: kube-prometheus-stack.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 0481c962941d35974676d9928d327bfe08d3e9bfa839819425dc83045b23185a
     name: stack-operators
@@ -1945,7 +3809,32 @@ entries:
     version: v0.13.0-rc.8
   - apiVersion: v1
     appVersion: v0.13.0-rc.7
-    created: 2022-08-26T13:05:33.917459375Z
+    created: "2022-08-29T10:31:03.335116205Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.7
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - condition: kube-prometheus-stack.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 16fcb2025893c2ade7df5bc592a071647b4fa74d03520b6af3944410bbb28179
     name: stack-operators
@@ -1954,7 +3843,32 @@ entries:
     version: v0.13.0-rc.7
   - apiVersion: v1
     appVersion: v0.13.0-rc.6
-    created: 2022-08-26T13:05:33.879079303Z
+    created: "2022-08-29T10:31:03.297201857Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.7
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - condition: kube-prometheus-stack.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 19.3.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: ec41b59276520e50c7dc7670df7d813ee3fdf68331434b3ccf0a703413bf398f
     name: stack-operators
@@ -1963,7 +3877,32 @@ entries:
     version: v0.13.0-rc.6
   - apiVersion: v1
     appVersion: v0.13.0-rc.4
-    created: 2022-08-26T13:05:33.843600477Z
+    created: "2022-08-29T10:31:03.267372242Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.7
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - condition: kube-prometheus-stack.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 30.2.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: e420f667944097fd6ebbe13d12dcbdb07b67706fb14b7f4263af8fcde1d188be
     name: stack-operators
@@ -1972,7 +3911,32 @@ entries:
     version: v0.13.0-rc.4
   - apiVersion: v1
     appVersion: v0.13.0-rc.2
-    created: 2022-08-26T13:05:33.803393167Z
+    created: "2022-08-29T10:31:03.227153049Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.7
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - condition: kube-prometheus-stack.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 30.2.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: a16afda9b2ae317283190b405b2c22581c0b9a8ae5a9ce42752a9a83956391d5
     name: stack-operators
@@ -1981,7 +3945,32 @@ entries:
     version: v0.13.0-rc.2
   - apiVersion: v1
     appVersion: v0.13.0-rc.1
-    created: 2022-08-26T13:05:33.676546163Z
+    created: "2022-08-29T10:31:03.112974679Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.7
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.40.0
+    - condition: kube-prometheus-stack.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 30.2.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: e82061b10004537e41138a3cabcdbfd63dbf430d97d3450760e02bd91b7205b9
     name: stack-operators
@@ -1990,7 +3979,28 @@ entries:
     version: v0.13.0-rc.1
   - apiVersion: v1
     appVersion: v0.12.0
-    created: 2022-08-26T13:05:33.603666119Z
+    created: "2022-08-29T10:31:03.047737635Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.6
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.39.0
+    - condition: kube-prometheus-stack.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 18.0.13
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 7e8ef37bffee3af60e916b23ff745b6f4bf03a83769acdae2821b072345b7326
     name: stack-operators
@@ -1999,7 +4009,28 @@ entries:
     version: v0.12.0
   - apiVersion: v1
     appVersion: v0.12.0-rc.2
-    created: 2022-08-26T13:05:33.570334466Z
+    created: "2022-08-29T10:31:03.018910056Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.6
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.39.0
+    - condition: kube-prometheus-stack.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 18.0.13
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: f5f83486d831dc560e3738ea9473f943dfa907d0dc8940db054d94569fe80bae
     name: stack-operators
@@ -2008,7 +4039,28 @@ entries:
     version: v0.12.0-rc.2
   - apiVersion: v1
     appVersion: v0.12.0-rc.1
-    created: 2022-08-26T13:05:33.536025047Z
+    created: "2022-08-29T10:31:02.995317336Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.5
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.39.0
+    - condition: kube-prometheus-stack.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 18.0.13
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 3ff30a4faef37e2739b0cf0edbc7394fa85d9bfdf4d9e9143c0c3eca4c9555d5
     name: stack-operators
@@ -2017,7 +4069,28 @@ entries:
     version: v0.12.0-rc.1
   - apiVersion: v1
     appVersion: v0.11.1
-    created: 2022-08-26T13:05:33.504065175Z
+    created: "2022-08-29T10:31:02.970568498Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.2
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 4.0.2
+    - condition: kube-prometheus-stack.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 18.0.13
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: a4c47aa534d667c7ebe322649cdf004d2d50822a57b5dabd8355ec2eb3f35eb5
     name: stack-operators
@@ -2026,7 +4099,28 @@ entries:
     version: v0.11.1
   - apiVersion: v1
     appVersion: v0.11.1-rc.3
-    created: 2022-08-26T13:05:33.46934731Z
+    created: "2022-08-29T10:31:02.944116806Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.2
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 4.0.2
+    - condition: kube-prometheus-stack.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 18.0.13
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: d550bb403d6e71f8f1559a195830720764320434a14d403b21de4681e931d1c9
     name: stack-operators
@@ -2035,7 +4129,28 @@ entries:
     version: v0.11.1-rc.3
   - apiVersion: v1
     appVersion: v0.11.1-rc.2
-    created: 2022-08-26T13:05:33.439810235Z
+    created: "2022-08-29T10:31:02.916092489Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.2
+    - condition: ingress-nginx.enabled
+      name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 4.0.2
+    - condition: kube-prometheus-stack.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 18.0.13
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 36e0da99ccd8d0bdf6ab8e78a954ab98c3e436484fa17148431d95ce0db1f389
     name: stack-operators
@@ -2044,7 +4159,28 @@ entries:
     version: v0.11.1-rc.2
   - apiVersion: v1
     appVersion: v0.11.0
-    created: 2022-08-26T13:05:33.395499732Z
+    created: "2022-08-29T10:31:02.890440827Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.0
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://charts.helm.sh/stable
+      version: 9.1.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 15f59a7682ee3cdbf0c7ecc892400385da1227fb9e2599c618dc8cfc1d2a756f
     name: stack-operators
@@ -2053,7 +4189,28 @@ entries:
     version: v0.11.0
   - apiVersion: v1
     appVersion: v0.11.0-rc.13
-    created: 2022-08-26T13:05:33.276744852Z
+    created: "2022-08-29T10:31:02.803133497Z"
+    dependencies:
+    - condition: db-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0-rc.8
+    - condition: wp-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.0-alpha.7
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://charts.helm.sh/stable
+      version: 9.1.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 8f81c232ecb24e1ea3fc6427c5b0668bdb481e7fe150d3d69c14a289f42b6706
     name: stack-operators
@@ -2062,7 +4219,28 @@ entries:
     version: v0.11.0-rc.13
   - apiVersion: v1
     appVersion: v0.11.0-rc.12
-    created: 2022-08-26T13:05:33.246009589Z
+    created: "2022-08-29T10:31:02.780304748Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0-rc.7
+    - condition: wordpress-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.0-alpha.6
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://charts.helm.sh/stable
+      version: 9.1.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 231b4c16134e96e603b30ab4b73b8615ee0c89c45aee3ee5c0d62dfc919260f0
     name: stack-operators
@@ -2071,7 +4249,28 @@ entries:
     version: v0.11.0-rc.12
   - apiVersion: v1
     appVersion: v0.11.0-rc.11
-    created: 2022-08-26T13:05:33.218304422Z
+    created: "2022-08-29T10:31:02.753223836Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0-rc.6
+    - condition: wordpress-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.0-alpha.6
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://charts.helm.sh/stable
+      version: 9.1.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: efbae1f9a0e76b64485e50bce842463e720d0b85015240b3dfe5b496c4cf578e
     name: stack-operators
@@ -2080,7 +4279,28 @@ entries:
     version: v0.11.0-rc.11
   - apiVersion: v1
     appVersion: v0.11.0-rc.10
-    created: 2022-08-26T13:05:33.190126208Z
+    created: "2022-08-29T10:31:02.730608852Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0-rc.5
+    - condition: wordpress-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.0-alpha.6
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://charts.helm.sh/stable
+      version: 9.1.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: f5e2a1650b09ad93f0b33d9046c03534b2d3a7b8d8409f13dcb2d8e03a0c8aa9
     name: stack-operators
@@ -2089,7 +4309,28 @@ entries:
     version: v0.11.0-rc.10
   - apiVersion: v1
     appVersion: v0.11.0-rc.9
-    created: 2022-08-26T13:05:33.368352104Z
+    created: "2022-08-29T10:31:02.866535663Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0-rc.5
+    - condition: wordpress-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.0-alpha.6
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://charts.helm.sh/stable
+      version: 9.1.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: b3ab391758b701b1a032b5148f029426b348aafb5e6fcf0a2f3ecf84f57c758c
     name: stack-operators
@@ -2098,7 +4339,28 @@ entries:
     version: v0.11.0-rc.9
   - apiVersion: v1
     appVersion: v0.11.0-rc.8
-    created: 2022-08-26T13:05:33.345205107Z
+    created: "2022-08-29T10:31:02.844978354Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0-rc.5
+    - condition: wordpress-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.0-alpha.6
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://charts.helm.sh/stable
+      version: 9.1.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: 8482905d9c48b752ba63f2f880576eca0785fa684229bc1e909937578e87aaac
     name: stack-operators
@@ -2107,7 +4369,28 @@ entries:
     version: v0.11.0-rc.8
   - apiVersion: v1
     appVersion: v0.11.0-rc.7
-    created: 2022-08-26T13:05:33.30903903Z
+    created: "2022-08-29T10:31:02.825175443Z"
+    dependencies:
+    - condition: mysql-operator.enabled
+      name: db-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.5.0-rc.5
+    - condition: wordpress-operator.enabled
+      name: wp-operator
+      repository: https://presslabs.github.io/charts/
+      version: 0.11.0-alpha.5
+    - condition: nginx-ingress.enabled
+      name: nginx-ingress
+      repository: https://charts.helm.sh/stable
+      version: 1.40.0
+    - condition: prometheus-operator.enabled
+      name: prometheus-operator
+      repository: https://charts.helm.sh/stable
+      version: 9.1.0
+    - condition: git-webhook.enabled
+      name: git-webhook
+      repository: file://../git-webhook
+      version: 0.0.1+master
     description: Open-Source WordPress Infrastructure on Kubernetes
     digest: ff838fc60b1b07f4c1336b68466adea4d74e4e1bf042b514e21affdb3a1a47b3
     name: stack-operators
@@ -2117,7 +4400,7 @@ entries:
   wordpress-operator:
   - apiVersion: v1
     appVersion: 0.11.0-alpha.3
-    created: 2022-08-26T13:05:35.323846544Z
+    created: "2022-08-29T10:31:04.946383554Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 00e33ea816726841c913e72317bc4d8c4945d8425a17bbe0ab38b791634d4fee
     name: wordpress-operator
@@ -2126,7 +4409,7 @@ entries:
     version: 0.11.0-alpha.3
   - apiVersion: v1
     appVersion: 0.11.0-alpha.2
-    created: 2022-08-26T13:05:35.322731117Z
+    created: "2022-08-29T10:31:04.944904351Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: e1f85c3ee7cf7322822da3665fee19aff5a80448c05fcd6cdf0265d544e9ba7b
     name: wordpress-operator
@@ -2135,7 +4418,7 @@ entries:
     version: 0.11.0-alpha.2
   - apiVersion: v1
     appVersion: 0.11.0-alpha.1
-    created: 2022-08-26T13:05:35.321565699Z
+    created: "2022-08-29T10:31:04.943443579Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: c912263023f0cee8e40bac230c2075ef1d154240ba5b929c72c0eb10a00018e3
     name: wordpress-operator
@@ -2144,7 +4427,7 @@ entries:
     version: 0.11.0-alpha.1
   - apiVersion: v1
     appVersion: 0.11.0-alpha.0
-    created: 2022-08-26T13:05:35.320444642Z
+    created: "2022-08-29T10:31:04.94157802Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 2c1d86b4f4d016f2341d9d3f1013b157a24d1b1d21e38927a76d201f649ee56b
     name: wordpress-operator
@@ -2153,7 +4436,7 @@ entries:
     version: 0.11.0-alpha.0
   - apiVersion: v1
     appVersion: 0.10.5
-    created: 2022-08-26T13:05:35.319286064Z
+    created: "2022-08-29T10:31:04.940162269Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 8a86ae5d923a0cdbba083b8da6957320860b5da65a09267168162edd9166c33e
     name: wordpress-operator
@@ -2162,7 +4445,7 @@ entries:
     version: 0.10.5
   - apiVersion: v1
     appVersion: 0.10.4
-    created: 2022-08-26T13:05:35.317937813Z
+    created: "2022-08-29T10:31:04.938568014Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 8612d7fc00645bea23e60cf1fc2b37c7218418da1744c7c4e9b20be84b7dfe40
     name: wordpress-operator
@@ -2171,7 +4454,7 @@ entries:
     version: 0.10.4
   - apiVersion: v1
     appVersion: 0.10.3
-    created: 2022-08-26T13:05:35.316658724Z
+    created: "2022-08-29T10:31:04.93699333Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: c27c45cdc41e8a2b30de8409febd7c8b72130265d0eb00803e0dbf6646fa3994
     name: wordpress-operator
@@ -2180,7 +4463,7 @@ entries:
     version: 0.10.3
   - apiVersion: v1
     appVersion: 0.10.2
-    created: 2022-08-26T13:05:35.315401684Z
+    created: "2022-08-29T10:31:04.935410266Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: ab90ec95c8c8364526a06142ab40e93b98b8bc3e3da28105165f655a98154df0
     name: wordpress-operator
@@ -2189,7 +4472,7 @@ entries:
     version: 0.10.2
   - apiVersion: v1
     appVersion: 0.10.1
-    created: 2022-08-26T13:05:35.314143875Z
+    created: "2022-08-29T10:31:04.933596939Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: afe8857bf9f8fddeb77a2a1b1317f9305683586aed4b1ef8e5aad8be6b448156
     name: wordpress-operator
@@ -2198,7 +4481,7 @@ entries:
     version: 0.10.1
   - apiVersion: v1
     appVersion: 0.10.0
-    created: 2022-08-26T13:05:35.312908805Z
+    created: "2022-08-29T10:31:04.932764876Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 522c083692e0d106efacddaa44d30bae3ef4987319f53ce516161d0f2b392590
     name: wordpress-operator
@@ -2207,7 +4490,7 @@ entries:
     version: 0.10.0
   - apiVersion: v1
     appVersion: 0.9.1
-    created: 2022-08-26T13:05:35.330771301Z
+    created: "2022-08-29T10:31:04.950878332Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: fd54b145ac9eed1612f3f30575fcc14ea7a2dd303e1922fbbd8d040c72cf4125
     name: wordpress-operator
@@ -2216,7 +4499,7 @@ entries:
     version: 0.9.1
   - apiVersion: v1
     appVersion: 0.9.0
-    created: 2022-08-26T13:05:35.326248711Z
+    created: "2022-08-29T10:31:04.949298168Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 9c7dd69828daacbf7cd2921d8a3dd8f8d6a1ada8bfecac11836f2a24555a5c36
     name: wordpress-operator
@@ -2225,7 +4508,7 @@ entries:
     version: 0.9.0
   - apiVersion: v1
     appVersion: v0.8.4
-    created: 2022-08-26T13:05:35.34370329Z
+    created: "2022-08-29T10:31:04.970692194Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 71c051f26bc6783cd6502dc5d2dffcff0815b214ec025c10717e2320a8265ba8
     name: wordpress-operator
@@ -2234,7 +4517,7 @@ entries:
     version: v0.8.4
   - apiVersion: v1
     appVersion: v0.8.3
-    created: 2022-08-26T13:05:35.343363785Z
+    created: "2022-08-29T10:31:04.970039684Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: c5d02a10c0ca61cae8ceec92e40120d416486613d97b1a28a5f5aab5a619a328
     name: wordpress-operator
@@ -2243,7 +4526,7 @@ entries:
     version: v0.8.3
   - apiVersion: v1
     appVersion: v0.8.2
-    created: 2022-08-26T13:05:35.34304042Z
+    created: "2022-08-29T10:31:04.969523107Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 342b084019fe2b5ca4a1ef74b3be919d1274f67883935a97977e2bb4925f1451
     name: wordpress-operator
@@ -2252,7 +4535,7 @@ entries:
     version: v0.8.2
   - apiVersion: v1
     appVersion: v0.8.1
-    created: 2022-08-26T13:05:35.342712415Z
+    created: "2022-08-29T10:31:04.969012679Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 759d04de98d583554facc40de923071245db96668bb90ff6b63d7bdd5cf44c4f
     name: wordpress-operator
@@ -2261,7 +4544,7 @@ entries:
     version: v0.8.1
   - apiVersion: v1
     appVersion: v0.8.0
-    created: 2022-08-26T13:05:35.341426205Z
+    created: "2022-08-29T10:31:04.968495991Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 42eee3abc4123f6dc1bde93d8f279cf88009545d5824d7f7daff935b7d86d1c8
     name: wordpress-operator
@@ -2270,7 +4553,7 @@ entries:
     version: v0.8.0
   - apiVersion: v1
     appVersion: v0.7.1
-    created: 2022-08-26T13:05:35.340921837Z
+    created: "2022-08-29T10:31:04.967983253Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: e9cc052281d22f450a17f1d971534b867c52a64d8d6441b8a3ee0ee7445235f2
     name: wordpress-operator
@@ -2279,7 +4562,7 @@ entries:
     version: v0.7.1
   - apiVersion: v1
     appVersion: v0.7.0
-    created: 2022-08-26T13:05:35.340096714Z
+    created: "2022-08-29T10:31:04.967464915Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 1fe2c79263b918441c760187c885671732fe36e09df248ca310db41e71061703
     name: wordpress-operator
@@ -2288,7 +4571,7 @@ entries:
     version: v0.7.0
   - apiVersion: v1
     appVersion: v0.6.3
-    created: 2022-08-26T13:05:35.33985217Z
+    created: "2022-08-29T10:31:04.966947777Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: f95f6ddecedd672752b367827d65c991a5ec9f7a44fb26964d5d43d297bdba26
     name: wordpress-operator
@@ -2297,7 +4580,7 @@ entries:
     version: v0.6.3
   - apiVersion: v1
     appVersion: v0.6.1
-    created: 2022-08-26T13:05:35.339567406Z
+    created: "2022-08-29T10:31:04.966418459Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: b53f965fceaf7a8b3a77fcab3d7a9f37bc8d57719d465ef893b395a82b24cd0d
     name: wordpress-operator
@@ -2306,7 +4589,7 @@ entries:
     version: v0.6.1
   - apiVersion: v1
     appVersion: v0.6.0
-    created: 2022-08-26T13:05:35.339270801Z
+    created: "2022-08-29T10:31:04.965909351Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 0ea73b7d4b0a065e127a849e8564221cb48014600d9610f056e18406c3d138d3
     name: wordpress-operator
@@ -2315,7 +4598,7 @@ entries:
     version: v0.6.0
   - apiVersion: v1
     appVersion: v0.5.2
-    created: 2022-08-26T13:05:35.339002037Z
+    created: "2022-08-29T10:31:04.965404104Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: e30ad04e08461964817a871855b992370672c035593daa826d4abbb3f624a117
     name: wordpress-operator
@@ -2324,7 +4607,7 @@ entries:
     version: v0.5.2
   - apiVersion: v1
     appVersion: v0.5.1
-    created: 2022-08-26T13:05:35.338730453Z
+    created: "2022-08-29T10:31:04.964879766Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: d81c5c7e20e401bad8878d048a91619b626bc9635d9c91bbead1d801d2d73b69
     name: wordpress-operator
@@ -2333,7 +4616,7 @@ entries:
     version: v0.5.1
   - apiVersion: v1
     appVersion: v0.5.0
-    created: 2022-08-26T13:05:35.338447999Z
+    created: "2022-08-29T10:31:04.964377178Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: a803964f37731e970bb9becc58de5b44e97f8c8149d922d260d17ad54a348375
     name: wordpress-operator
@@ -2342,7 +4625,7 @@ entries:
     version: v0.5.0
   - apiVersion: v1
     appVersion: v0.4.3
-    created: 2022-08-26T13:05:35.338205155Z
+    created: "2022-08-29T10:31:04.96388084Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 6b55de4a0816e5048773c055725f5ebdf2e4f8ba9e45fd1c6e3d89a914ef5655
     name: wordpress-operator
@@ -2351,7 +4634,7 @@ entries:
     version: v0.4.3
   - apiVersion: v1
     appVersion: v0.4.2
-    created: 2022-08-26T13:05:35.337967361Z
+    created: "2022-08-29T10:31:04.963385833Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 228546796abbc77ef1d7434c14936a7e2b77e03b6f2a8739e13dcfcace1ee727
     name: wordpress-operator
@@ -2360,7 +4643,7 @@ entries:
     version: v0.4.2
   - apiVersion: v1
     appVersion: v0.4.1
-    created: 2022-08-26T13:05:35.337713057Z
+    created: "2022-08-29T10:31:04.962880005Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: ad31a7999f08858530e93dfb526599f2e9c546a65f4a03ed66b48f9a57c03f46
     name: wordpress-operator
@@ -2369,7 +4652,7 @@ entries:
     version: v0.4.1
   - apiVersion: v1
     appVersion: v0.4.0
-    created: 2022-08-26T13:05:35.337467904Z
+    created: "2022-08-29T10:31:04.962374787Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: c8c5f91dae20eaaeab25459915c4389cbe4ab6d5c6219aa7c947e3dd74ab651e
     name: wordpress-operator
@@ -2378,7 +4661,7 @@ entries:
     version: v0.4.0
   - apiVersion: v1
     appVersion: v0.3.7
-    created: 2022-08-26T13:05:35.337171989Z
+    created: "2022-08-29T10:31:04.961866Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 90d77744b27c9fa644a2177381a971a38794887ad98c625ab2261837bc7496ad
     name: wordpress-operator
@@ -2387,7 +4670,7 @@ entries:
     version: v0.3.7
   - apiVersion: v1
     appVersion: 0.3.6
-    created: 2022-08-26T13:05:35.324527135Z
+    created: "2022-08-29T10:31:04.947365519Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 4a844dad6c055a63d7c1e98f87f18ff605a95256ab3741982321bb7e5b8c8cee
     name: wordpress-operator
@@ -2396,7 +4679,7 @@ entries:
     version: 0.3.6
   - apiVersion: v1
     appVersion: 0.3.5
-    created: 2022-08-26T13:05:35.324188449Z
+    created: "2022-08-29T10:31:04.946878921Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 6218e405fff9d808c76f6ab102ac7aad91b4130f8f08c503de07ca203f93b822
     name: wordpress-operator
@@ -2405,7 +4688,7 @@ entries:
     version: 0.3.5
   - apiVersion: v1
     appVersion: v0.3.4
-    created: 2022-08-26T13:05:35.336856684Z
+    created: "2022-08-29T10:31:04.961377452Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 8b707adc865b43a517c5680e8cf1f05522cb897f0424a1d8240002db86b02a62
     name: wordpress-operator
@@ -2414,7 +4697,7 @@ entries:
     version: v0.3.4
   - apiVersion: v1
     appVersion: v0.3.3
-    created: 2022-08-26T13:05:35.336522879Z
+    created: "2022-08-29T10:31:04.960291015Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 35e8a343494b74ed60650b4f7a1891412bf00de1d6803e8e221dce0f8b892b61
     name: wordpress-operator
@@ -2423,7 +4706,7 @@ entries:
     version: v0.3.3
   - apiVersion: v1
     appVersion: v0.3.2
-    created: 2022-08-26T13:05:35.336198314Z
+    created: "2022-08-29T10:31:04.959822098Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: c49bf9bdd74082f12ad9e77e7cbb322c720648e03b7a9e24ac3a7bca8e3cf5bb
     name: wordpress-operator
@@ -2432,7 +4715,7 @@ entries:
     version: v0.3.2
   - apiVersion: v1
     appVersion: v0.3.1
-    created: 2022-08-26T13:05:35.335868319Z
+    created: "2022-08-29T10:31:04.959360851Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 614eaa1c0cd8a98d6481114f285006d4ffb10a16f03e0d8391924c5e0dcfee87
     name: wordpress-operator
@@ -2441,7 +4724,7 @@ entries:
     version: v0.3.1
   - apiVersion: v1
     appVersion: v0.3.0
-    created: 2022-08-26T13:05:35.335542384Z
+    created: "2022-08-29T10:31:04.958917405Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 27490ca4b22f52c5de90d691f17f4ac936bbb5557a37ff0a5f29ec7ba7bce4a1
     name: wordpress-operator
@@ -2450,7 +4733,7 @@ entries:
     version: v0.3.0
   - apiVersion: v1
     appVersion: v0.2.9
-    created: 2022-08-26T13:05:35.335216109Z
+    created: "2022-08-29T10:31:04.958464868Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 321dc71cf911f5d3648e3a0a241dac0107f74fe1caa6712adb3e175a8e44c407
     name: wordpress-operator
@@ -2459,7 +4742,7 @@ entries:
     version: v0.2.9
   - apiVersion: v1
     appVersion: v0.2.8
-    created: 2022-08-26T13:05:35.334899944Z
+    created: "2022-08-29T10:31:04.958010631Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 78b2dfb06d54833d298ec75e6e052cbd1f618809dc4499c13547edcd58e1137c
     name: wordpress-operator
@@ -2468,7 +4751,7 @@ entries:
     version: v0.2.8
   - apiVersion: v1
     appVersion: v0.2.7
-    created: 2022-08-26T13:05:35.33458867Z
+    created: "2022-08-29T10:31:04.957561974Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 4f3e5185dcb2c20820ddac5aafa79d85f10b222d150280c51e18f6b9f59963ee
     name: wordpress-operator
@@ -2477,7 +4760,7 @@ entries:
     version: v0.2.7
   - apiVersion: v1
     appVersion: v0.2.6
-    created: 2022-08-26T13:05:35.334274825Z
+    created: "2022-08-29T10:31:04.957112077Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 30d94de196c44b08bb6169b14fb27209755356475b674048f989264b47994486
     name: wordpress-operator
@@ -2486,7 +4769,7 @@ entries:
     version: v0.2.6
   - apiVersion: v1
     appVersion: v0.2.5
-    created: 2022-08-26T13:05:35.33397005Z
+    created: "2022-08-29T10:31:04.95664345Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: ab91574158c5883c9dbb9a9a2434aede8c10ca103e59c66ed2ce293195be9eb7
     name: wordpress-operator
@@ -2495,7 +4778,7 @@ entries:
     version: v0.2.5
   - apiVersion: v1
     appVersion: v0.2.4
-    created: 2022-08-26T13:05:35.333644315Z
+    created: "2022-08-29T10:31:04.956189123Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 26cd395c17093ef2dd431d4acf15c8f197093dd12150f2475803e60736bf7d88
     name: wordpress-operator
@@ -2504,7 +4787,7 @@ entries:
     version: v0.2.4
   - apiVersion: v1
     appVersion: v0.2.3
-    created: 2022-08-26T13:05:35.33334082Z
+    created: "2022-08-29T10:31:04.955742256Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 84812795d0b9d37037b99df9b7fec5deb4f63677a2969f53c7432022b6be52e8
     name: wordpress-operator
@@ -2513,7 +4796,7 @@ entries:
     version: v0.2.3
   - apiVersion: v1
     appVersion: v0.2.2
-    created: 2022-08-26T13:05:35.333036816Z
+    created: "2022-08-29T10:31:04.955294909Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: f419e429ca4960ffe4fd6257fbd006889239306d8db21e9a28cd33296b5926f6
     name: wordpress-operator
@@ -2522,7 +4805,7 @@ entries:
     version: v0.2.2
   - apiVersion: v1
     appVersion: v0.2.0
-    created: 2022-08-26T13:05:35.332791622Z
+    created: "2022-08-29T10:31:04.954897153Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 979ad2b772767b884706dd79007a3c56782ff5170310ba4030f18fdcf88c6568
     name: wordpress-operator
@@ -2531,7 +4814,7 @@ entries:
     version: v0.2.0
   - apiVersion: v1
     appVersion: v0.1.8
-    created: 2022-08-26T13:05:35.332537828Z
+    created: "2022-08-29T10:31:04.954485687Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: e9ce9609fc6d2d69ec3ef633a2246788fc750380b25e1a9db2b3c8fc6f5994e1
     name: wordpress-operator
@@ -2540,7 +4823,7 @@ entries:
     version: v0.1.8
   - apiVersion: v1
     appVersion: v0.1.7
-    created: 2022-08-26T13:05:35.332267834Z
+    created: "2022-08-29T10:31:04.95404779Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 620742d1149e6eb3e9a93362b733ff67be02b990e8ff791dd048f0c2cb639fcd
     name: wordpress-operator
@@ -2549,7 +4832,7 @@ entries:
     version: v0.1.7
   - apiVersion: v1
     appVersion: v0.1.6
-    created: 2022-08-26T13:05:35.33201652Z
+    created: "2022-08-29T10:31:04.953616654Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 9a0ad31d72fc9ff6959b2a16e3ad3fc08de61dc62687fb67ef55993a4e174f74
     name: wordpress-operator
@@ -2558,7 +4841,7 @@ entries:
     version: v0.1.6
   - apiVersion: v1
     appVersion: v0.1.4
-    created: 2022-08-26T13:05:35.331767896Z
+    created: "2022-08-29T10:31:04.953184537Z"
     description: A Helm chart for Kubernetes
     digest: 23fbba8a5bca54a8724076767922a1ff7c2e24db01a209e353629fb1a375e15d
     name: wordpress-operator
@@ -2567,7 +4850,7 @@ entries:
     version: v0.1.4
   - apiVersion: v1
     appVersion: v0.1.3
-    created: 2022-08-26T13:05:35.331529052Z
+    created: "2022-08-29T10:31:04.952757561Z"
     description: A Helm chart for Kubernetes
     digest: 063316fa33a0947e64c0307fed3264c34a2a323de9612d998b55a550509f4f3d
     name: wordpress-operator
@@ -2576,7 +4859,7 @@ entries:
     version: v0.1.3
   - apiVersion: v1
     appVersion: v0.1.2
-    created: 2022-08-26T13:05:35.331281458Z
+    created: "2022-08-29T10:31:04.952341954Z"
     description: A Helm chart for Kubernetes
     digest: a89cb1d3521f459888592260bb0248919e0d99e9b12da5aa9cbb0b6679dcc67a
     name: wordpress-operator
@@ -2585,7 +4868,7 @@ entries:
     version: v0.1.2
   - apiVersion: v1
     appVersion: v0.1.0
-    created: 2022-08-26T13:05:35.331028035Z
+    created: "2022-08-29T10:31:04.951891498Z"
     description: A Helm chart for Kubernetes
     digest: dc3179d8c521f04b81b7dfb57729eb496d2c903f023a434a35da1da3146827fa
     name: wordpress-operator
@@ -2595,7 +4878,7 @@ entries:
   wordpress-site:
   - apiVersion: v1
     appVersion: v1.0.0-test.1
-    created: 2022-08-26T13:05:35.373445148Z
+    created: "2022-08-29T10:31:05.002932525Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: f825f74742cad754cff988562744a091cf1c7a0f92eaa7d648c17362d5b9f557
     name: wordpress-site
@@ -2604,7 +4887,7 @@ entries:
     version: v1.0.0-test.1
   - apiVersion: v1
     appVersion: v0.13.0-rc-3
-    created: 2022-08-26T13:05:35.36060791Z
+    created: "2022-08-29T10:31:04.987918567Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: de51f77fff7e7910759c96b64e1bb60ed136f47c1546e91275c188186959006b
     name: wordpress-site
@@ -2613,7 +4896,7 @@ entries:
     version: v0.13.0-rc-3
   - apiVersion: v1
     appVersion: v0.13.0-rc.2
-    created: 2022-08-26T13:05:35.361061437Z
+    created: "2022-08-29T10:31:04.988517126Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 24b5f9e91798fec2e8daa5f950708374c9b45b23243c701f4a750c5d5ba20a26
     name: wordpress-site
@@ -2622,7 +4905,7 @@ entries:
     version: v0.13.0-rc.2
   - apiVersion: v1
     appVersion: v0.12.0
-    created: 2022-08-26T13:05:35.360147093Z
+    created: "2022-08-29T10:31:04.987318928Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 168522c97fd287ea2105d3460ee813c0a1c550a2bb61eba64d8995e0a3c208b2
     name: wordpress-site
@@ -2631,7 +4914,7 @@ entries:
     version: v0.12.0
   - apiVersion: v1
     appVersion: v0.12.0-rc.2
-    created: 2022-08-26T13:05:35.359673356Z
+    created: "2022-08-29T10:31:04.986729279Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 31443e7449d104f1d9ea7c8648513b411e23fe576d1442f487468e3f5669260a
     name: wordpress-site
@@ -2640,7 +4923,7 @@ entries:
     version: v0.12.0-rc.2
   - apiVersion: v1
     appVersion: v0.12.0-rc.1
-    created: 2022-08-26T13:05:35.359189678Z
+    created: "2022-08-29T10:31:04.98613164Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: d6a9086ee70c7ac0e9a30ed1c07a6bc9a191c3e9a52e0aa428dc386db86ff54a
     name: wordpress-site
@@ -2649,7 +4932,7 @@ entries:
     version: v0.12.0-rc.1
   - apiVersion: v1
     appVersion: v0.11.1
-    created: 2022-08-26T13:05:35.35538635Z
+    created: "2022-08-29T10:31:04.985548771Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 974b9565d1c712a94615160135202aa5d3c281d7f3ac399100fae76f44a191a9
     name: wordpress-site
@@ -2658,7 +4941,7 @@ entries:
     version: v0.11.1
   - apiVersion: v1
     appVersion: v0.11.1-rc.3
-    created: 2022-08-26T13:05:35.354769551Z
+    created: "2022-08-29T10:31:04.984950972Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 4aab8056d722c433038ec4a39821213206f36ac440c409e2f04413437aa5d53e
     name: wordpress-site
@@ -2667,7 +4950,7 @@ entries:
     version: v0.11.1-rc.3
   - apiVersion: v1
     appVersion: v0.11.1-rc.2
-    created: 2022-08-26T13:05:35.354016789Z
+    created: "2022-08-29T10:31:04.984365733Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 7186f54609b2c30077bdd0fcde1d9fd36ccbd20d314fac7e946a4f5c8a0a272c
     name: wordpress-site
@@ -2676,7 +4959,7 @@ entries:
     version: v0.11.1-rc.2
   - apiVersion: v1
     appVersion: v0.11.0
-    created: 2022-08-26T13:05:35.353569652Z
+    created: "2022-08-29T10:31:04.983768283Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 1088623d9384a4e6d14c81361bb13ee7061644df0eb0d683895ac09ff26f1ea4
     name: wordpress-site
@@ -2685,7 +4968,7 @@ entries:
     version: v0.11.0
   - apiVersion: v1
     appVersion: v0.11.0-rc.13
-    created: 2022-08-26T13:05:35.351298097Z
+    created: "2022-08-29T10:31:04.980419292Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 362af355ab97ed155afd5a72126b2e3216ee55c61899ebf516bf943e41d58b63
     name: wordpress-site
@@ -2694,7 +4977,7 @@ entries:
     version: v0.11.0-rc.13
   - apiVersion: v1
     appVersion: v0.11.0-rc.12
-    created: 2022-08-26T13:05:35.35085658Z
+    created: "2022-08-29T10:31:04.980097027Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 2e4a299cc47d94f8fea08231d156bf5781317f6b69170ede5b95a2d55a5e9b8b
     name: wordpress-site
@@ -2703,7 +4986,7 @@ entries:
     version: v0.11.0-rc.12
   - apiVersion: v1
     appVersion: v0.11.0-rc.11
-    created: 2022-08-26T13:05:35.350391473Z
+    created: "2022-08-29T10:31:04.979771132Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 8bc48b868f214068130a26f839d1ab22a5aad8c59584b3dbb7461f1257d537e7
     name: wordpress-site
@@ -2712,7 +4995,7 @@ entries:
     version: v0.11.0-rc.11
   - apiVersion: v1
     appVersion: v0.11.0-rc.10
-    created: 2022-08-26T13:05:35.350013447Z
+    created: "2022-08-29T10:31:04.979436387Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 4d5d056ebe344d2ff469f0eb4b60789d92d9d207c13b1e544363674e758b03c4
     name: wordpress-site
@@ -2721,7 +5004,7 @@ entries:
     version: v0.11.0-rc.10
   - apiVersion: v1
     appVersion: v0.11.0-rc.9
-    created: 2022-08-26T13:05:35.353118205Z
+    created: "2022-08-29T10:31:04.983173874Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 61a5f18436227d969d706f03c4024979a4928eccefaacf6da7de8131e69d8440
     name: wordpress-site
@@ -2730,7 +5013,7 @@ entries:
     version: v0.11.0-rc.9
   - apiVersion: v1
     appVersion: v0.11.0-rc.8
-    created: 2022-08-26T13:05:35.352667058Z
+    created: "2022-08-29T10:31:04.982561845Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: dbd0760615bf4f3f7371e888781c3009367cc20853d531a0edbcd4338bc41827
     name: wordpress-site
@@ -2739,7 +5022,7 @@ entries:
     version: v0.11.0-rc.8
   - apiVersion: v1
     appVersion: v0.11.0-rc.7
-    created: 2022-08-26T13:05:35.352206541Z
+    created: "2022-08-29T10:31:04.981946766Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 7daf3cdbb04e4cba30449c060bb408eb26fedb45acf76b61c155362b1d623eb9
     name: wordpress-site
@@ -2748,7 +5031,7 @@ entries:
     version: v0.11.0-rc.7
   - apiVersion: v1
     appVersion: v0.11.0-rc.2
-    created: 2022-08-26T13:05:35.351750024Z
+    created: "2022-08-29T10:31:04.981325606Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 90af26151306d5993a0d582863041eaf3200c1fdc89e4abf5fde5152a6997687
     name: wordpress-site
@@ -2757,7 +5040,7 @@ entries:
     version: v0.11.0-rc.2
   - apiVersion: v1
     appVersion: v0.11.0-rc.1
-    created: 2022-08-26T13:05:35.34956547Z
+    created: "2022-08-29T10:31:04.979116872Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 4d9b6f4a7ed7c3486febda0393383d20d53a04a7d0d393fdb7cec35feb6f1165
     name: wordpress-site
@@ -2766,7 +5049,7 @@ entries:
     version: v0.11.0-rc.1
   - apiVersion: v1
     appVersion: v0.10.4
-    created: 2022-08-26T13:05:35.349116333Z
+    created: "2022-08-29T10:31:04.978723626Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 170be17be2bb2948550c0d9bd67d34a256794f4c1ea908937ab0b5efc360254e
     name: wordpress-site
@@ -2775,7 +5058,7 @@ entries:
     version: v0.10.4
   - apiVersion: v1
     appVersion: v0.10.3
-    created: 2022-08-26T13:05:35.348677367Z
+    created: "2022-08-29T10:31:04.978115187Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 92d7b8ea15dd604bc40581fa13e13dfd8a1901c39d9b7e0cc5dad4ffe47a48e2
     name: wordpress-site
@@ -2784,7 +5067,7 @@ entries:
     version: v0.10.3
   - apiVersion: v1
     appVersion: v0.10.2
-    created: 2022-08-26T13:05:35.34822141Z
+    created: "2022-08-29T10:31:04.977519648Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: f70f90b14843f5c24f36e743728aebf89ab1a53d4885e2b3c527508cce1c7d00
     name: wordpress-site
@@ -2793,7 +5076,7 @@ entries:
     version: v0.10.2
   - apiVersion: v1
     appVersion: v0.10.1
-    created: 2022-08-26T13:05:35.347770153Z
+    created: "2022-08-29T10:31:04.976928969Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 0656c924a883a8c7a3f61c130adffd51a5e595090562bded42e1278d47969771
     name: wordpress-site
@@ -2802,7 +5085,7 @@ entries:
     version: v0.10.1
   - apiVersion: v1
     appVersion: v0.10.0
-    created: 2022-08-26T13:05:35.347332476Z
+    created: "2022-08-29T10:31:04.97634782Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: f9f0be3183f24a86bcf04efdafba50e0d23e92787d60dbd3fe0cdad3f1994583
     name: wordpress-site
@@ -2811,7 +5094,7 @@ entries:
     version: v0.10.0
   - apiVersion: v1
     appVersion: v0.9.1
-    created: 2022-08-26T13:05:35.371893504Z
+    created: "2022-08-29T10:31:05.002453218Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 29cec0cca07119b73757bade2cf8af9edb7e35700f3cc0be74185a68e8c25fe6
     name: wordpress-site
@@ -2820,7 +5103,7 @@ entries:
     version: v0.9.1
   - apiVersion: v1
     appVersion: v0.9.0
-    created: 2022-08-26T13:05:35.371020151Z
+    created: "2022-08-29T10:31:05.001985511Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: e8fa3591417fe0a1255483b7c5b719135c3ae9f40ed768aafccf6f3abb089648
     name: wordpress-site
@@ -2829,7 +5112,7 @@ entries:
     version: v0.9.0
   - apiVersion: v1
     appVersion: v0.8.5
-    created: 2022-08-26T13:05:35.370554014Z
+    created: "2022-08-29T10:31:05.001509574Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 47c3582e595b4f92c245bd321b974b11d47b22ac6d712ead1a3853dea83fa4bd
     name: wordpress-site
@@ -2838,7 +5121,7 @@ entries:
     version: v0.8.5
   - apiVersion: v1
     appVersion: v0.8.4
-    created: 2022-08-26T13:05:35.370061926Z
+    created: "2022-08-29T10:31:05.001047517Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: ad645fbedb1077859801d32d2a031de9a87d79931609e79da0b09352a8291d1d
     name: wordpress-site
@@ -2847,7 +5130,7 @@ entries:
     version: v0.8.4
   - apiVersion: v1
     appVersion: v0.8.3
-    created: 2022-08-26T13:05:35.369612569Z
+    created: "2022-08-29T10:31:05.000577199Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 61455aaf5993057f8ee953ba6969a82b147b7f1b39d20a4b8505a598e5fe6d3e
     name: wordpress-site
@@ -2856,7 +5139,7 @@ entries:
     version: v0.8.3
   - apiVersion: v1
     appVersion: v0.8.2
-    created: 2022-08-26T13:05:35.369158682Z
+    created: "2022-08-29T10:31:05.000111302Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: a59a5858697f3a5ec7f97d1ef741f18ead85acb02d6d18960f08c4099c572e0e
     name: wordpress-site
@@ -2865,7 +5148,7 @@ entries:
     version: v0.8.2
   - apiVersion: v1
     appVersion: v0.8.1
-    created: 2022-08-26T13:05:35.368708995Z
+    created: "2022-08-29T10:31:04.999605465Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 587c196d361a8f82e974df6a8dd6464b640532eea4a731427981022ec8f823f9
     name: wordpress-site
@@ -2874,7 +5157,7 @@ entries:
     version: v0.8.1
   - apiVersion: v1
     appVersion: v0.8.0
-    created: 2022-08-26T13:05:35.368255418Z
+    created: "2022-08-29T10:31:04.999136147Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 12eba6ce3fdd6e5d9be20b7ea20d5ad6327ae0c0be98fc58b8a17c084d62dd43
     name: wordpress-site
@@ -2883,7 +5166,7 @@ entries:
     version: v0.8.0
   - apiVersion: v1
     appVersion: v0.7.5
-    created: 2022-08-26T13:05:35.367805702Z
+    created: "2022-08-29T10:31:04.998569869Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 6e0fedd55265763029786a15a8e3811541cd98dbe16bc152be930df557a0417f
     name: wordpress-site
@@ -2892,7 +5175,7 @@ entries:
     version: v0.7.5
   - apiVersion: v1
     appVersion: v0.7.4
-    created: 2022-08-26T13:05:35.367324334Z
+    created: "2022-08-29T10:31:04.997866978Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 71db9c69c9cfbf8503b583a9a61a7b0c9f1eeb6b6c9520980a2bfc109c68ae73
     name: wordpress-site
@@ -2901,7 +5184,7 @@ entries:
     version: v0.7.4
   - apiVersion: v1
     appVersion: v0.7.3
-    created: 2022-08-26T13:05:35.366871307Z
+    created: "2022-08-29T10:31:04.997184398Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 068e5ebe66d6fabb31528d650a55e8d14f3b486338ea3cca15abcb13bcc6ba74
     name: wordpress-site
@@ -2910,7 +5193,7 @@ entries:
     version: v0.7.3
   - apiVersion: v1
     appVersion: v0.7.2
-    created: 2022-08-26T13:05:35.36640877Z
+    created: "2022-08-29T10:31:04.996502448Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 06d1232edc7156c31b1c4bdc406a5dc36fbefae20c3ae77aaa0df79bdec3cad3
     name: wordpress-site
@@ -2919,7 +5202,7 @@ entries:
     version: v0.7.2
   - apiVersion: v1
     appVersion: v0.7.1
-    created: 2022-08-26T13:05:35.365986884Z
+    created: "2022-08-29T10:31:04.995814137Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 757bfbb557db7f228a8e171d006e2905199b55e481f6158ea4f598c7c2cd2791
     name: wordpress-site
@@ -2928,7 +5211,7 @@ entries:
     version: v0.7.1
   - apiVersion: v1
     appVersion: v0.7.0
-    created: 2022-08-26T13:05:35.365552427Z
+    created: "2022-08-29T10:31:04.995113657Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: b7f4ff830fa71b7e0ff2dc79b5c5290485fa29472959019bde732538d3b92a11
     name: wordpress-site
@@ -2937,7 +5220,7 @@ entries:
     version: v0.7.0
   - apiVersion: v1
     appVersion: v0.7.0-alpha.0
-    created: 2022-08-26T13:05:35.36509344Z
+    created: "2022-08-29T10:31:04.994402466Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 6c3567634ee1fccacb4b265f5d05e23f0932d5e829b18c7f24866cf7366275be
     name: wordpress-site
@@ -2946,7 +5229,7 @@ entries:
     version: v0.7.0-alpha.0
   - apiVersion: v1
     appVersion: v0.6.2
-    created: 2022-08-26T13:05:35.364648493Z
+    created: "2022-08-29T10:31:04.993689045Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 6777cc1bb034a22a30d12657fc7fdbb4b2f5aa8e01eea1cdd90e865c8894355d
     name: wordpress-site
@@ -2955,7 +5238,7 @@ entries:
     version: v0.6.2
   - apiVersion: v1
     appVersion: v0.6.1
-    created: 2022-08-26T13:05:35.364189406Z
+    created: "2022-08-29T10:31:04.992980694Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 2f1005ec45f2fb63a2846c2d96d828363c45702d0a758a60a4058d5217e77df6
     name: wordpress-site
@@ -2964,7 +5247,7 @@ entries:
     version: v0.6.1
   - apiVersion: v1
     appVersion: v0.6.0
-    created: 2022-08-26T13:05:35.363766789Z
+    created: "2022-08-29T10:31:04.992139861Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: dd285563323ae4e3c5e83baa78cab4a9f66fb09b4662070b17843bc638f7e327
     name: wordpress-site
@@ -2973,7 +5256,7 @@ entries:
     version: v0.6.0
   - apiVersion: v1
     appVersion: v0.5.1
-    created: 2022-08-26T13:05:35.363369483Z
+    created: "2022-08-29T10:31:04.991492421Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 874d6edf8077f7ad293dbbc2f48414023ad0e960a5ec63a3d0a29901273822bf
     name: wordpress-site
@@ -2982,7 +5265,7 @@ entries:
     version: v0.5.1
   - apiVersion: v1
     appVersion: v0.5.0
-    created: 2022-08-26T13:05:35.363043968Z
+    created: "2022-08-29T10:31:04.991174257Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 9a43fe46a09a6a58821d3a3c1bc8f90fcd3df2f050c2247a818cdb60ab7e2214
     name: wordpress-site
@@ -2991,7 +5274,7 @@ entries:
     version: v0.5.0
   - apiVersion: v1
     appVersion: v0.4.1
-    created: 2022-08-26T13:05:35.362722883Z
+    created: "2022-08-29T10:31:04.990825031Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: b1ac1082d779fa468fe4cff7e731eb2e1102365689d9e26528eee9c0fc77fc21
     name: wordpress-site
@@ -3000,7 +5283,7 @@ entries:
     version: v0.4.1
   - apiVersion: v1
     appVersion: v0.4.0
-    created: 2022-08-26T13:05:35.362366068Z
+    created: "2022-08-29T10:31:04.990227722Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 8430e0d8dfb33277ee19ba1d4032e8e17900869c3dd3b461d013b2c2ea598fac
     name: wordpress-site
@@ -3009,7 +5292,7 @@ entries:
     version: v0.4.0
   - apiVersion: v1
     appVersion: v0.3.8
-    created: 2022-08-26T13:05:35.362023882Z
+    created: "2022-08-29T10:31:04.989649703Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: dd722e85e3697df99587dd7c6614e16e958e0f9b2d214c861e5726d8ce646b7b
     name: wordpress-site
@@ -3018,7 +5301,7 @@ entries:
     version: v0.3.8
   - apiVersion: v1
     appVersion: v0.3.7
-    created: 2022-08-26T13:05:35.361494864Z
+    created: "2022-08-29T10:31:04.989088945Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 07eca42f7ae7bf2678aac37ee852f458a3430cd6ca31d88d492c8038744d6380
     name: wordpress-site
@@ -3027,7 +5310,7 @@ entries:
     version: v0.3.7
   - apiVersion: v1
     appVersion: v0.1.8
-    created: 2022-08-26T13:05:35.346887969Z
+    created: "2022-08-29T10:31:04.975770552Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 918d07d9135ed65ebfe2f2c3681b2d5bf8fdb1da3b68ad06ccb686787e446832
     name: wordpress-site
@@ -3036,7 +5319,7 @@ entries:
     version: v0.1.8
   - apiVersion: v1
     appVersion: v0.1.7
-    created: 2022-08-26T13:05:35.346419162Z
+    created: "2022-08-29T10:31:04.975141072Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 30a7c19a3ad38b001ca0b65e1fe2e65471a3f46025c1eeb8c2ab5d888db633de
     name: wordpress-site
@@ -3045,7 +5328,7 @@ entries:
     version: v0.1.7
   - apiVersion: v1
     appVersion: v0.1.6
-    created: 2022-08-26T13:05:35.346008466Z
+    created: "2022-08-29T10:31:04.974566004Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 0398fd5ec69d8ebc5bf89179774d9bc7e6fe40754e08f8b7a3eed1021f7b8bbb
     name: wordpress-site
@@ -3054,7 +5337,7 @@ entries:
     version: v0.1.6
   - apiVersion: v1
     appVersion: v0.1.5
-    created: 2022-08-26T13:05:35.345585279Z
+    created: "2022-08-29T10:31:04.973986395Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 99450808031d2e96463d5fcab1b0f5454a8ad99d062bb5af0b25ada72697071c
     name: wordpress-site
@@ -3063,7 +5346,7 @@ entries:
     version: v0.1.5
   - apiVersion: v1
     appVersion: v0.1.4
-    created: 2022-08-26T13:05:35.345221984Z
+    created: "2022-08-29T10:31:04.973427926Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 51993fbc585626fa2183d722dbfa339957146e529399720ae7cec8b0a1edcc61
     name: wordpress-site
@@ -3072,7 +5355,7 @@ entries:
     version: v0.1.4
   - apiVersion: v1
     appVersion: v0.1.3
-    created: 2022-08-26T13:05:35.344839488Z
+    created: "2022-08-29T10:31:04.972861348Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: e68ca6674f2986892559120f3dd93334c391b24bc05f1dc6140fe6d21feb47c7
     name: wordpress-site
@@ -3081,7 +5364,7 @@ entries:
     version: v0.1.3
   - apiVersion: v1
     appVersion: 0.1.2
-    created: 2022-08-26T13:05:35.344589924Z
+    created: "2022-08-29T10:31:04.972442151Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: b3942c62b70d3a005b0b0876d2a46991be9b21f7aeb31ffea65c7c08fe6e401e
     name: wordpress-site
@@ -3090,7 +5373,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.1.1
-    created: 2022-08-26T13:05:35.34435427Z
+    created: "2022-08-29T10:31:04.972058785Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: e20c5478e27c87cc3ab19dcfc2394965126e8359db3c5a06acdc5c582ab54e53
     name: wordpress-site
@@ -3099,7 +5382,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: master
-    created: 2022-08-26T13:05:35.344126517Z
+    created: "2022-08-29T10:31:04.971656579Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 440d3b0dc67996bb3f19ee3bdf50ea8cb5553ec1779606b9d1dbe58498002755
     name: wordpress-site
@@ -3109,7 +5392,7 @@ entries:
   wp-operator:
   - apiVersion: v1
     appVersion: v1.4.1
-    created: 2022-08-26T13:05:35.441647309Z
+    created: "2022-08-29T10:31:05.063147343Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 10e60105d85fd9ef73226e69aba19ec9462dd1a95f8bd8e4fdb7d1311e970558
     kubeVersion: '>= 1.19.0-0'
@@ -3119,7 +5402,7 @@ entries:
     version: 1.4.1
   - apiVersion: v1
     appVersion: v1.4.1-test.0
-    created: 2022-08-26T13:05:35.440017654Z
+    created: "2022-08-29T10:31:05.060867219Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: b3bfe211f88d3e37de05addc80f501408d46487172b2d6cd51a86c000632f9fe
     kubeVersion: '>= 1.19.0-0'
@@ -3129,7 +5412,7 @@ entries:
     version: 1.4.1-test.0
   - apiVersion: v1
     appVersion: v1.4.0
-    created: 2022-08-26T13:05:35.438091334Z
+    created: "2022-08-29T10:31:05.058545584Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: d4176827c1ccf6f96b521c7eccfbb1275da57b54398e13d862852fd1ea57efdf
     kubeVersion: '>= 1.19.0-0'
@@ -3139,7 +5422,7 @@ entries:
     version: 1.4.0
   - apiVersion: v1
     appVersion: v1.3.2
-    created: 2022-08-26T13:05:35.436264016Z
+    created: "2022-08-29T10:31:05.056263469Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: cc82afb1993db98dd8ab78fc6dd08f5750c787fa79a21bf3910e64213ce7570c
     kubeVersion: '>= 1.19.0-0'
@@ -3149,7 +5432,7 @@ entries:
     version: 1.3.2
   - apiVersion: v1
     appVersion: v1.3.1
-    created: 2022-08-26T13:05:35.431787817Z
+    created: "2022-08-29T10:31:05.053992634Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 01bbfc5a2b9a384870fde27175754372e91253a188ddacb728d8087d6311058a
     kubeVersion: '>= 1.19.0-0'
@@ -3159,7 +5442,7 @@ entries:
     version: 1.3.1
   - apiVersion: v1
     appVersion: v1.3.0
-    created: 2022-08-26T13:05:35.427925988Z
+    created: "2022-08-29T10:31:05.05111755Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: cf026307a7e910a478d2307a4a39f4ed89b492501ffc1576d30fbe956bb33a8e
     kubeVersion: '>= 1.19.0-0'
@@ -3169,7 +5452,7 @@ entries:
     version: 1.3.0
   - apiVersion: v1
     appVersion: v1.2.0
-    created: 2022-08-26T13:05:35.425945227Z
+    created: "2022-08-29T10:31:05.048542461Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 422128cc84944dcafbef5ee3dea257a825eeb4af612ca2fd9bd44530c31398d4
     kubeVersion: '>= 1.19.0-0'
@@ -3179,7 +5462,7 @@ entries:
     version: 1.2.0
   - apiVersion: v1
     appVersion: v1.1.0
-    created: 2022-08-26T13:05:35.423873515Z
+    created: "2022-08-29T10:31:05.045924751Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 663b4fc189664ad18ef0b6d94a87ac1ad75867b0f5c7a8e24b3f6eab2cd5c18f
     kubeVersion: '>= 1.19.0-0'
@@ -3189,7 +5472,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: v1.1.0-rc.1
-    created: 2022-08-26T13:05:35.421949936Z
+    created: "2022-08-29T10:31:05.043387572Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: d8f6206a3c69aabd833a5b21c5feaa87fb00abc24102d950fa6790c2e77690c6
     kubeVersion: '>= 1.19.0-0'
@@ -3199,7 +5482,7 @@ entries:
     version: 1.1.0-rc.1
   - apiVersion: v1
     appVersion: v1.0.1
-    created: 2022-08-26T13:05:35.420094697Z
+    created: "2022-08-29T10:31:05.041228329Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: fd90742b92d931ac4db7b8156d98c1c0d9d92b59af6ab1d0b309ad7eec0bda43
     kubeVersion: '>= 1.19.0-0'
@@ -3209,7 +5492,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: v1.0.0
-    created: 2022-08-26T13:05:35.417551128Z
+    created: "2022-08-29T10:31:05.039541544Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: d5cd7128d477bff75722fadba433dc02abe80f886fc02b7fea0c9445f2008222
     kubeVersion: '>= 1.19.0-0'
@@ -3219,7 +5502,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: v1.0.0-rc.2
-    created: 2022-08-26T13:05:35.415210722Z
+    created: "2022-08-29T10:31:05.037575864Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: e7d6f7a7bb787b09fae475dcfe00ca9729421cce2fbdb2c963a483dc1849d00f
     kubeVersion: '>= 1.19.0-0'
@@ -3229,7 +5512,7 @@ entries:
     version: 1.0.0-rc.2
   - apiVersion: v1
     appVersion: v0.12.4
-    created: 2022-08-26T13:05:35.413284842Z
+    created: "2022-08-29T10:31:05.035364Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: f67d34e6c8c0a27fd3ee3b5c93424bb8435164f1fdc14cc4ad821de6a188a8ce
     kubeVersion: '>= 1.19.0-0'
@@ -3239,7 +5522,7 @@ entries:
     version: 0.12.4
   - apiVersion: v1
     appVersion: v0.12.2
-    created: 2022-08-26T13:05:35.411382873Z
+    created: "2022-08-29T10:31:05.032417355Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 27d90d1291fc20912105ddc291795c9636250d99e8575a22164fd4f63e63bb30
     kubeVersion: '>= 1.19.0-0'
@@ -3249,7 +5532,7 @@ entries:
     version: 0.12.2
   - apiVersion: v1
     appVersion: v0.12.1
-    created: 2022-08-26T13:05:35.40928024Z
+    created: "2022-08-29T10:31:05.029966388Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: f32c085f39fa839edfc4d096e634573524001cbf7cf344b0ba6b8eacbbbc4cea
     kubeVersion: '>= 1.19.0-0'
@@ -3259,7 +5542,7 @@ entries:
     version: 0.12.1
   - apiVersion: v1
     appVersion: v0.12.0
-    created: 2022-08-26T13:05:35.40735314Z
+    created: "2022-08-29T10:31:05.02747459Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 2a32f9047fc6332efa62073cce99cf2c5dad330b1c0533a6d1dfff36a5fdef14
     kubeVersion: '>= 1.19.0-0'
@@ -3269,7 +5552,7 @@ entries:
     version: 0.12.0
   - apiVersion: v1
     appVersion: 0.11.10
-    created: 2022-08-26T13:05:35.38071225Z
+    created: "2022-08-29T10:31:05.012191077Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 7126488643dc8d2753abe7859c5093e2cedcecd310f5a7a8611e24e40c91b305
     name: wp-operator
@@ -3278,7 +5561,7 @@ entries:
     version: 0.11.10
   - apiVersion: v1
     appVersion: 0.11.9
-    created: 2022-08-26T13:05:35.403821886Z
+    created: "2022-08-29T10:31:05.024937291Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 9794fbae1d91bbac1d960454c1590bccc89b4c402ca507543d0abf014c15c1a1
     name: wp-operator
@@ -3287,7 +5570,7 @@ entries:
     version: 0.11.9
   - apiVersion: v1
     appVersion: 0.11.8
-    created: 2022-08-26T13:05:35.39951571Z
+    created: "2022-08-29T10:31:05.023376927Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: da9584aac183e5131dff1edb541a4745e5480d2dcabfbd69ac6b3e31106e2199
     name: wp-operator
@@ -3296,7 +5579,7 @@ entries:
     version: 0.11.8
   - apiVersion: v1
     appVersion: 0.11.7
-    created: 2022-08-26T13:05:35.397748293Z
+    created: "2022-08-29T10:31:05.021812333Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 18131e0e3b23b683327f74454be5229f7edb2caa373bc872c0ccb343c536eaf7
     name: wp-operator
@@ -3305,7 +5588,7 @@ entries:
     version: 0.11.7
   - apiVersion: v1
     appVersion: 0.11.6
-    created: 2022-08-26T13:05:35.396472883Z
+    created: "2022-08-29T10:31:05.020642865Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: e634368c55eacc0e8d92f13da6255993d580a0aec3561f2534292172a6f23daa
     name: wp-operator
@@ -3314,7 +5597,7 @@ entries:
     version: 0.11.6
   - apiVersion: v1
     appVersion: 0.11.5
-    created: 2022-08-26T13:05:35.395043311Z
+    created: "2022-08-29T10:31:05.019041081Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 960e2061cd09f6ba215c5a3dbe98668c8ca4652764968d79806bf7927be4b699
     name: wp-operator
@@ -3323,7 +5606,7 @@ entries:
     version: 0.11.5
   - apiVersion: v1
     appVersion: 0.11.4
-    created: 2022-08-26T13:05:35.39304115Z
+    created: "2022-08-29T10:31:05.017392846Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: deb3be88063208af61518c6dd0c5c692dbd5a8b6093116e7c11deabaad88ad96
     name: wp-operator
@@ -3332,7 +5615,7 @@ entries:
     version: 0.11.4
   - apiVersion: v1
     appVersion: 0.11.3
-    created: 2022-08-26T13:05:35.391126461Z
+    created: "2022-08-29T10:31:05.01564745Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: c80b9040ce3a88954bdc52bce948041a4668c8e6951e8e9928c403132a88651c
     name: wp-operator
@@ -3341,7 +5624,7 @@ entries:
     version: 0.11.3
   - apiVersion: v1
     appVersion: 0.11.2
-    created: 2022-08-26T13:05:35.381777027Z
+    created: "2022-08-29T10:31:05.013925283Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 68ad8ff278bbd21437471a347a172f8fee4fc69b88ccedbabc999671d3fc22ab
     name: wp-operator
@@ -3350,7 +5633,7 @@ entries:
     version: 0.11.2
   - apiVersion: v1
     appVersion: 0.11.1
-    created: 2022-08-26T13:05:35.379193227Z
+    created: "2022-08-29T10:31:05.009855691Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 7210559c28023c1b53ba761deda9c605db8005cda1deccc33c20bb93d2b082ac
     name: wp-operator
@@ -3359,7 +5642,7 @@ entries:
     version: 0.11.1
   - apiVersion: v1
     appVersion: 0.11.0
-    created: 2022-08-26T13:05:35.37811571Z
+    created: "2022-08-29T10:31:05.008686743Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 6bf96fd0ade16da25d370fa6bc455f7123acb24eafb1b44920075b2ae2a8b045
     name: wp-operator
@@ -3368,7 +5651,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: 0.11.0-alpha.7
-    created: 2022-08-26T13:05:35.377076314Z
+    created: "2022-08-29T10:31:05.007538006Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 7dfdc88e6827c06cc15778aa6781ed4b5c77b6bbff129f7e67c71cb8d072997b
     name: wp-operator
@@ -3377,7 +5660,7 @@ entries:
     version: 0.11.0-alpha.7
   - apiVersion: v1
     appVersion: 0.11.0-alpha.6
-    created: 2022-08-26T13:05:35.376009718Z
+    created: "2022-08-29T10:31:05.006202265Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: b46cc2de1224b40c502df2035ff6e4adad4f2acc8bed73fe96f39d9934e9c662
     name: wp-operator
@@ -3386,11 +5669,11 @@ entries:
     version: 0.11.0-alpha.6
   - apiVersion: v1
     appVersion: 0.11.0-alpha.5
-    created: 2022-08-26T13:05:35.374946402Z
+    created: "2022-08-29T10:31:05.004783144Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 1a661c8fd0007e6ddbd2f0cd0f3d27442e82981c843dee9f040e6d3d2d86da1b
     name: wp-operator
     urls:
     - https://presslabs.github.io/charts/wp-operator-0.11.0-alpha.5.tgz
     version: 0.11.0-alpha.5
-generated: 2022-08-26T13:05:33.06694672Z
+generated: "2022-08-29T10:31:02.620738147Z"
