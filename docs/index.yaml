@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   calcium:
   - apiVersion: v2
+    appVersion: v0.0.10
+    created: "2022-09-22T12:19:27.539661007Z"
+    description: Presslabs Cache Manager
+    digest: 2e0fe60973e0ff472d80e72887374b84dd0b3c0e8ce67959fbc7b01b328f8967
+    name: calcium
+    type: application
+    urls:
+    - https://presslabs.github.io/charts/calcium-0.0.10.tgz
+    version: 0.0.10
+  - apiVersion: v2
     appVersion: v0.0.9
-    created: "2022-09-22T11:25:48.187144829Z"
+    created: "2022-09-22T12:19:27.542757975Z"
     description: Presslabs Cache Manager
     digest: 9178a478d3c85edc2c0e43fa630d4ad13dc1da9ecc3b6c5a0c97a1615b1d89d1
     name: calcium
@@ -13,7 +23,7 @@ entries:
     version: 0.0.9
   - apiVersion: v2
     appVersion: v0.0.7
-    created: "2022-09-22T11:25:48.185960061Z"
+    created: "2022-09-22T12:19:27.542285518Z"
     description: Presslabs Cache Manager
     digest: e3d403e8227455be74ea2408b7cf1c41e6d7a603b4bd8f6a9e00762345f59d0d
     name: calcium
@@ -23,7 +33,7 @@ entries:
     version: 0.0.7
   - apiVersion: v2
     appVersion: v0.0.6
-    created: "2022-09-22T11:25:48.185505894Z"
+    created: "2022-09-22T12:19:27.541834331Z"
     description: Presslabs Cache Manager
     digest: 19a9da689355d5e23f1a1f7242640a610ba56d4da5f781d79e796a71d8ab5231
     name: calcium
@@ -33,7 +43,7 @@ entries:
     version: 0.0.6
   - apiVersion: v2
     appVersion: v0.0.5
-    created: "2022-09-22T11:25:48.185065617Z"
+    created: "2022-09-22T12:19:27.541384854Z"
     description: Presslabs Cache Manager
     digest: 2dc763099ab907157e1274f6aec7e8440084db36afa2fd501d68628f0a96cf44
     name: calcium
@@ -43,7 +53,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: v0.0.4
-    created: "2022-09-22T11:25:48.184616331Z"
+    created: "2022-09-22T12:19:27.540944347Z"
     description: Presslabs Cache Manager
     digest: 4afb95be44b8e5dbc85475398ce335c62f8e917d73fe91c75a0d503121758871
     name: calcium
@@ -53,7 +63,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: v0.0.3
-    created: "2022-09-22T11:25:48.184167064Z"
+    created: "2022-09-22T12:19:27.5405109Z"
     description: Presslabs Cache Manager
     digest: 6a55637f391f00c600a3224d8363610f32d8c9d76f5e9bd63f4cc3b116d02297
     name: calcium
@@ -63,7 +73,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: v0.0.2
-    created: "2022-09-22T11:25:48.183723837Z"
+    created: "2022-09-22T12:19:27.540076973Z"
     description: Presslabs Cache Manager
     digest: 09dcf2e0478cb39eaf5339fa5a6441a6e9d7cbed32ccdfc432af0a42dba8b298
     name: calcium
@@ -73,7 +83,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: v0.0.1
-    created: "2022-09-22T11:25:48.18327821Z"
+    created: "2022-09-22T12:19:27.539193Z"
     description: Presslabs Cache Manager
     digest: 0d1c747d4e2ee53615efb8ca41d39fe805bf477383f937b90e426f766d2235c9
     name: calcium
@@ -83,7 +93,7 @@ entries:
     version: 0.0.1
   - apiVersion: v2
     appVersion: v0.0.0
-    created: "2022-09-22T11:25:48.182835234Z"
+    created: "2022-09-22T12:19:27.538759463Z"
     description: Presslabs Cache Manager
     digest: 33daa94fef1dc1b693251c482184e8cd9bc9709302ccb61b6f211aafdafa8bfb
     name: calcium
@@ -93,7 +103,7 @@ entries:
     version: 0.0.0
   - apiVersion: v2
     appVersion: v0.0.0-test.1
-    created: "2022-09-22T11:25:48.182411987Z"
+    created: "2022-09-22T12:19:27.538283856Z"
     description: Presslabs Cache Manager
     digest: b47df66f59930c7a07c441446285729f312b86738e205fd92f75e1ce4da16c51
     name: calcium
@@ -103,7 +113,7 @@ entries:
     version: 0.0.0-test.1
   - apiVersion: v2
     appVersion: v0.0.0-test.0.dev.1+d8f7ea95
-    created: "2022-09-22T11:25:48.181953871Z"
+    created: "2022-09-22T12:19:27.537830449Z"
     description: Presslabs Cache Manager
     digest: a53f1e74e5ccef0767af3be492055399704c915243642f752964e8e0ae40200f
     name: calcium
@@ -114,7 +124,7 @@ entries:
   dashboard:
   - apiVersion: v1
     appVersion: v1.0.0-rc.6-dirty
-    created: "2022-09-22T11:25:48.200010183Z"
+    created: "2022-09-22T12:19:27.552045788Z"
     description: Presslabs Dashboard Helm Chart
     digest: 3e202ad13d7fb101f7e3d4bff5cdb8fb7c6ba6ad87a3b881b033ac7f30229820
     name: dashboard
@@ -123,7 +133,7 @@ entries:
     version: v1.0.0-rc.6-dirty
   - apiVersion: v1
     appVersion: v1.0.0-rc.3-dirty
-    created: "2022-09-22T11:25:48.199484526Z"
+    created: "2022-09-22T12:19:27.551005152Z"
     description: Presslabs Dashboard Helm Chart
     digest: beda120c0e7ae27a64edc2e36e9dcf93e3d939a0c2ca902662a6e97332ca53bf
     name: dashboard
@@ -132,7 +142,7 @@ entries:
     version: v1.0.0-rc.3-dirty
   - apiVersion: v1
     appVersion: v1.0.0-rc.2-dirty
-    created: "2022-09-22T11:25:48.198957698Z"
+    created: "2022-09-22T12:19:27.54958045Z"
     description: Presslabs Dashboard Helm Chart
     digest: f45a2212f76cadfcb6fa14beef997428aba9801e9aab56c49560ddde8a60ee4f
     name: dashboard
@@ -141,7 +151,7 @@ entries:
     version: v1.0.0-rc.2-dirty
   - apiVersion: v1
     appVersion: v1.0.0-rc.1-dirty
-    created: "2022-09-22T11:25:48.197589987Z"
+    created: "2022-09-22T12:19:27.549069522Z"
     description: Presslabs Dashboard Helm Chart
     digest: 0be8dc6ecb710b462b2228e187b730c965246be9aff7ae7418f72fbf11984b20
     name: dashboard
@@ -150,7 +160,7 @@ entries:
     version: v1.0.0-rc.1-dirty
   - apiVersion: v1
     appVersion: v1.0.0-rc.0-dirty
-    created: "2022-09-22T11:25:48.196222456Z"
+    created: "2022-09-22T12:19:27.548551644Z"
     description: Presslabs Dashboard Helm Chart
     digest: af2295c5917d9bfb3be4f4d8427a5bbb5d21dc187701cbd486b103168073a43b
     name: dashboard
@@ -159,7 +169,7 @@ entries:
     version: v1.0.0-rc.0-dirty
   - apiVersion: v1
     appVersion: v0.0.16-dirty
-    created: "2022-09-22T11:25:48.193255131Z"
+    created: "2022-09-22T12:19:27.547059931Z"
     description: Presslabs Dashboard Helm Chart
     digest: f313144e0111b308395e939ca5bb1b6839e68a9e6056ac1bd15cef557bcbe9fe
     name: dashboard
@@ -168,7 +178,7 @@ entries:
     version: v0.0.16-dirty
   - apiVersion: v1
     appVersion: v0.0.15-dirty
-    created: "2022-09-22T11:25:48.192226305Z"
+    created: "2022-09-22T12:19:27.546557023Z"
     description: Presslabs Dashboard Helm Chart
     digest: c156820c8400ca23ec51b74e48a18b9e9c543f71b22297f835e80285ca82a5c3
     name: dashboard
@@ -177,7 +187,7 @@ entries:
     version: v0.0.15-dirty
   - apiVersion: v1
     appVersion: v0.0.14-dirty
-    created: "2022-09-22T11:25:48.19123822Z"
+    created: "2022-09-22T12:19:27.546042485Z"
     description: Presslabs Dashboard Helm Chart
     digest: 19d05eec51411acc7368e5dfab7b93dfcf67c95468628b4593e990e4be70baa5
     name: dashboard
@@ -186,7 +196,7 @@ entries:
     version: v0.0.14-dirty
   - apiVersion: v1
     appVersion: v0.0.13-dirty
-    created: "2022-09-22T11:25:48.190266496Z"
+    created: "2022-09-22T12:19:27.545540777Z"
     description: Presslabs Dashboard Helm Chart
     digest: a9b8e161e9504239086dfe96da1c03dfbf66ad0d07dd6b033a1c05c862bd2c7d
     name: dashboard
@@ -195,7 +205,7 @@ entries:
     version: v0.0.13-dirty
   - apiVersion: v1
     appVersion: v0.0.12-dirty
-    created: "2022-09-22T11:25:48.189277651Z"
+    created: "2022-09-22T12:19:27.544895098Z"
     description: Presslabs Dashboard Helm Chart
     digest: d0a1123f10e168429c9fd5c3296576acd5af9345c7e370a960a359831614600c
     name: dashboard
@@ -204,7 +214,7 @@ entries:
     version: v0.0.12-dirty
   - apiVersion: v1
     appVersion: v0.0.11-dirty
-    created: "2022-09-22T11:25:48.188263946Z"
+    created: "2022-09-22T12:19:27.543547077Z"
     description: Presslabs Dashboard Helm Chart
     digest: 242fcaa0e46afed9b35b348e9a4772118d56ecb24e650d135ee096e09adc35d7
     name: dashboard
@@ -213,7 +223,7 @@ entries:
     version: v0.0.11-dirty
   - apiVersion: v1
     appVersion: v0.0.9-dirty
-    created: "2022-09-22T11:25:48.1952146Z"
+    created: "2022-09-22T12:19:27.548026706Z"
     description: Presslabs Dashboard Helm Chart
     digest: 3b63fb41531ea94b34068cc4eb2292ef3f5025d37e789ffeeb09954f0aae640a
     name: dashboard
@@ -222,7 +232,7 @@ entries:
     version: v0.0.9-dirty
   - apiVersion: v1
     appVersion: v0.0.8-dirty
-    created: "2022-09-22T11:25:48.194236496Z"
+    created: "2022-09-22T12:19:27.547542368Z"
     description: Presslabs Dashbaord Helm Chart
     digest: f618beff094cab7d5d5e06cf3772f2387853072e850baeb3656e7e2bdf0e5b12
     name: dashboard
@@ -232,7 +242,7 @@ entries:
   db-operator:
   - apiVersion: v1
     appVersion: v0.5.0
-    created: "2022-09-22T11:25:48.227271525Z"
+    created: "2022-09-22T12:19:27.576260913Z"
     description: A Helm chart for db operator
     digest: 1482126f008463e60506f4c665eb265a8582ecfc20fca1e7dbf092af539b80c3
     home: https://github.com/presslabs/db-operator
@@ -249,7 +259,7 @@ entries:
     version: v0.5.0
   - apiVersion: v1
     appVersion: v0.5.0-test.3
-    created: "2022-09-22T11:25:48.208345699Z"
+    created: "2022-09-22T12:19:27.560629051Z"
     description: A Helm chart for db operator
     digest: 34a8f229897a659caed7b92ff7dbf0eac837e4f901ac422c1695261713c0c00e
     home: https://github.com/presslabs/db-operator
@@ -266,7 +276,7 @@ entries:
     version: 0.5.0-test.3
   - apiVersion: v1
     appVersion: v0.5.0-test.0.dev.6+7772ca6a
-    created: "2022-09-22T11:25:48.205035469Z"
+    created: "2022-09-22T12:19:27.558789813Z"
     description: A Helm chart for db operator
     digest: 5cf1524d2604eec765ca7d706342bf30a7668a024840ecf2c411b9ee5099c17a
     home: https://github.com/presslabs/db-operator
@@ -283,7 +293,7 @@ entries:
     version: 0.5.0-test.0.dev.6+7772ca6a
   - apiVersion: v1
     appVersion: v0.5.0-rc.8
-    created: "2022-09-22T11:25:48.224349561Z"
+    created: "2022-09-22T12:19:27.57343654Z"
     description: A Helm chart for db operator
     digest: 64dbf9c03cdcd84045c464c6a7fae680d566315721c867674c5759cdbb93dc03
     home: https://github.com/presslabs/db-operator
@@ -300,7 +310,7 @@ entries:
     version: v0.5.0-rc.8
   - apiVersion: v1
     appVersion: v0.5.0-rc.7
-    created: "2022-09-22T11:25:48.220975519Z"
+    created: "2022-09-22T12:19:27.569978146Z"
     description: A Helm chart for db operator
     digest: ab238ff0ad2913106651be90bcd26077a9d1d912fe42c0e9476b1ca769a508cd
     home: https://github.com/presslabs/db-operator
@@ -317,7 +327,7 @@ entries:
     version: v0.5.0-rc.7
   - apiVersion: v1
     appVersion: v0.5.0-rc.6
-    created: "2022-09-22T11:25:48.217662989Z"
+    created: "2022-09-22T12:19:27.567253294Z"
     description: A Helm chart for db operator
     digest: 277cbc553c016cbd0a00c44f55f64b8c5d6b1c8443abeee584e2f6379ca8a1e4
     home: https://github.com/presslabs/db-operator
@@ -334,7 +344,7 @@ entries:
     version: v0.5.0-rc.6
   - apiVersion: v1
     appVersion: v0.5.0-rc.5
-    created: "2022-09-22T11:25:48.215444096Z"
+    created: "2022-09-22T12:19:27.564988199Z"
     description: A Helm chart for db operator
     digest: 268e19b5a208106c3ef57e34a11932dfd56fb3670760527792204f5e956a55cd
     home: https://github.com/presslabs/db-operator
@@ -351,7 +361,7 @@ entries:
     version: v0.5.0-rc.5
   - apiVersion: v1
     appVersion: v0.5.0-rc.4
-    created: "2022-09-22T11:25:48.21238032Z"
+    created: "2022-09-22T12:19:27.562263046Z"
     description: A Helm chart for db operator
     digest: cbff29499451abc69c09457f8687ebfdc32b7dcd4a01432a7ceea6f4ed9aee54
     home: https://github.com/presslabs/db-operator
@@ -368,7 +378,7 @@ entries:
     version: v0.5.0-rc.4
   - apiVersion: v1
     appVersion: master
-    created: "2022-09-22T11:25:48.20174735Z"
+    created: "2022-09-22T12:19:27.555469841Z"
     description: A Helm chart for db operator
     digest: 229cd2839d7488bc68d0f831026dc492397f1953330c5e8ba50468295dee9d52
     home: https://github.com/presslabs/db-operator
@@ -386,7 +396,7 @@ entries:
   locust:
   - apiVersion: v1
     appVersion: 0.7.5
-    created: "2022-09-22T11:25:48.22758153Z"
+    created: "2022-09-22T12:19:27.57669484Z"
     description: A modern load testing framework
     digest: 3beb7babcd333cd3542cc19c13c5894e3816fd0ddd877d40c7d1ff50104c77e4
     home: http://locust.io
@@ -403,7 +413,7 @@ entries:
   mysql-cluster:
   - apiVersion: v1
     appVersion: v0.5.0-test.3
-    created: "2022-09-22T11:25:48.229958906Z"
+    created: "2022-09-22T12:19:27.579913229Z"
     description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
     digest: 858e4c00f9c8202345cc481bb64426e87337aac7ed81e8255de257426c429c55
     name: mysql-cluster
@@ -412,7 +422,7 @@ entries:
     version: 0.5.0-test.3
   - apiVersion: v1
     appVersion: v0.5.0-test.0.dev.6+7772ca6a
-    created: "2022-09-22T11:25:48.22957569Z"
+    created: "2022-09-22T12:19:27.579513433Z"
     description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
     digest: bc0e8f2c2b62d45180fc6a0dd55eec96317bd64ce84cc209a50f7aefde55b847
     name: mysql-cluster
@@ -421,7 +431,7 @@ entries:
     version: 0.5.0-test.0.dev.6+7772ca6a
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-09-22T11:25:48.229034212Z"
+    created: "2022-09-22T12:19:27.579030145Z"
     description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
     digest: d54126c133b18233d686b6580f3a412e6c331a28c3e90abca0db8fbdb4018322
     name: mysql-cluster
@@ -430,7 +440,7 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-09-22T11:25:48.228492093Z"
+    created: "2022-09-22T12:19:27.577951729Z"
     description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
     digest: 2c666e39eda46a0ed6e3dcedbab563952a810e279ec2263688f017aa3109bec0
     name: mysql-cluster
@@ -439,7 +449,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-09-22T11:25:48.228302291Z"
+    created: "2022-09-22T12:19:27.577686405Z"
     description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
     digest: 722a1caa47790d21fa5a125f89861dfd36ea022767212c3bf9f6b1c8a6ae47fb
     name: mysql-cluster
@@ -448,7 +458,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-09-22T11:25:48.228108848Z"
+    created: "2022-09-22T12:19:27.577421681Z"
     description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
     digest: 52ba49acc128eeef127d58ac454103ff0085b74cfec9b9e5430dc5d7d34de51c
     name: mysql-cluster
@@ -457,7 +467,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-09-22T11:25:48.227928015Z"
+    created: "2022-09-22T12:19:27.577170237Z"
     description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
     digest: f7108f4bae49e9972ac39e670b5b7b510e4da9a0920d2a3a78277be88a3b24f0
     name: mysql-cluster
@@ -466,7 +476,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-09-22T11:25:48.227746672Z"
+    created: "2022-09-22T12:19:27.576924793Z"
     description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
     digest: 6bbcc9e9e9b86f16439ecdc81f6dfc9cb366f858b95d6b0782d02e562b5ebd49
     name: mysql-cluster
@@ -476,7 +486,7 @@ entries:
   mysql-operator:
   - apiVersion: v1
     appVersion: v0.5.0-rc.3
-    created: "2022-09-22T11:25:48.278899815Z"
+    created: "2022-09-22T12:19:27.627978913Z"
     description: A Helm chart for mysql operator
     digest: 2fc5120b1b76fe785fda20545a19ca8e1f1c333d657b579015a25e49a0bf1e7b
     home: https://github.com/presslabs/mysql-operator
@@ -493,7 +503,7 @@ entries:
     version: 0.5.0-rc.3
   - apiVersion: v1
     appVersion: v0.5.0-rc.2
-    created: "2022-09-22T11:25:48.277386542Z"
+    created: "2022-09-22T12:19:27.624882385Z"
     description: A Helm chart for mysql operator
     digest: 43555392d0f362e4422fa2e7bbd6a9366783d978d353afd808b2b2abe990476d
     home: https://github.com/presslabs/mysql-operator
@@ -510,7 +520,7 @@ entries:
     version: 0.5.0-rc.2
   - apiVersion: v1
     appVersion: v0.5.0-rc.1
-    created: "2022-09-22T11:25:48.275630375Z"
+    created: "2022-09-22T12:19:27.622030621Z"
     description: A Helm chart for mysql operator
     digest: 87d5e753b556bbe25d000284ecfd8699c953b1fb6f0af101608ebab841c265e2
     home: https://github.com/presslabs/mysql-operator
@@ -527,7 +537,7 @@ entries:
     version: 0.5.0-rc.1
   - apiVersion: v1
     appVersion: v0.4.0
-    created: "2022-09-22T11:25:48.274843603Z"
+    created: "2022-09-22T12:19:27.620300834Z"
     description: A Helm chart for mysql operator
     digest: 7b3096ab6d84e49e6df90500507be4de26a27d7ffe90496bd478471f52580a2e
     home: https://github.com/presslabs/mysql-operator
@@ -544,7 +554,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: v0.4.0-rc.1
-    created: "2022-09-22T11:25:48.273629704Z"
+    created: "2022-09-22T12:19:27.619656624Z"
     description: A Helm chart for mysql operator
     digest: efc3219c0c1a0989959a116cd1ac4f4047ada81b9f3fe955e4a5da2b811e42e7
     home: https://github.com/presslabs/mysql-operator
@@ -561,7 +571,7 @@ entries:
     version: 0.4.0-rc.1
   - apiVersion: v1
     appVersion: v0.3.10
-    created: "2022-09-22T11:25:48.26334605Z"
+    created: "2022-09-22T12:19:27.610073736Z"
     description: A Helm chart for mysql operator
     digest: a5e7777f07c33de0eb56638b9886405b19925fdd876ce79789ef43cb5e74f97e
     home: https://github.com/presslabs/mysql-operator
@@ -578,7 +588,7 @@ entries:
     version: 0.3.10
   - apiVersion: v1
     appVersion: v0.3.9
-    created: "2022-09-22T11:25:48.272504868Z"
+    created: "2022-09-22T12:19:27.618804051Z"
     description: A Helm chart for mysql operator
     digest: 9d7a37ca1b4fccff21384af1e4024c1883ef313f33da118344496a9b911fa599
     home: https://github.com/presslabs/mysql-operator
@@ -595,7 +605,7 @@ entries:
     version: 0.3.9
   - apiVersion: v1
     appVersion: v0.3.8
-    created: "2022-09-22T11:25:48.27136109Z"
+    created: "2022-09-22T12:19:27.617703064Z"
     description: A Helm chart for mysql operator
     digest: b2bc16971aad767dd700b0496f0b7835249ce4422b27ffbf773a89e09159a769
     home: https://github.com/presslabs/mysql-operator
@@ -612,7 +622,7 @@ entries:
     version: 0.3.8
   - apiVersion: v1
     appVersion: v0.3.7
-    created: "2022-09-22T11:25:48.270198663Z"
+    created: "2022-09-22T12:19:27.616626957Z"
     description: A Helm chart for mysql operator
     digest: fc86ce651c9b6676b455e290c7f135efb472ca76519767bb89e66bcd1769b431
     home: https://github.com/presslabs/mysql-operator
@@ -629,7 +639,7 @@ entries:
     version: 0.3.7
   - apiVersion: v1
     appVersion: v0.3.6
-    created: "2022-09-22T11:25:48.269111526Z"
+    created: "2022-09-22T12:19:27.61555022Z"
     description: A Helm chart for mysql operator
     digest: 856cb83b5d5612e68d5cb8d75901a54e77285617770f9dc9bed8be1bb240cc28
     home: https://github.com/presslabs/mysql-operator
@@ -646,7 +656,7 @@ entries:
     version: 0.3.6
   - apiVersion: v1
     appVersion: v0.3.5
-    created: "2022-09-22T11:25:48.26800336Z"
+    created: "2022-09-22T12:19:27.614438053Z"
     description: A Helm chart for mysql operator
     digest: a288ac45ad2a189d924f891646021e514fd3f00f06c0d0634a2d602f9af7f22d
     home: https://github.com/presslabs/mysql-operator
@@ -663,7 +673,7 @@ entries:
     version: 0.3.5
   - apiVersion: v1
     appVersion: v0.3.4
-    created: "2022-09-22T11:25:48.266915693Z"
+    created: "2022-09-22T12:19:27.613363367Z"
     description: A Helm chart for mysql operator
     digest: e1d7e784db8727244c913d37b035f14d4f5656e0871f738d93af325265c56fc2
     home: https://github.com/presslabs/mysql-operator
@@ -680,7 +690,7 @@ entries:
     version: 0.3.4
   - apiVersion: v1
     appVersion: v0.3.3
-    created: "2022-09-22T11:25:48.265783596Z"
+    created: "2022-09-22T12:19:27.61227072Z"
     description: A Helm chart for mysql operator
     digest: c1810400649969c3219f4a47dd94d150602e25eccc0f67edc698077bc3ea936d
     home: https://github.com/presslabs/mysql-operator
@@ -697,7 +707,7 @@ entries:
     version: 0.3.3
   - apiVersion: v1
     appVersion: v0.3.2
-    created: "2022-09-22T11:25:48.264667509Z"
+    created: "2022-09-22T12:19:27.611176233Z"
     description: A Helm chart for mysql operator
     digest: 736042fbe97ee2b453d85175a8f267d65e87554a27451167522637d73625d1ca
     home: https://github.com/presslabs/mysql-operator
@@ -714,7 +724,7 @@ entries:
     version: 0.3.2
   - apiVersion: v1
     appVersion: v0.3.1
-    created: "2022-09-22T11:25:48.262751311Z"
+    created: "2022-09-22T12:19:27.608837097Z"
     description: A Helm chart for mysql operator
     digest: f77d893489a919f291c18e1563910609c89236552b597bcd97ec150ab4345af8
     home: https://github.com/presslabs/mysql-operator
@@ -731,7 +741,7 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: v0.3.0
-    created: "2022-09-22T11:25:48.261631184Z"
+    created: "2022-09-22T12:19:27.608055675Z"
     description: A Helm chart for mysql operator
     digest: 5aa5fe68190f713c8e46749bbe98ac830443f26adf2947b4f3dd51aa65f6ab83
     home: https://github.com/presslabs/mysql-operator
@@ -748,7 +758,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: v0.3.0-rc.3
-    created: "2022-09-22T11:25:48.260520017Z"
+    created: "2022-09-22T12:19:27.607430325Z"
     description: A Helm chart for mysql operator
     digest: 0da86651ac974bae202f4be7aa4f31159148d25e8e2b8b309994d62ffc0dedb5
     home: https://github.com/presslabs/mysql-operator
@@ -765,7 +775,7 @@ entries:
     version: 0.3.0-rc.3
   - apiVersion: v1
     appVersion: v0.3.0-rc.1
-    created: "2022-09-22T11:25:48.259494731Z"
+    created: "2022-09-22T12:19:27.606489541Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -786,7 +796,7 @@ entries:
     version: 0.3.0-rc.1
   - apiVersion: v1
     appVersion: v0.2.10
-    created: "2022-09-22T11:25:48.249147845Z"
+    created: "2022-09-22T12:19:27.596225682Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -807,7 +817,7 @@ entries:
     version: 0.2.10
   - apiVersion: v1
     appVersion: v0.2.9
-    created: "2022-09-22T11:25:48.258271403Z"
+    created: "2022-09-22T12:19:27.605214551Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -828,7 +838,7 @@ entries:
     version: 0.2.9
   - apiVersion: v1
     appVersion: v0.2.8-dirty
-    created: "2022-09-22T11:25:48.257155976Z"
+    created: "2022-09-22T12:19:27.604055153Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -849,7 +859,7 @@ entries:
     version: 0.2.8-dirty
   - apiVersion: v1
     appVersion: v0.2.7
-    created: "2022-09-22T11:25:48.255937028Z"
+    created: "2022-09-22T12:19:27.602790694Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -870,7 +880,7 @@ entries:
     version: 0.2.7
   - apiVersion: v1
     appVersion: v0.2.6
-    created: "2022-09-22T11:25:48.254789561Z"
+    created: "2022-09-22T12:19:27.601600725Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -891,7 +901,7 @@ entries:
     version: 0.2.6
   - apiVersion: v1
     appVersion: v0.2.5
-    created: "2022-09-22T11:25:48.253635733Z"
+    created: "2022-09-22T12:19:27.600439127Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -912,7 +922,7 @@ entries:
     version: 0.2.5
   - apiVersion: v1
     appVersion: v0.2.4
-    created: "2022-09-22T11:25:48.252475916Z"
+    created: "2022-09-22T12:19:27.599268169Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -933,7 +943,7 @@ entries:
     version: 0.2.4
   - apiVersion: v1
     appVersion: v0.2.3
-    created: "2022-09-22T11:25:48.251107395Z"
+    created: "2022-09-22T12:19:27.59803951Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -954,7 +964,7 @@ entries:
     version: 0.2.3
   - apiVersion: v1
     appVersion: v0.2.2
-    created: "2022-09-22T11:25:48.250279703Z"
+    created: "2022-09-22T12:19:27.596823971Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -975,7 +985,7 @@ entries:
     version: 0.2.2
   - apiVersion: v1
     appVersion: v0.2.1
-    created: "2022-09-22T11:25:48.248006348Z"
+    created: "2022-09-22T12:19:27.595628623Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -996,7 +1006,7 @@ entries:
     version: 0.2.1
   - apiVersion: v1
     appVersion: v0.2.0
-    created: "2022-09-22T11:25:48.24685981Z"
+    created: "2022-09-22T12:19:27.594999123Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -1017,7 +1027,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 0.1.14
-    created: "2022-09-22T11:25:48.237893355Z"
+    created: "2022-09-22T12:19:27.58769272Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -1038,7 +1048,7 @@ entries:
     version: 0.1.14
   - apiVersion: v1
     appVersion: 0.1.13
-    created: "2022-09-22T11:25:48.236668547Z"
+    created: "2022-09-22T12:19:27.586576572Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -1059,7 +1069,7 @@ entries:
     version: 0.1.13
   - apiVersion: v1
     appVersion: 0.1.12
-    created: "2022-09-22T11:25:48.235431798Z"
+    created: "2022-09-22T12:19:27.585472375Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -1080,7 +1090,7 @@ entries:
     version: 0.1.12
   - apiVersion: v1
     appVersion: 0.1.11
-    created: "2022-09-22T11:25:48.23424826Z"
+    created: "2022-09-22T12:19:27.584345438Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -1101,7 +1111,7 @@ entries:
     version: 0.1.11
   - apiVersion: v1
     appVersion: 0.1.10
-    created: "2022-09-22T11:25:48.233172724Z"
+    created: "2022-09-22T12:19:27.58322603Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -1122,7 +1132,7 @@ entries:
     version: 0.1.10
   - apiVersion: v1
     appVersion: 0.1.9
-    created: "2022-09-22T11:25:48.245717583Z"
+    created: "2022-09-22T12:19:27.594381703Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -1143,7 +1153,7 @@ entries:
     version: 0.1.9
   - apiVersion: v1
     appVersion: 0.1.8
-    created: "2022-09-22T11:25:48.244652227Z"
+    created: "2022-09-22T12:19:27.593802024Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -1164,7 +1174,7 @@ entries:
     version: 0.1.8
   - apiVersion: v1
     appVersion: 0.1.7
-    created: "2022-09-22T11:25:48.243584141Z"
+    created: "2022-09-22T12:19:27.593209495Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -1185,7 +1195,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 0.1.6
-    created: "2022-09-22T11:25:48.242509305Z"
+    created: "2022-09-22T12:19:27.592623006Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -1206,7 +1216,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 0.1.5
-    created: "2022-09-22T11:25:48.241411348Z"
+    created: "2022-09-22T12:19:27.592037997Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -1227,7 +1237,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 0.1.3
-    created: "2022-09-22T11:25:48.24017727Z"
+    created: "2022-09-22T12:19:27.591470668Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -1248,7 +1258,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 0.1.2
-    created: "2022-09-22T11:25:48.239445779Z"
+    created: "2022-09-22T12:19:27.589830643Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -1269,7 +1279,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2022-09-22T11:25:48.238934181Z"
+    created: "2022-09-22T12:19:27.588755396Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -1290,7 +1300,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2022-09-22T11:25:48.232091878Z"
+    created: "2022-09-22T12:19:27.582098163Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -1311,7 +1321,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2022-09-22T11:25:48.231092423Z"
+    created: "2022-09-22T12:19:27.581049757Z"
     dependencies:
     - name: orchestrator
       repository: https://presslabs.github.io/charts/
@@ -1333,7 +1343,7 @@ entries:
   orchestrator:
   - apiVersion: v1
     appVersion: 3.0.14
-    created: "2022-09-22T11:25:48.282631951Z"
+    created: "2022-09-22T12:19:27.632485503Z"
     description: A Helm chart for github's mysql orchestrator
     digest: b415d00ffbcab8ced7c6de715ae8eed2bb1292441384ffafcc97b6f697731166
     home: https://github.com/github/orchestrator
@@ -1350,7 +1360,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 3.0.14
-    created: "2022-09-22T11:25:48.281968281Z"
+    created: "2022-09-22T12:19:27.631966835Z"
     description: A Helm chart for github's mysql orchestrator
     digest: 6b05f67d2e061ccb59919b242237c63b58d47536411cffeb51081414f67ebaa6
     home: https://github.com/github/orchestrator
@@ -1367,7 +1377,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 3.0.13
-    created: "2022-09-22T11:25:48.281489264Z"
+    created: "2022-09-22T12:19:27.631584659Z"
     description: A Helm chart for github's mysql orchestrator
     digest: b66b245b8db70dc36230d10f7292ed61874e2292ebf5f1cdea47527f2b2931ba
     home: https://github.com/github/orchestrator
@@ -1384,7 +1394,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 3.0.12
-    created: "2022-09-22T11:25:48.281003376Z"
+    created: "2022-09-22T12:19:27.631172113Z"
     description: A Helm chart for github's mysql orchestrator
     digest: fafad844376393af237f1be5a199e4609abe8e919c975f17c71c453f29ddddd5
     home: https://github.com/github/orchestrator
@@ -1401,7 +1411,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 3.0.11
-    created: "2022-09-22T11:25:48.280487959Z"
+    created: "2022-09-22T12:19:27.630657195Z"
     description: A Helm chart for github's mysql orchestrator
     digest: c86ca099ea198c63727d697720c4420a1d13f2c3284d04c7e2092f6ed434df9c
     home: https://github.com/github/orchestrator
@@ -1418,7 +1428,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 3.0.11
-    created: "2022-09-22T11:25:48.279612575Z"
+    created: "2022-09-22T12:19:27.630157127Z"
     description: A Helm chart for github's mysql orchestrator
     digest: 546b3cc4356586eec423491d1b31fa6e9fde17e2ded0bbc2d9565e4eb986ef33
     home: https://github.com/github/orchestrator
@@ -1435,7 +1445,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 3.0.9
-    created: "2022-09-22T11:25:48.279374282Z"
+    created: "2022-09-22T12:19:27.62968831Z"
     description: A Helm chart for github's mysql orchestrator
     digest: a439ac3db815b58be4de1aa0ea569534fea73eafc66fe649f5fdbb2c577a9b82
     home: https://github.com/github/orchestrator
@@ -1452,7 +1462,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 3.0.9
-    created: "2022-09-22T11:25:48.279138778Z"
+    created: "2022-09-22T12:19:27.629143741Z"
     description: A Helm chart for github's mysql orchestrator
     digest: d82358c8e113a32dcd3f7f7fda1c866242790fc1eb4cf8e8aa45ccd7ceada56e
     home: https://github.com/github/orchestrator
@@ -1470,7 +1480,7 @@ entries:
   stack:
   - apiVersion: v1
     appVersion: v0.11.0-rc.2
-    created: "2022-09-22T11:25:49.806810378Z"
+    created: "2022-09-22T12:19:29.145638835Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -1500,7 +1510,7 @@ entries:
     version: v0.11.0-rc.2
   - apiVersion: v1
     appVersion: v0.11.0-rc.1
-    created: "2022-09-22T11:25:49.783891221Z"
+    created: "2022-09-22T12:19:29.122717451Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -1530,7 +1540,7 @@ entries:
     version: v0.11.0-rc.1
   - apiVersion: v1
     appVersion: v0.10.4
-    created: "2022-09-22T11:25:49.75728237Z"
+    created: "2022-09-22T12:19:29.096498775Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -1560,7 +1570,7 @@ entries:
     version: v0.10.4
   - apiVersion: v1
     appVersion: v0.10.3
-    created: "2022-09-22T11:25:49.733606932Z"
+    created: "2022-09-22T12:19:29.075679773Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -1590,7 +1600,7 @@ entries:
     version: v0.10.3
   - apiVersion: v1
     appVersion: v0.10.2
-    created: "2022-09-22T11:25:49.706934039Z"
+    created: "2022-09-22T12:19:29.055846006Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -1620,7 +1630,7 @@ entries:
     version: v0.10.2
   - apiVersion: v1
     appVersion: v0.10.1
-    created: "2022-09-22T11:25:49.685031678Z"
+    created: "2022-09-22T12:19:29.032170869Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -1650,7 +1660,7 @@ entries:
     version: v0.10.1
   - apiVersion: v1
     appVersion: v0.10.0
-    created: "2022-09-22T11:25:49.661026136Z"
+    created: "2022-09-22T12:19:29.012438534Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -1680,7 +1690,7 @@ entries:
     version: v0.10.0
   - apiVersion: v1
     appVersion: v0.9.1
-    created: "2022-09-22T11:25:50.508651316Z"
+    created: "2022-09-22T12:19:29.840588788Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -1714,7 +1724,7 @@ entries:
     version: v0.9.1
   - apiVersion: v1
     appVersion: v0.9.0
-    created: "2022-09-22T11:25:50.485805751Z"
+    created: "2022-09-22T12:19:29.816672297Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -1748,7 +1758,7 @@ entries:
     version: v0.9.0
   - apiVersion: v1
     appVersion: v0.8.5
-    created: "2022-09-22T11:25:50.46060957Z"
+    created: "2022-09-22T12:19:29.787187411Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -1782,7 +1792,7 @@ entries:
     version: v0.8.5
   - apiVersion: v1
     appVersion: v0.8.4
-    created: "2022-09-22T11:25:50.44003234Z"
+    created: "2022-09-22T12:19:29.764440699Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -1816,7 +1826,7 @@ entries:
     version: v0.8.4
   - apiVersion: v1
     appVersion: v0.8.3
-    created: "2022-09-22T11:25:50.418922301Z"
+    created: "2022-09-22T12:19:29.737218408Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -1850,7 +1860,7 @@ entries:
     version: v0.8.3
   - apiVersion: v1
     appVersion: v0.8.2
-    created: "2022-09-22T11:25:50.392277858Z"
+    created: "2022-09-22T12:19:29.711689124Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -1884,7 +1894,7 @@ entries:
     version: v0.8.2
   - apiVersion: v1
     appVersion: v0.8.1
-    created: "2022-09-22T11:25:50.371977072Z"
+    created: "2022-09-22T12:19:29.688307881Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -1918,7 +1928,7 @@ entries:
     version: v0.8.1
   - apiVersion: v1
     appVersion: v0.8.0
-    created: "2022-09-22T11:25:50.349810628Z"
+    created: "2022-09-22T12:19:29.668365133Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -1952,7 +1962,7 @@ entries:
     version: v0.8.0
   - apiVersion: v1
     appVersion: v0.7.5
-    created: "2022-09-22T11:25:50.322590557Z"
+    created: "2022-09-22T12:19:29.642395801Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -1986,7 +1996,7 @@ entries:
     version: v0.7.5
   - apiVersion: v1
     appVersion: v0.7.4
-    created: "2022-09-22T11:25:50.302534233Z"
+    created: "2022-09-22T12:19:29.622364981Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2020,7 +2030,7 @@ entries:
     version: v0.7.4
   - apiVersion: v1
     appVersion: v0.7.3
-    created: "2022-09-22T11:25:50.284374359Z"
+    created: "2022-09-22T12:19:29.604137429Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2054,7 +2064,7 @@ entries:
     version: v0.7.3
   - apiVersion: v1
     appVersion: v0.7.2
-    created: "2022-09-22T11:25:50.265945011Z"
+    created: "2022-09-22T12:19:29.584724599Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2088,7 +2098,7 @@ entries:
     version: v0.7.2
   - apiVersion: v1
     appVersion: v0.7.1
-    created: "2022-09-22T11:25:50.242854422Z"
+    created: "2022-09-22T12:19:29.563567592Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2122,7 +2132,7 @@ entries:
     version: v0.7.1
   - apiVersion: v1
     appVersion: v0.7.0
-    created: "2022-09-22T11:25:50.220440974Z"
+    created: "2022-09-22T12:19:29.542851511Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2156,7 +2166,7 @@ entries:
     version: v0.7.0
   - apiVersion: v1
     appVersion: v0.7.0-alpha.0
-    created: "2022-09-22T11:25:50.198652565Z"
+    created: "2022-09-22T12:19:29.520128899Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2190,7 +2200,7 @@ entries:
     version: v0.7.0-alpha.0
   - apiVersion: v1
     appVersion: v0.6.2
-    created: "2022-09-22T11:25:50.180718544Z"
+    created: "2022-09-22T12:19:29.503117097Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2224,7 +2234,7 @@ entries:
     version: v0.6.2
   - apiVersion: v1
     appVersion: v0.6.1
-    created: "2022-09-22T11:25:50.162320946Z"
+    created: "2022-09-22T12:19:29.481264678Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2258,7 +2268,7 @@ entries:
     version: v0.6.1
   - apiVersion: v1
     appVersion: v0.6.0
-    created: "2022-09-22T11:25:50.142512267Z"
+    created: "2022-09-22T12:19:29.4606879Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2292,7 +2302,7 @@ entries:
     version: v0.6.0
   - apiVersion: v1
     appVersion: v0.5.1
-    created: "2022-09-22T11:25:50.123473219Z"
+    created: "2022-09-22T12:19:29.441835818Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2326,7 +2336,7 @@ entries:
     version: v0.5.1
   - apiVersion: v1
     appVersion: v0.5.0
-    created: "2022-09-22T11:25:50.104154807Z"
+    created: "2022-09-22T12:19:29.423464864Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2360,7 +2370,7 @@ entries:
     version: v0.5.0
   - apiVersion: v1
     appVersion: v0.4.1
-    created: "2022-09-22T11:25:50.082745314Z"
+    created: "2022-09-22T12:19:29.404655013Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2394,7 +2404,7 @@ entries:
     version: v0.4.1
   - apiVersion: v1
     appVersion: v0.4.0
-    created: "2022-09-22T11:25:50.061515724Z"
+    created: "2022-09-22T12:19:29.384768395Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2428,7 +2438,7 @@ entries:
     version: v0.4.0
   - apiVersion: v1
     appVersion: v0.3.10
-    created: "2022-09-22T11:25:49.916951161Z"
+    created: "2022-09-22T12:19:29.248208042Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2462,7 +2472,7 @@ entries:
     version: v0.3.10
   - apiVersion: v1
     appVersion: v0.3.9
-    created: "2022-09-22T11:25:50.043306839Z"
+    created: "2022-09-22T12:19:29.369033081Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2492,7 +2502,7 @@ entries:
     version: v0.3.9
   - apiVersion: v1
     appVersion: v0.3.8
-    created: "2022-09-22T11:25:50.026996642Z"
+    created: "2022-09-22T12:19:29.350371233Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2522,7 +2532,7 @@ entries:
     version: v0.3.8
   - apiVersion: v1
     appVersion: v0.3.7
-    created: "2022-09-22T11:25:50.009809463Z"
+    created: "2022-09-22T12:19:29.332376444Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2552,7 +2562,7 @@ entries:
     version: v0.3.7
   - apiVersion: v1
     appVersion: v0.3.6
-    created: "2022-09-22T11:25:49.997828752Z"
+    created: "2022-09-22T12:19:29.319711059Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2582,7 +2592,7 @@ entries:
     version: v0.3.6
   - apiVersion: v1
     appVersion: v0.3.5
-    created: "2022-09-22T11:25:49.983361333Z"
+    created: "2022-09-22T12:19:29.304621125Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2612,7 +2622,7 @@ entries:
     version: v0.3.5
   - apiVersion: v1
     appVersion: v0.3.4
-    created: "2022-09-22T11:25:49.967013467Z"
+    created: "2022-09-22T12:19:29.287247006Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2642,7 +2652,7 @@ entries:
     version: v0.3.4
   - apiVersion: v1
     appVersion: v0.3.3
-    created: "2022-09-22T11:25:49.951187457Z"
+    created: "2022-09-22T12:19:29.275499614Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2672,7 +2682,7 @@ entries:
     version: v0.3.3
   - apiVersion: v1
     appVersion: v0.3.2
-    created: "2022-09-22T11:25:49.9341068Z"
+    created: "2022-09-22T12:19:29.260286009Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2702,7 +2712,7 @@ entries:
     version: v0.3.2
   - apiVersion: v1
     appVersion: v0.3.1
-    created: "2022-09-22T11:25:49.900617114Z"
+    created: "2022-09-22T12:19:29.236823196Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2732,7 +2742,7 @@ entries:
     version: v0.3.1
   - apiVersion: v1
     appVersion: v0.3.0
-    created: "2022-09-22T11:25:49.887220262Z"
+    created: "2022-09-22T12:19:29.22476008Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2762,7 +2772,7 @@ entries:
     version: v0.3.0
   - apiVersion: v1
     appVersion: v0.2.4
-    created: "2022-09-22T11:25:49.872969816Z"
+    created: "2022-09-22T12:19:29.210314646Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2792,7 +2802,7 @@ entries:
     version: v0.2.4
   - apiVersion: v1
     appVersion: v0.2.3
-    created: "2022-09-22T11:25:49.859335181Z"
+    created: "2022-09-22T12:19:29.196652214Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2822,7 +2832,7 @@ entries:
     version: v0.2.3
   - apiVersion: v1
     appVersion: v0.2.2
-    created: "2022-09-22T11:25:49.844146111Z"
+    created: "2022-09-22T12:19:29.183053394Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2852,7 +2862,7 @@ entries:
     version: v0.2.2
   - apiVersion: v1
     appVersion: v0.2.1
-    created: "2022-09-22T11:25:49.82950451Z"
+    created: "2022-09-22T12:19:29.169496824Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2882,7 +2892,7 @@ entries:
     version: v0.2.1
   - apiVersion: v1
     appVersion: v0.2.0
-    created: "2022-09-22T11:25:49.819032172Z"
+    created: "2022-09-22T12:19:29.156433173Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2912,7 +2922,7 @@ entries:
     version: v0.2.0
   - apiVersion: v1
     appVersion: v0.1.0
-    created: "2022-09-22T11:25:49.639300248Z"
+    created: "2022-09-22T12:19:28.987349776Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: mysql-operator
@@ -2943,7 +2953,7 @@ entries:
   stack-operators:
   - apiVersion: v1
     appVersion: v1.6.4
-    created: "2022-09-22T11:25:49.632093079Z"
+    created: "2022-09-22T12:19:28.976486028Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -2974,7 +2984,7 @@ entries:
     version: v1.6.4
   - apiVersion: v1
     appVersion: v1.6.3
-    created: "2022-09-22T11:25:49.600250228Z"
+    created: "2022-09-22T12:19:28.946657057Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3005,7 +3015,7 @@ entries:
     version: v1.6.3
   - apiVersion: v1
     appVersion: v1.6.2
-    created: "2022-09-22T11:25:49.567494693Z"
+    created: "2022-09-22T12:19:28.915525925Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3036,7 +3046,7 @@ entries:
     version: v1.6.2
   - apiVersion: v1
     appVersion: v1.6.1
-    created: "2022-09-22T11:25:49.539777815Z"
+    created: "2022-09-22T12:19:28.888776761Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3067,7 +3077,7 @@ entries:
     version: v1.6.1
   - apiVersion: v1
     appVersion: v1.6.0
-    created: "2022-09-22T11:25:49.507607559Z"
+    created: "2022-09-22T12:19:28.861423228Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3098,7 +3108,7 @@ entries:
     version: v1.6.0
   - apiVersion: v1
     appVersion: v1.5.0
-    created: "2022-09-22T11:25:49.481529965Z"
+    created: "2022-09-22T12:19:28.834616333Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3129,7 +3139,7 @@ entries:
     version: v1.5.0
   - apiVersion: v1
     appVersion: v1.4.1
-    created: "2022-09-22T11:25:49.450273333Z"
+    created: "2022-09-22T12:19:28.805690556Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3160,7 +3170,7 @@ entries:
     version: v1.4.1
   - apiVersion: v1
     appVersion: v1.4.0
-    created: "2022-09-22T11:25:49.42221252Z"
+    created: "2022-09-22T12:19:28.772784047Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3191,7 +3201,7 @@ entries:
     version: v1.4.0
   - apiVersion: v1
     appVersion: v1.3.0
-    created: "2022-09-22T11:25:49.390834906Z"
+    created: "2022-09-22T12:19:28.749166861Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3222,7 +3232,7 @@ entries:
     version: v1.3.0
   - apiVersion: v1
     appVersion: v1.2.0
-    created: "2022-09-22T11:25:49.368708102Z"
+    created: "2022-09-22T12:19:28.725766029Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3253,7 +3263,7 @@ entries:
     version: v1.2.0
   - apiVersion: v1
     appVersion: v1.1.2
-    created: "2022-09-22T11:25:49.340326263Z"
+    created: "2022-09-22T12:19:28.696327503Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3284,7 +3294,7 @@ entries:
     version: v1.1.2
   - apiVersion: v1
     appVersion: v1.1.1
-    created: "2022-09-22T11:25:49.316388302Z"
+    created: "2022-09-22T12:19:28.669793523Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3315,7 +3325,7 @@ entries:
     version: v1.1.1
   - apiVersion: v1
     appVersion: v1.1.0
-    created: "2022-09-22T11:25:49.29311089Z"
+    created: "2022-09-22T12:19:28.639798838Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3346,7 +3356,7 @@ entries:
     version: v1.1.0
   - apiVersion: v1
     appVersion: v1.1.0-rc.0
-    created: "2022-09-22T11:25:49.268072642Z"
+    created: "2022-09-22T12:19:28.616040871Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3377,7 +3387,7 @@ entries:
     version: v1.1.0-rc.0
   - apiVersion: v1
     appVersion: v1.0.0
-    created: "2022-09-22T11:25:49.243608453Z"
+    created: "2022-09-22T12:19:28.588551466Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3412,7 +3422,7 @@ entries:
     version: v1.0.0
   - apiVersion: v1
     appVersion: v1.0.0-test.1
-    created: "2022-09-22T11:25:49.215063162Z"
+    created: "2022-09-22T12:19:28.558823246Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3446,7 +3456,7 @@ entries:
     version: v1.0.0-test.1
   - apiVersion: v1
     appVersion: v1.0.0-rc.3
-    created: "2022-09-22T11:25:49.185214681Z"
+    created: "2022-09-22T12:19:28.529074326Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3481,7 +3491,7 @@ entries:
     version: v1.0.0-rc.3
   - apiVersion: v1
     appVersion: v1.0.0-rc.2
-    created: "2022-09-22T11:25:49.156625869Z"
+    created: "2022-09-22T12:19:28.497632479Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3516,7 +3526,7 @@ entries:
     version: v1.0.0-rc.2
   - apiVersion: v1
     appVersion: v1.0.0-rc.1
-    created: "2022-09-22T11:25:49.128677007Z"
+    created: "2022-09-22T12:19:28.468885094Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3551,7 +3561,7 @@ entries:
     version: v1.0.0-rc.1
   - apiVersion: v1
     appVersion: v1.0.0-rc.0
-    created: "2022-09-22T11:25:49.098534761Z"
+    created: "2022-09-22T12:19:28.437527329Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3586,7 +3596,7 @@ entries:
     version: v1.0.0-rc.0
   - apiVersion: v1
     appVersion: v0.13.2
-    created: "2022-09-22T11:25:49.071504263Z"
+    created: "2022-09-22T12:19:28.412756616Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3621,7 +3631,7 @@ entries:
     version: v0.13.2
   - apiVersion: v1
     appVersion: v0.13.1
-    created: "2022-09-22T11:25:49.041187286Z"
+    created: "2022-09-22T12:19:28.383603095Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3656,7 +3666,7 @@ entries:
     version: v0.13.1
   - apiVersion: v1
     appVersion: v0.13.0
-    created: "2022-09-22T11:25:49.01432149Z"
+    created: "2022-09-22T12:19:28.353962976Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3691,7 +3701,7 @@ entries:
     version: v0.13.0
   - apiVersion: v1
     appVersion: v0.13.0-rc-3
-    created: "2022-09-22T11:25:48.666316725Z"
+    created: "2022-09-22T12:19:28.010316109Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3725,7 +3735,7 @@ entries:
     version: v0.13.0-rc-3
   - apiVersion: v1
     appVersion: v0.13.0-rc.12
-    created: "2022-09-22T11:25:48.788595211Z"
+    created: "2022-09-22T12:19:28.132468659Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3760,7 +3770,7 @@ entries:
     version: v0.13.0-rc.12
   - apiVersion: v1
     appVersion: v0.13.0-rc.11
-    created: "2022-09-22T11:25:48.762508047Z"
+    created: "2022-09-22T12:19:28.10536626Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3795,7 +3805,7 @@ entries:
     version: v0.13.0-rc.11
   - apiVersion: v1
     appVersion: v0.13.0-rc.10
-    created: "2022-09-22T11:25:48.728633036Z"
+    created: "2022-09-22T12:19:28.073803902Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3830,7 +3840,7 @@ entries:
     version: v0.13.0-rc.10
   - apiVersion: v1
     appVersion: v0.13.0-rc.9
-    created: "2022-09-22T11:25:48.984262916Z"
+    created: "2022-09-22T12:19:28.327539877Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3865,7 +3875,7 @@ entries:
     version: v0.13.0-rc.9
   - apiVersion: v1
     appVersion: v0.13.0-rc.8
-    created: "2022-09-22T11:25:48.955737716Z"
+    created: "2022-09-22T12:19:28.297471922Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3899,7 +3909,7 @@ entries:
     version: v0.13.0-rc.8
   - apiVersion: v1
     appVersion: v0.13.0-rc.7
-    created: "2022-09-22T11:25:48.922398041Z"
+    created: "2022-09-22T12:19:28.266169548Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3933,7 +3943,7 @@ entries:
     version: v0.13.0-rc.7
   - apiVersion: v1
     appVersion: v0.13.0-rc.6
-    created: "2022-09-22T11:25:48.884352877Z"
+    created: "2022-09-22T12:19:28.233681335Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -3967,7 +3977,7 @@ entries:
     version: v0.13.0-rc.6
   - apiVersion: v1
     appVersion: v0.13.0-rc.4
-    created: "2022-09-22T11:25:48.850872142Z"
+    created: "2022-09-22T12:19:28.197116469Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -4001,7 +4011,7 @@ entries:
     version: v0.13.0-rc.4
   - apiVersion: v1
     appVersion: v0.13.0-rc.2
-    created: "2022-09-22T11:25:48.817500187Z"
+    created: "2022-09-22T12:19:28.163887595Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -4035,7 +4045,7 @@ entries:
     version: v0.13.0-rc.2
   - apiVersion: v1
     appVersion: v0.13.0-rc.1
-    created: "2022-09-22T11:25:48.697020479Z"
+    created: "2022-09-22T12:19:28.044750851Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -4069,7 +4079,7 @@ entries:
     version: v0.13.0-rc.1
   - apiVersion: v1
     appVersion: v0.12.0
-    created: "2022-09-22T11:25:48.636242731Z"
+    created: "2022-09-22T12:19:27.979114726Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -4099,7 +4109,7 @@ entries:
     version: v0.12.0
   - apiVersion: v1
     appVersion: v0.12.0-rc.2
-    created: "2022-09-22T11:25:48.607285853Z"
+    created: "2022-09-22T12:19:27.95287603Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -4129,7 +4139,7 @@ entries:
     version: v0.12.0-rc.2
   - apiVersion: v1
     appVersion: v0.12.0-rc.1
-    created: "2022-09-22T11:25:48.581005016Z"
+    created: "2022-09-22T12:19:27.935537132Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -4159,7 +4169,7 @@ entries:
     version: v0.12.0-rc.1
   - apiVersion: v1
     appVersion: v0.11.1
-    created: "2022-09-22T11:25:48.552910472Z"
+    created: "2022-09-22T12:19:27.912648538Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -4189,7 +4199,7 @@ entries:
     version: v0.11.1
   - apiVersion: v1
     appVersion: v0.11.1-rc.3
-    created: "2022-09-22T11:25:48.530163218Z"
+    created: "2022-09-22T12:19:27.88755631Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -4219,7 +4229,7 @@ entries:
     version: v0.11.1-rc.3
   - apiVersion: v1
     appVersion: v0.11.1-rc.2
-    created: "2022-09-22T11:25:48.507485186Z"
+    created: "2022-09-22T12:19:27.859407414Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -4249,7 +4259,7 @@ entries:
     version: v0.11.1-rc.2
   - apiVersion: v1
     appVersion: v0.11.0
-    created: "2022-09-22T11:25:48.480976386Z"
+    created: "2022-09-22T12:19:27.829682294Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -4279,7 +4289,7 @@ entries:
     version: v0.11.0
   - apiVersion: v1
     appVersion: v0.11.0-rc.13
-    created: "2022-09-22T11:25:48.392473559Z"
+    created: "2022-09-22T12:19:27.73122628Z"
     dependencies:
     - condition: db-operator.enabled
       name: db-operator
@@ -4309,7 +4319,7 @@ entries:
     version: v0.11.0-rc.13
   - apiVersion: v1
     appVersion: v0.11.0-rc.12
-    created: "2022-09-22T11:25:48.37196219Z"
+    created: "2022-09-22T12:19:27.70985175Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: db-operator
@@ -4339,7 +4349,7 @@ entries:
     version: v0.11.0-rc.12
   - apiVersion: v1
     appVersion: v0.11.0-rc.11
-    created: "2022-09-22T11:25:48.341676782Z"
+    created: "2022-09-22T12:19:27.685572664Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: db-operator
@@ -4369,7 +4379,7 @@ entries:
     version: v0.11.0-rc.11
   - apiVersion: v1
     appVersion: v0.11.0-rc.10
-    created: "2022-09-22T11:25:48.312632454Z"
+    created: "2022-09-22T12:19:27.657962997Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: db-operator
@@ -4399,7 +4409,7 @@ entries:
     version: v0.11.0-rc.10
   - apiVersion: v1
     appVersion: v0.11.0-rc.9
-    created: "2022-09-22T11:25:48.458993764Z"
+    created: "2022-09-22T12:19:27.800192008Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: db-operator
@@ -4429,7 +4439,7 @@ entries:
     version: v0.11.0-rc.9
   - apiVersion: v1
     appVersion: v0.11.0-rc.8
-    created: "2022-09-22T11:25:48.438365593Z"
+    created: "2022-09-22T12:19:27.779076741Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: db-operator
@@ -4459,7 +4469,7 @@ entries:
     version: v0.11.0-rc.8
   - apiVersion: v1
     appVersion: v0.11.0-rc.7
-    created: "2022-09-22T11:25:48.414857888Z"
+    created: "2022-09-22T12:19:27.755196852Z"
     dependencies:
     - condition: mysql-operator.enabled
       name: db-operator
@@ -4490,7 +4500,7 @@ entries:
   wordpress-operator:
   - apiVersion: v1
     appVersion: 0.11.0-alpha.3
-    created: "2022-09-22T11:25:50.521881815Z"
+    created: "2022-09-22T12:19:29.854127617Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 00e33ea816726841c913e72317bc4d8c4945d8425a17bbe0ab38b791634d4fee
     name: wordpress-operator
@@ -4499,7 +4509,7 @@ entries:
     version: 0.11.0-alpha.3
   - apiVersion: v1
     appVersion: 0.11.0-alpha.2
-    created: "2022-09-22T11:25:50.521124084Z"
+    created: "2022-09-22T12:19:29.852706545Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: e1f85c3ee7cf7322822da3665fee19aff5a80448c05fcd6cdf0265d544e9ba7b
     name: wordpress-operator
@@ -4508,7 +4518,7 @@ entries:
     version: 0.11.0-alpha.2
   - apiVersion: v1
     appVersion: 0.11.0-alpha.1
-    created: "2022-09-22T11:25:50.520386283Z"
+    created: "2022-09-22T12:19:29.851255273Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: c912263023f0cee8e40bac230c2075ef1d154240ba5b929c72c0eb10a00018e3
     name: wordpress-operator
@@ -4517,7 +4527,7 @@ entries:
     version: 0.11.0-alpha.1
   - apiVersion: v1
     appVersion: 0.11.0-alpha.0
-    created: "2022-09-22T11:25:50.519494399Z"
+    created: "2022-09-22T12:19:29.849612508Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 2c1d86b4f4d016f2341d9d3f1013b157a24d1b1d21e38927a76d201f649ee56b
     name: wordpress-operator
@@ -4526,7 +4536,7 @@ entries:
     version: 0.11.0-alpha.0
   - apiVersion: v1
     appVersion: 0.10.5
-    created: "2022-09-22T11:25:50.517924456Z"
+    created: "2022-09-22T12:19:29.848549561Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 8a86ae5d923a0cdbba083b8da6957320860b5da65a09267168162edd9166c33e
     name: wordpress-operator
@@ -4535,7 +4545,7 @@ entries:
     version: 0.10.5
   - apiVersion: v1
     appVersion: 0.10.4
-    created: "2022-09-22T11:25:50.516381523Z"
+    created: "2022-09-22T12:19:29.847342052Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 8612d7fc00645bea23e60cf1fc2b37c7218418da1744c7c4e9b20be84b7dfe40
     name: wordpress-operator
@@ -4544,7 +4554,7 @@ entries:
     version: 0.10.4
   - apiVersion: v1
     appVersion: 0.10.3
-    created: "2022-09-22T11:25:50.51486194Z"
+    created: "2022-09-22T12:19:29.845729087Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: c27c45cdc41e8a2b30de8409febd7c8b72130265d0eb00803e0dbf6646fa3994
     name: wordpress-operator
@@ -4553,7 +4563,7 @@ entries:
     version: 0.10.3
   - apiVersion: v1
     appVersion: 0.10.2
-    created: "2022-09-22T11:25:50.513313126Z"
+    created: "2022-09-22T12:19:29.844137953Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: ab90ec95c8c8364526a06142ab40e93b98b8bc3e3da28105165f655a98154df0
     name: wordpress-operator
@@ -4562,7 +4572,7 @@ entries:
     version: 0.10.2
   - apiVersion: v1
     appVersion: 0.10.1
-    created: "2022-09-22T11:25:50.511782503Z"
+    created: "2022-09-22T12:19:29.842360695Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: afe8857bf9f8fddeb77a2a1b1317f9305683586aed4b1ef8e5aad8be6b448156
     name: wordpress-operator
@@ -4571,7 +4581,7 @@ entries:
     version: 0.10.1
   - apiVersion: v1
     appVersion: 0.10.0
-    created: "2022-09-22T11:25:50.51021457Z"
+    created: "2022-09-22T12:19:29.841424751Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 522c083692e0d106efacddaa44d30bae3ef4987319f53ce516161d0f2b392590
     name: wordpress-operator
@@ -4580,7 +4590,7 @@ entries:
     version: 0.10.0
   - apiVersion: v1
     appVersion: 0.9.1
-    created: "2022-09-22T11:25:50.524982473Z"
+    created: "2022-09-22T12:19:29.857955676Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: fd54b145ac9eed1612f3f30575fcc14ea7a2dd303e1922fbbd8d040c72cf4125
     name: wordpress-operator
@@ -4589,7 +4599,7 @@ entries:
     version: 0.9.1
   - apiVersion: v1
     appVersion: 0.9.0
-    created: "2022-09-22T11:25:50.523394308Z"
+    created: "2022-09-22T12:19:29.856727107Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 9c7dd69828daacbf7cd2921d8a3dd8f8d6a1ada8bfecac11836f2a24555a5c36
     name: wordpress-operator
@@ -4598,7 +4608,7 @@ entries:
     version: 0.9.0
   - apiVersion: v1
     appVersion: v0.8.4
-    created: "2022-09-22T11:25:50.542396205Z"
+    created: "2022-09-22T12:19:29.879337887Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 71c051f26bc6783cd6502dc5d2dffcff0815b214ec025c10717e2320a8265ba8
     name: wordpress-operator
@@ -4607,7 +4617,7 @@ entries:
     version: v0.8.4
   - apiVersion: v1
     appVersion: v0.8.3
-    created: "2022-09-22T11:25:50.541940388Z"
+    created: "2022-09-22T12:19:29.878826919Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: c5d02a10c0ca61cae8ceec92e40120d416486613d97b1a28a5f5aab5a619a328
     name: wordpress-operator
@@ -4616,7 +4626,7 @@ entries:
     version: v0.8.3
   - apiVersion: v1
     appVersion: v0.8.2
-    created: "2022-09-22T11:25:50.541478812Z"
+    created: "2022-09-22T12:19:29.878293291Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 342b084019fe2b5ca4a1ef74b3be919d1274f67883935a97977e2bb4925f1451
     name: wordpress-operator
@@ -4625,7 +4635,7 @@ entries:
     version: v0.8.2
   - apiVersion: v1
     appVersion: v0.8.1
-    created: "2022-09-22T11:25:50.541029185Z"
+    created: "2022-09-22T12:19:29.877773793Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 759d04de98d583554facc40de923071245db96668bb90ff6b63d7bdd5cf44c4f
     name: wordpress-operator
@@ -4634,7 +4644,7 @@ entries:
     version: v0.8.1
   - apiVersion: v1
     appVersion: v0.8.0
-    created: "2022-09-22T11:25:50.540597128Z"
+    created: "2022-09-22T12:19:29.877262315Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 42eee3abc4123f6dc1bde93d8f279cf88009545d5824d7f7daff935b7d86d1c8
     name: wordpress-operator
@@ -4643,7 +4653,7 @@ entries:
     version: v0.8.0
   - apiVersion: v1
     appVersion: v0.7.1
-    created: "2022-09-22T11:25:50.540213222Z"
+    created: "2022-09-22T12:19:29.876756347Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: e9cc052281d22f450a17f1d971534b867c52a64d8d6441b8a3ee0ee7445235f2
     name: wordpress-operator
@@ -4652,7 +4662,7 @@ entries:
     version: v0.7.1
   - apiVersion: v1
     appVersion: v0.7.0
-    created: "2022-09-22T11:25:50.539829887Z"
+    created: "2022-09-22T12:19:29.876247729Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 1fe2c79263b918441c760187c885671732fe36e09df248ca310db41e71061703
     name: wordpress-operator
@@ -4661,7 +4671,7 @@ entries:
     version: v0.7.0
   - apiVersion: v1
     appVersion: v0.6.3
-    created: "2022-09-22T11:25:50.539441521Z"
+    created: "2022-09-22T12:19:29.875744652Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: f95f6ddecedd672752b367827d65c991a5ec9f7a44fb26964d5d43d297bdba26
     name: wordpress-operator
@@ -4670,7 +4680,7 @@ entries:
     version: v0.6.3
   - apiVersion: v1
     appVersion: v0.6.1
-    created: "2022-09-22T11:25:50.539055845Z"
+    created: "2022-09-22T12:19:29.875224454Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: b53f965fceaf7a8b3a77fcab3d7a9f37bc8d57719d465ef893b395a82b24cd0d
     name: wordpress-operator
@@ -4679,7 +4689,7 @@ entries:
     version: v0.6.1
   - apiVersion: v1
     appVersion: v0.6.0
-    created: "2022-09-22T11:25:50.538664389Z"
+    created: "2022-09-22T12:19:29.874640845Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 0ea73b7d4b0a065e127a849e8564221cb48014600d9610f056e18406c3d138d3
     name: wordpress-operator
@@ -4688,7 +4698,7 @@ entries:
     version: v0.6.0
   - apiVersion: v1
     appVersion: v0.5.2
-    created: "2022-09-22T11:25:50.538265803Z"
+    created: "2022-09-22T12:19:29.874053675Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: e30ad04e08461964817a871855b992370672c035593daa826d4abbb3f624a117
     name: wordpress-operator
@@ -4697,7 +4707,7 @@ entries:
     version: v0.5.2
   - apiVersion: v1
     appVersion: v0.5.1
-    created: "2022-09-22T11:25:50.537880107Z"
+    created: "2022-09-22T12:19:29.873466156Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: d81c5c7e20e401bad8878d048a91619b626bc9635d9c91bbead1d801d2d73b69
     name: wordpress-operator
@@ -4706,7 +4716,7 @@ entries:
     version: v0.5.1
   - apiVersion: v1
     appVersion: v0.5.0
-    created: "2022-09-22T11:25:50.537507722Z"
+    created: "2022-09-22T12:19:29.872904398Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: a803964f37731e970bb9becc58de5b44e97f8c8149d922d260d17ad54a348375
     name: wordpress-operator
@@ -4715,7 +4725,7 @@ entries:
     version: v0.5.0
   - apiVersion: v1
     appVersion: v0.4.3
-    created: "2022-09-22T11:25:50.537134156Z"
+    created: "2022-09-22T12:19:29.872340979Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 6b55de4a0816e5048773c055725f5ebdf2e4f8ba9e45fd1c6e3d89a914ef5655
     name: wordpress-operator
@@ -4724,7 +4734,7 @@ entries:
     version: v0.4.3
   - apiVersion: v1
     appVersion: v0.4.2
-    created: "2022-09-22T11:25:50.53675239Z"
+    created: "2022-09-22T12:19:29.87176903Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 228546796abbc77ef1d7434c14936a7e2b77e03b6f2a8739e13dcfcace1ee727
     name: wordpress-operator
@@ -4733,7 +4743,7 @@ entries:
     version: v0.4.2
   - apiVersion: v1
     appVersion: v0.4.1
-    created: "2022-09-22T11:25:50.536370805Z"
+    created: "2022-09-22T12:19:29.871211761Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: ad31a7999f08858530e93dfb526599f2e9c546a65f4a03ed66b48f9a57c03f46
     name: wordpress-operator
@@ -4742,7 +4752,7 @@ entries:
     version: v0.4.1
   - apiVersion: v1
     appVersion: v0.4.0
-    created: "2022-09-22T11:25:50.535943158Z"
+    created: "2022-09-22T12:19:29.870636122Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: c8c5f91dae20eaaeab25459915c4389cbe4ab6d5c6219aa7c947e3dd74ab651e
     name: wordpress-operator
@@ -4751,7 +4761,7 @@ entries:
     version: v0.4.0
   - apiVersion: v1
     appVersion: v0.3.7
-    created: "2022-09-22T11:25:50.535337889Z"
+    created: "2022-09-22T12:19:29.869987712Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 90d77744b27c9fa644a2177381a971a38794887ad98c625ab2261837bc7496ad
     name: wordpress-operator
@@ -4760,7 +4770,7 @@ entries:
     version: v0.3.7
   - apiVersion: v1
     appVersion: 0.3.6
-    created: "2022-09-22T11:25:50.522390223Z"
+    created: "2022-09-22T12:19:29.855135452Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 4a844dad6c055a63d7c1e98f87f18ff605a95256ab3741982321bb7e5b8c8cee
     name: wordpress-operator
@@ -4769,7 +4779,7 @@ entries:
     version: 0.3.6
   - apiVersion: v1
     appVersion: 0.3.5
-    created: "2022-09-22T11:25:50.522134399Z"
+    created: "2022-09-22T12:19:29.854643565Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 6218e405fff9d808c76f6ab102ac7aad91b4130f8f08c503de07ca203f93b822
     name: wordpress-operator
@@ -4778,7 +4788,7 @@ entries:
     version: 0.3.5
   - apiVersion: v1
     appVersion: v0.3.4
-    created: "2022-09-22T11:25:50.534884132Z"
+    created: "2022-09-22T12:19:29.868870265Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 8b707adc865b43a517c5680e8cf1f05522cb897f0424a1d8240002db86b02a62
     name: wordpress-operator
@@ -4787,7 +4797,7 @@ entries:
     version: v0.3.4
   - apiVersion: v1
     appVersion: v0.3.3
-    created: "2022-09-22T11:25:50.534308033Z"
+    created: "2022-09-22T12:19:29.868406148Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 35e8a343494b74ed60650b4f7a1891412bf00de1d6803e8e221dce0f8b892b61
     name: wordpress-operator
@@ -4796,7 +4806,7 @@ entries:
     version: v0.3.3
   - apiVersion: v1
     appVersion: v0.3.2
-    created: "2022-09-22T11:25:50.533767295Z"
+    created: "2022-09-22T12:19:29.867929041Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: c49bf9bdd74082f12ad9e77e7cbb322c720648e03b7a9e24ac3a7bca8e3cf5bb
     name: wordpress-operator
@@ -4805,7 +4815,7 @@ entries:
     version: v0.3.2
   - apiVersion: v1
     appVersion: v0.3.1
-    created: "2022-09-22T11:25:50.533221737Z"
+    created: "2022-09-22T12:19:29.867465323Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 614eaa1c0cd8a98d6481114f285006d4ffb10a16f03e0d8391924c5e0dcfee87
     name: wordpress-operator
@@ -4814,7 +4824,7 @@ entries:
     version: v0.3.1
   - apiVersion: v1
     appVersion: v0.3.0
-    created: "2022-09-22T11:25:50.532698999Z"
+    created: "2022-09-22T12:19:29.866956595Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 27490ca4b22f52c5de90d691f17f4ac936bbb5557a37ff0a5f29ec7ba7bce4a1
     name: wordpress-operator
@@ -4823,7 +4833,7 @@ entries:
     version: v0.3.0
   - apiVersion: v1
     appVersion: v0.2.9
-    created: "2022-09-22T11:25:50.532173501Z"
+    created: "2022-09-22T12:19:29.866424797Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 321dc71cf911f5d3648e3a0a241dac0107f74fe1caa6712adb3e175a8e44c407
     name: wordpress-operator
@@ -4832,7 +4842,7 @@ entries:
     version: v0.2.9
   - apiVersion: v1
     appVersion: v0.2.8
-    created: "2022-09-22T11:25:50.531650663Z"
+    created: "2022-09-22T12:19:29.865903879Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 78b2dfb06d54833d298ec75e6e052cbd1f618809dc4499c13547edcd58e1137c
     name: wordpress-operator
@@ -4841,7 +4851,7 @@ entries:
     version: v0.2.8
   - apiVersion: v1
     appVersion: v0.2.7
-    created: "2022-09-22T11:25:50.531133386Z"
+    created: "2022-09-22T12:19:29.865378941Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 4f3e5185dcb2c20820ddac5aafa79d85f10b222d150280c51e18f6b9f59963ee
     name: wordpress-operator
@@ -4850,7 +4860,7 @@ entries:
     version: v0.2.7
   - apiVersion: v1
     appVersion: v0.2.6
-    created: "2022-09-22T11:25:50.530627388Z"
+    created: "2022-09-22T12:19:29.864841013Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 30d94de196c44b08bb6169b14fb27209755356475b674048f989264b47994486
     name: wordpress-operator
@@ -4859,7 +4869,7 @@ entries:
     version: v0.2.6
   - apiVersion: v1
     appVersion: v0.2.5
-    created: "2022-09-22T11:25:50.530139181Z"
+    created: "2022-09-22T12:19:29.864309224Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: ab91574158c5883c9dbb9a9a2434aede8c10ca103e59c66ed2ce293195be9eb7
     name: wordpress-operator
@@ -4868,7 +4878,7 @@ entries:
     version: v0.2.5
   - apiVersion: v1
     appVersion: v0.2.4
-    created: "2022-09-22T11:25:50.529671664Z"
+    created: "2022-09-22T12:19:29.863783096Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 26cd395c17093ef2dd431d4acf15c8f197093dd12150f2475803e60736bf7d88
     name: wordpress-operator
@@ -4877,7 +4887,7 @@ entries:
     version: v0.2.4
   - apiVersion: v1
     appVersion: v0.2.3
-    created: "2022-09-22T11:25:50.529219957Z"
+    created: "2022-09-22T12:19:29.863260928Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 84812795d0b9d37037b99df9b7fec5deb4f63677a2969f53c7432022b6be52e8
     name: wordpress-operator
@@ -4886,7 +4896,7 @@ entries:
     version: v0.2.3
   - apiVersion: v1
     appVersion: v0.2.2
-    created: "2022-09-22T11:25:50.52876238Z"
+    created: "2022-09-22T12:19:29.86272787Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: f419e429ca4960ffe4fd6257fbd006889239306d8db21e9a28cd33296b5926f6
     name: wordpress-operator
@@ -4895,7 +4905,7 @@ entries:
     version: v0.2.2
   - apiVersion: v1
     appVersion: v0.2.0
-    created: "2022-09-22T11:25:50.528361314Z"
+    created: "2022-09-22T12:19:29.862254863Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 979ad2b772767b884706dd79007a3c56782ff5170310ba4030f18fdcf88c6568
     name: wordpress-operator
@@ -4904,7 +4914,7 @@ entries:
     version: v0.2.0
   - apiVersion: v1
     appVersion: v0.1.8
-    created: "2022-09-22T11:25:50.527948038Z"
+    created: "2022-09-22T12:19:29.861786295Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: e9ce9609fc6d2d69ec3ef633a2246788fc750380b25e1a9db2b3c8fc6f5994e1
     name: wordpress-operator
@@ -4913,7 +4923,7 @@ entries:
     version: v0.1.8
   - apiVersion: v1
     appVersion: v0.1.7
-    created: "2022-09-22T11:25:50.527510831Z"
+    created: "2022-09-22T12:19:29.861292318Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 620742d1149e6eb3e9a93362b733ff67be02b990e8ff791dd048f0c2cb639fcd
     name: wordpress-operator
@@ -4922,7 +4932,7 @@ entries:
     version: v0.1.7
   - apiVersion: v1
     appVersion: v0.1.6
-    created: "2022-09-22T11:25:50.527080165Z"
+    created: "2022-09-22T12:19:29.86079702Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 9a0ad31d72fc9ff6959b2a16e3ad3fc08de61dc62687fb67ef55993a4e174f74
     name: wordpress-operator
@@ -4931,7 +4941,7 @@ entries:
     version: v0.1.6
   - apiVersion: v1
     appVersion: v0.1.4
-    created: "2022-09-22T11:25:50.526645138Z"
+    created: "2022-09-22T12:19:29.860297352Z"
     description: A Helm chart for Kubernetes
     digest: 23fbba8a5bca54a8724076767922a1ff7c2e24db01a209e353629fb1a375e15d
     name: wordpress-operator
@@ -4940,7 +4950,7 @@ entries:
     version: v0.1.4
   - apiVersion: v1
     appVersion: v0.1.3
-    created: "2022-09-22T11:25:50.526211621Z"
+    created: "2022-09-22T12:19:29.859816155Z"
     description: A Helm chart for Kubernetes
     digest: 063316fa33a0947e64c0307fed3264c34a2a323de9612d998b55a550509f4f3d
     name: wordpress-operator
@@ -4949,7 +4959,7 @@ entries:
     version: v0.1.3
   - apiVersion: v1
     appVersion: v0.1.2
-    created: "2022-09-22T11:25:50.525792275Z"
+    created: "2022-09-22T12:19:29.859318607Z"
     description: A Helm chart for Kubernetes
     digest: a89cb1d3521f459888592260bb0248919e0d99e9b12da5aa9cbb0b6679dcc67a
     name: wordpress-operator
@@ -4958,7 +4968,7 @@ entries:
     version: v0.1.2
   - apiVersion: v1
     appVersion: v0.1.0
-    created: "2022-09-22T11:25:50.525367309Z"
+    created: "2022-09-22T12:19:29.858612956Z"
     description: A Helm chart for Kubernetes
     digest: dc3179d8c521f04b81b7dfb57729eb496d2c903f023a434a35da1da3146827fa
     name: wordpress-operator
@@ -4968,7 +4978,7 @@ entries:
   wordpress-site:
   - apiVersion: v1
     appVersion: v1.0.0-test.1
-    created: "2022-09-22T11:25:50.573026058Z"
+    created: "2022-09-22T12:19:29.90923373Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: f825f74742cad754cff988562744a091cf1c7a0f92eaa7d648c17362d5b9f557
     name: wordpress-site
@@ -4977,7 +4987,7 @@ entries:
     version: v1.0.0-test.1
   - apiVersion: v1
     appVersion: v0.13.0-rc-3
-    created: "2022-09-22T11:25:50.561519404Z"
+    created: "2022-09-22T12:19:29.896689565Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: de51f77fff7e7910759c96b64e1bb60ed136f47c1546e91275c188186959006b
     name: wordpress-site
@@ -4986,7 +4996,7 @@ entries:
     version: v0.13.0-rc-3
   - apiVersion: v1
     appVersion: v0.13.0-rc.2
-    created: "2022-09-22T11:25:50.562188884Z"
+    created: "2022-09-22T12:19:29.897141412Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 24b5f9e91798fec2e8daa5f950708374c9b45b23243c701f4a750c5d5ba20a26
     name: wordpress-site
@@ -4995,7 +5005,7 @@ entries:
     version: v0.13.0-rc.2
   - apiVersion: v1
     appVersion: v0.12.0
-    created: "2022-09-22T11:25:50.560844724Z"
+    created: "2022-09-22T12:19:29.896229048Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 168522c97fd287ea2105d3460ee813c0a1c550a2bb61eba64d8995e0a3c208b2
     name: wordpress-site
@@ -5004,7 +5014,7 @@ entries:
     version: v0.12.0
   - apiVersion: v1
     appVersion: v0.12.0-rc.2
-    created: "2022-09-22T11:25:50.560168394Z"
+    created: "2022-09-22T12:19:29.895774701Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 31443e7449d104f1d9ea7c8648513b411e23fe576d1442f487468e3f5669260a
     name: wordpress-site
@@ -5013,7 +5023,7 @@ entries:
     version: v0.12.0-rc.2
   - apiVersion: v1
     appVersion: v0.12.0-rc.1
-    created: "2022-09-22T11:25:50.559489694Z"
+    created: "2022-09-22T12:19:29.895322914Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: d6a9086ee70c7ac0e9a30ed1c07a6bc9a191c3e9a52e0aa428dc386db86ff54a
     name: wordpress-site
@@ -5022,7 +5032,7 @@ entries:
     version: v0.12.0-rc.1
   - apiVersion: v1
     appVersion: v0.11.1
-    created: "2022-09-22T11:25:50.558806353Z"
+    created: "2022-09-22T12:19:29.894866057Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 974b9565d1c712a94615160135202aa5d3c281d7f3ac399100fae76f44a191a9
     name: wordpress-site
@@ -5031,7 +5041,7 @@ entries:
     version: v0.11.1
   - apiVersion: v1
     appVersion: v0.11.1-rc.3
-    created: "2022-09-22T11:25:50.558106313Z"
+    created: "2022-09-22T12:19:29.89439745Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 4aab8056d722c433038ec4a39821213206f36ac440c409e2f04413437aa5d53e
     name: wordpress-site
@@ -5040,7 +5050,7 @@ entries:
     version: v0.11.1-rc.3
   - apiVersion: v1
     appVersion: v0.11.1-rc.2
-    created: "2022-09-22T11:25:50.557416923Z"
+    created: "2022-09-22T12:19:29.893936903Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 7186f54609b2c30077bdd0fcde1d9fd36ccbd20d314fac7e946a4f5c8a0a272c
     name: wordpress-site
@@ -5049,7 +5059,7 @@ entries:
     version: v0.11.1-rc.2
   - apiVersion: v1
     appVersion: v0.11.0
-    created: "2022-09-22T11:25:50.556717382Z"
+    created: "2022-09-22T12:19:29.893479156Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 1088623d9384a4e6d14c81361bb13ee7061644df0eb0d683895ac09ff26f1ea4
     name: wordpress-site
@@ -5058,7 +5068,7 @@ entries:
     version: v0.11.0
   - apiVersion: v1
     appVersion: v0.11.0-rc.13
-    created: "2022-09-22T11:25:50.553499234Z"
+    created: "2022-09-22T12:19:29.890593581Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 362af355ab97ed155afd5a72126b2e3216ee55c61899ebf516bf943e41d58b63
     name: wordpress-site
@@ -5067,7 +5077,7 @@ entries:
     version: v0.11.0-rc.13
   - apiVersion: v1
     appVersion: v0.11.0-rc.12
-    created: "2022-09-22T11:25:50.553040807Z"
+    created: "2022-09-22T12:19:29.88987771Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 2e4a299cc47d94f8fea08231d156bf5781317f6b69170ede5b95a2d55a5e9b8b
     name: wordpress-site
@@ -5076,7 +5086,7 @@ entries:
     version: v0.11.0-rc.12
   - apiVersion: v1
     appVersion: v0.11.0-rc.11
-    created: "2022-09-22T11:25:50.55257181Z"
+    created: "2022-09-22T12:19:29.8891961Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 8bc48b868f214068130a26f839d1ab22a5aad8c59584b3dbb7461f1257d537e7
     name: wordpress-site
@@ -5085,7 +5095,7 @@ entries:
     version: v0.11.0-rc.11
   - apiVersion: v1
     appVersion: v0.11.0-rc.10
-    created: "2022-09-22T11:25:50.552114533Z"
+    created: "2022-09-22T12:19:29.888509349Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 4d5d056ebe344d2ff469f0eb4b60789d92d9d207c13b1e544363674e758b03c4
     name: wordpress-site
@@ -5094,7 +5104,7 @@ entries:
     version: v0.11.0-rc.10
   - apiVersion: v1
     appVersion: v0.11.0-rc.9
-    created: "2022-09-22T11:25:50.556018901Z"
+    created: "2022-09-22T12:19:29.892986868Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 61a5f18436227d969d706f03c4024979a4928eccefaacf6da7de8131e69d8440
     name: wordpress-site
@@ -5103,7 +5113,7 @@ entries:
     version: v0.11.0-rc.9
   - apiVersion: v1
     appVersion: v0.11.0-rc.8
-    created: "2022-09-22T11:25:50.555124128Z"
+    created: "2022-09-22T12:19:29.891989853Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: dbd0760615bf4f3f7371e888781c3009367cc20853d531a0edbcd4338bc41827
     name: wordpress-site
@@ -5112,7 +5122,7 @@ entries:
     version: v0.11.0-rc.8
   - apiVersion: v1
     appVersion: v0.11.0-rc.7
-    created: "2022-09-22T11:25:50.554423377Z"
+    created: "2022-09-22T12:19:29.891672058Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 7daf3cdbb04e4cba30449c060bb408eb26fedb45acf76b61c155362b1d623eb9
     name: wordpress-site
@@ -5121,7 +5131,7 @@ entries:
     version: v0.11.0-rc.7
   - apiVersion: v1
     appVersion: v0.11.0-rc.2
-    created: "2022-09-22T11:25:50.55396003Z"
+    created: "2022-09-22T12:19:29.891277262Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 90af26151306d5993a0d582863041eaf3200c1fdc89e4abf5fde5152a6997687
     name: wordpress-site
@@ -5130,7 +5140,7 @@ entries:
     version: v0.11.0-rc.2
   - apiVersion: v1
     appVersion: v0.11.0-rc.1
-    created: "2022-09-22T11:25:50.551648936Z"
+    created: "2022-09-22T12:19:29.887811238Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 4d9b6f4a7ed7c3486febda0393383d20d53a04a7d0d393fdb7cec35feb6f1165
     name: wordpress-site
@@ -5139,7 +5149,7 @@ entries:
     version: v0.11.0-rc.1
   - apiVersion: v1
     appVersion: v0.10.4
-    created: "2022-09-22T11:25:50.551193889Z"
+    created: "2022-09-22T12:19:29.887067417Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 170be17be2bb2948550c0d9bd67d34a256794f4c1ea908937ab0b5efc360254e
     name: wordpress-site
@@ -5148,7 +5158,7 @@ entries:
     version: v0.10.4
   - apiVersion: v1
     appVersion: v0.10.3
-    created: "2022-09-22T11:25:50.550701131Z"
+    created: "2022-09-22T12:19:29.886441067Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 92d7b8ea15dd604bc40581fa13e13dfd8a1901c39d9b7e0cc5dad4ffe47a48e2
     name: wordpress-site
@@ -5157,7 +5167,7 @@ entries:
     version: v0.10.3
   - apiVersion: v1
     appVersion: v0.10.2
-    created: "2022-09-22T11:25:50.549994881Z"
+    created: "2022-09-22T12:19:29.885834328Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: f70f90b14843f5c24f36e743728aebf89ab1a53d4885e2b3c527508cce1c7d00
     name: wordpress-site
@@ -5166,7 +5176,7 @@ entries:
     version: v0.10.2
   - apiVersion: v1
     appVersion: v0.10.1
-    created: "2022-09-22T11:25:50.54932842Z"
+    created: "2022-09-22T12:19:29.885234059Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 0656c924a883a8c7a3f61c130adffd51a5e595090562bded42e1278d47969771
     name: wordpress-site
@@ -5175,7 +5185,7 @@ entries:
     version: v0.10.1
   - apiVersion: v1
     appVersion: v0.10.0
-    created: "2022-09-22T11:25:50.54865579Z"
+    created: "2022-09-22T12:19:29.884637049Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: f9f0be3183f24a86bcf04efdafba50e0d23e92787d60dbd3fe0cdad3f1994583
     name: wordpress-site
@@ -5184,7 +5194,7 @@ entries:
     version: v0.10.0
   - apiVersion: v1
     appVersion: v0.9.1
-    created: "2022-09-22T11:25:50.572713063Z"
+    created: "2022-09-22T12:19:29.908770793Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 29cec0cca07119b73757bade2cf8af9edb7e35700f3cc0be74185a68e8c25fe6
     name: wordpress-site
@@ -5193,7 +5203,7 @@ entries:
     version: v0.9.1
   - apiVersion: v1
     appVersion: v0.9.0
-    created: "2022-09-22T11:25:50.572402138Z"
+    created: "2022-09-22T12:19:29.908311345Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: e8fa3591417fe0a1255483b7c5b719135c3ae9f40ed768aafccf6f3abb089648
     name: wordpress-site
@@ -5202,7 +5212,7 @@ entries:
     version: v0.9.0
   - apiVersion: v1
     appVersion: v0.8.5
-    created: "2022-09-22T11:25:50.572093024Z"
+    created: "2022-09-22T12:19:29.907852358Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 47c3582e595b4f92c245bd321b974b11d47b22ac6d712ead1a3853dea83fa4bd
     name: wordpress-site
@@ -5211,7 +5221,7 @@ entries:
     version: v0.8.5
   - apiVersion: v1
     appVersion: v0.8.4
-    created: "2022-09-22T11:25:50.571789509Z"
+    created: "2022-09-22T12:19:29.907384361Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: ad645fbedb1077859801d32d2a031de9a87d79931609e79da0b09352a8291d1d
     name: wordpress-site
@@ -5220,7 +5230,7 @@ entries:
     version: v0.8.4
   - apiVersion: v1
     appVersion: v0.8.3
-    created: "2022-09-22T11:25:50.571481054Z"
+    created: "2022-09-22T12:19:29.906925164Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 61455aaf5993057f8ee953ba6969a82b147b7f1b39d20a4b8505a598e5fe6d3e
     name: wordpress-site
@@ -5229,7 +5239,7 @@ entries:
     version: v0.8.3
   - apiVersion: v1
     appVersion: v0.8.2
-    created: "2022-09-22T11:25:50.5711692Z"
+    created: "2022-09-22T12:19:29.906448657Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: a59a5858697f3a5ec7f97d1ef741f18ead85acb02d6d18960f08c4099c572e0e
     name: wordpress-site
@@ -5238,7 +5248,7 @@ entries:
     version: v0.8.2
   - apiVersion: v1
     appVersion: v0.8.1
-    created: "2022-09-22T11:25:50.570855935Z"
+    created: "2022-09-22T12:19:29.90599615Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 587c196d361a8f82e974df6a8dd6464b640532eea4a731427981022ec8f823f9
     name: wordpress-site
@@ -5247,7 +5257,7 @@ entries:
     version: v0.8.1
   - apiVersion: v1
     appVersion: v0.8.0
-    created: "2022-09-22T11:25:50.57054417Z"
+    created: "2022-09-22T12:19:29.905544883Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 12eba6ce3fdd6e5d9be20b7ea20d5ad6327ae0c0be98fc58b8a17c084d62dd43
     name: wordpress-site
@@ -5256,7 +5266,7 @@ entries:
     version: v0.8.0
   - apiVersion: v1
     appVersion: v0.7.5
-    created: "2022-09-22T11:25:50.570230526Z"
+    created: "2022-09-22T12:19:29.905078095Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 6e0fedd55265763029786a15a8e3811541cd98dbe16bc152be930df557a0417f
     name: wordpress-site
@@ -5265,7 +5275,7 @@ entries:
     version: v0.7.5
   - apiVersion: v1
     appVersion: v0.7.4
-    created: "2022-09-22T11:25:50.569923001Z"
+    created: "2022-09-22T12:19:29.904624308Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 71db9c69c9cfbf8503b583a9a61a7b0c9f1eeb6b6c9520980a2bfc109c68ae73
     name: wordpress-site
@@ -5274,7 +5284,7 @@ entries:
     version: v0.7.4
   - apiVersion: v1
     appVersion: v0.7.3
-    created: "2022-09-22T11:25:50.569602966Z"
+    created: "2022-09-22T12:19:29.904143051Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 068e5ebe66d6fabb31528d650a55e8d14f3b486338ea3cca15abcb13bcc6ba74
     name: wordpress-site
@@ -5283,7 +5293,7 @@ entries:
     version: v0.7.3
   - apiVersion: v1
     appVersion: v0.7.2
-    created: "2022-09-22T11:25:50.569288991Z"
+    created: "2022-09-22T12:19:29.903681944Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 06d1232edc7156c31b1c4bdc406a5dc36fbefae20c3ae77aaa0df79bdec3cad3
     name: wordpress-site
@@ -5292,7 +5302,7 @@ entries:
     version: v0.7.2
   - apiVersion: v1
     appVersion: v0.7.1
-    created: "2022-09-22T11:25:50.568976177Z"
+    created: "2022-09-22T12:19:29.903213886Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 757bfbb557db7f228a8e171d006e2905199b55e481f6158ea4f598c7c2cd2791
     name: wordpress-site
@@ -5301,7 +5311,7 @@ entries:
     version: v0.7.1
   - apiVersion: v1
     appVersion: v0.7.0
-    created: "2022-09-22T11:25:50.568657782Z"
+    created: "2022-09-22T12:19:29.902750119Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: b7f4ff830fa71b7e0ff2dc79b5c5290485fa29472959019bde732538d3b92a11
     name: wordpress-site
@@ -5310,7 +5320,7 @@ entries:
     version: v0.7.0
   - apiVersion: v1
     appVersion: v0.7.0-alpha.0
-    created: "2022-09-22T11:25:50.568307347Z"
+    created: "2022-09-22T12:19:29.902206071Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 6c3567634ee1fccacb4b265f5d05e23f0932d5e829b18c7f24866cf7366275be
     name: wordpress-site
@@ -5319,7 +5329,7 @@ entries:
     version: v0.7.0-alpha.0
   - apiVersion: v1
     appVersion: v0.6.2
-    created: "2022-09-22T11:25:50.567482064Z"
+    created: "2022-09-22T12:19:29.901190355Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 6777cc1bb034a22a30d12657fc7fdbb4b2f5aa8e01eea1cdd90e865c8894355d
     name: wordpress-site
@@ -5328,7 +5338,7 @@ entries:
     version: v0.6.2
   - apiVersion: v1
     appVersion: v0.6.1
-    created: "2022-09-22T11:25:50.56717193Z"
+    created: "2022-09-22T12:19:29.900739498Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 2f1005ec45f2fb63a2846c2d96d828363c45702d0a758a60a4058d5217e77df6
     name: wordpress-site
@@ -5337,7 +5347,7 @@ entries:
     version: v0.6.1
   - apiVersion: v1
     appVersion: v0.6.0
-    created: "2022-09-22T11:25:50.566830134Z"
+    created: "2022-09-22T12:19:29.900286861Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: dd285563323ae4e3c5e83baa78cab4a9f66fb09b4662070b17843bc638f7e327
     name: wordpress-site
@@ -5346,7 +5356,7 @@ entries:
     version: v0.6.0
   - apiVersion: v1
     appVersion: v0.5.1
-    created: "2022-09-22T11:25:50.566119634Z"
+    created: "2022-09-22T12:19:29.899832364Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 874d6edf8077f7ad293dbbc2f48414023ad0e960a5ec63a3d0a29901273822bf
     name: wordpress-site
@@ -5355,7 +5365,7 @@ entries:
     version: v0.5.1
   - apiVersion: v1
     appVersion: v0.5.0
-    created: "2022-09-22T11:25:50.565445694Z"
+    created: "2022-09-22T12:19:29.899378457Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 9a43fe46a09a6a58821d3a3c1bc8f90fcd3df2f050c2247a818cdb60ab7e2214
     name: wordpress-site
@@ -5364,7 +5374,7 @@ entries:
     version: v0.5.0
   - apiVersion: v1
     appVersion: v0.4.1
-    created: "2022-09-22T11:25:50.564777593Z"
+    created: "2022-09-22T12:19:29.89892353Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: b1ac1082d779fa468fe4cff7e731eb2e1102365689d9e26528eee9c0fc77fc21
     name: wordpress-site
@@ -5373,7 +5383,7 @@ entries:
     version: v0.4.1
   - apiVersion: v1
     appVersion: v0.4.0
-    created: "2022-09-22T11:25:50.564119564Z"
+    created: "2022-09-22T12:19:29.898464993Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 8430e0d8dfb33277ee19ba1d4032e8e17900869c3dd3b461d013b2c2ea598fac
     name: wordpress-site
@@ -5382,7 +5392,7 @@ entries:
     version: v0.4.0
   - apiVersion: v1
     appVersion: v0.3.8
-    created: "2022-09-22T11:25:50.563463964Z"
+    created: "2022-09-22T12:19:29.898013406Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: dd722e85e3697df99587dd7c6614e16e958e0f9b2d214c861e5726d8ce646b7b
     name: wordpress-site
@@ -5391,7 +5401,7 @@ entries:
     version: v0.3.8
   - apiVersion: v1
     appVersion: v0.3.7
-    created: "2022-09-22T11:25:50.562833014Z"
+    created: "2022-09-22T12:19:29.897583309Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 07eca42f7ae7bf2678aac37ee852f458a3430cd6ca31d88d492c8038744d6380
     name: wordpress-site
@@ -5400,7 +5410,7 @@ entries:
     version: v0.3.7
   - apiVersion: v1
     appVersion: v0.1.8
-    created: "2022-09-22T11:25:50.54797923Z"
+    created: "2022-09-22T12:19:29.88403724Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 918d07d9135ed65ebfe2f2c3681b2d5bf8fdb1da3b68ad06ccb686787e446832
     name: wordpress-site
@@ -5409,7 +5419,7 @@ entries:
     version: v0.1.8
   - apiVersion: v1
     appVersion: v0.1.7
-    created: "2022-09-22T11:25:50.547256379Z"
+    created: "2022-09-22T12:19:29.8833875Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 30a7c19a3ad38b001ca0b65e1fe2e65471a3f46025c1eeb8c2ab5d888db633de
     name: wordpress-site
@@ -5418,7 +5428,7 @@ entries:
     version: v0.1.7
   - apiVersion: v1
     appVersion: v0.1.6
-    created: "2022-09-22T11:25:50.546597279Z"
+    created: "2022-09-22T12:19:29.882798291Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 0398fd5ec69d8ebc5bf89179774d9bc7e6fe40754e08f8b7a3eed1021f7b8bbb
     name: wordpress-site
@@ -5427,7 +5437,7 @@ entries:
     version: v0.1.6
   - apiVersion: v1
     appVersion: v0.1.5
-    created: "2022-09-22T11:25:50.545927149Z"
+    created: "2022-09-22T12:19:29.882220252Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 99450808031d2e96463d5fcab1b0f5454a8ad99d062bb5af0b25ada72697071c
     name: wordpress-site
@@ -5436,7 +5446,7 @@ entries:
     version: v0.1.5
   - apiVersion: v1
     appVersion: v0.1.4
-    created: "2022-09-22T11:25:50.545255688Z"
+    created: "2022-09-22T12:19:29.881645263Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 51993fbc585626fa2183d722dbfa339957146e529399720ae7cec8b0a1edcc61
     name: wordpress-site
@@ -5445,7 +5455,7 @@ entries:
     version: v0.1.4
   - apiVersion: v1
     appVersion: v0.1.3
-    created: "2022-09-22T11:25:50.544588418Z"
+    created: "2022-09-22T12:19:29.881067684Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: e68ca6674f2986892559120f3dd93334c391b24bc05f1dc6140fe6d21feb47c7
     name: wordpress-site
@@ -5454,7 +5464,7 @@ entries:
     version: v0.1.3
   - apiVersion: v1
     appVersion: 0.1.2
-    created: "2022-09-22T11:25:50.543884898Z"
+    created: "2022-09-22T12:19:29.880517136Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: b3942c62b70d3a005b0b0876d2a46991be9b21f7aeb31ffea65c7c08fe6e401e
     name: wordpress-site
@@ -5463,7 +5473,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2022-09-22T11:25:50.543248328Z"
+    created: "2022-09-22T12:19:29.880012408Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: e20c5478e27c87cc3ab19dcfc2394965126e8359db3c5a06acdc5c582ab54e53
     name: wordpress-site
@@ -5472,7 +5482,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: master
-    created: "2022-09-22T11:25:50.542955694Z"
+    created: "2022-09-22T12:19:29.879669922Z"
     description: A Helm chart for deploying a WordPress site on Presslabs Stack
     digest: 440d3b0dc67996bb3f19ee3bdf50ea8cb5553ec1779606b9d1dbe58498002755
     name: wordpress-site
@@ -5482,7 +5492,7 @@ entries:
   wp-operator:
   - apiVersion: v1
     appVersion: v1.4.1
-    created: "2022-09-22T11:25:50.627598092Z"
+    created: "2022-09-22T12:19:29.961948835Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 10e60105d85fd9ef73226e69aba19ec9462dd1a95f8bd8e4fdb7d1311e970558
     kubeVersion: '>= 1.19.0-0'
@@ -5492,7 +5502,7 @@ entries:
     version: 1.4.1
   - apiVersion: v1
     appVersion: v1.4.1-test.0
-    created: "2022-09-22T11:25:50.625299837Z"
+    created: "2022-09-22T12:19:29.959316134Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: b3bfe211f88d3e37de05addc80f501408d46487172b2d6cd51a86c000632f9fe
     kubeVersion: '>= 1.19.0-0'
@@ -5502,7 +5512,7 @@ entries:
     version: 1.4.1-test.0
   - apiVersion: v1
     appVersion: v1.4.0
-    created: "2022-09-22T11:25:50.623032673Z"
+    created: "2022-09-22T12:19:29.957583238Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: d4176827c1ccf6f96b521c7eccfbb1275da57b54398e13d862852fd1ea57efdf
     kubeVersion: '>= 1.19.0-0'
@@ -5512,7 +5522,7 @@ entries:
     version: 1.4.0
   - apiVersion: v1
     appVersion: v1.3.2
-    created: "2022-09-22T11:25:50.620749419Z"
+    created: "2022-09-22T12:19:29.955896862Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: cc82afb1993db98dd8ab78fc6dd08f5750c787fa79a21bf3910e64213ce7570c
     kubeVersion: '>= 1.19.0-0'
@@ -5522,7 +5532,7 @@ entries:
     version: 1.3.2
   - apiVersion: v1
     appVersion: v1.3.1
-    created: "2022-09-22T11:25:50.618105099Z"
+    created: "2022-09-22T12:19:29.954176755Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 01bbfc5a2b9a384870fde27175754372e91253a188ddacb728d8087d6311058a
     kubeVersion: '>= 1.19.0-0'
@@ -5532,7 +5542,7 @@ entries:
     version: 1.3.1
   - apiVersion: v1
     appVersion: v1.3.0
-    created: "2022-09-22T11:25:50.615906756Z"
+    created: "2022-09-22T12:19:29.95188812Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: cf026307a7e910a478d2307a4a39f4ed89b492501ffc1576d30fbe956bb33a8e
     kubeVersion: '>= 1.19.0-0'
@@ -5542,7 +5552,7 @@ entries:
     version: 1.3.0
   - apiVersion: v1
     appVersion: v1.2.0
-    created: "2022-09-22T11:25:50.613619601Z"
+    created: "2022-09-22T12:19:29.949792377Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 422128cc84944dcafbef5ee3dea257a825eeb4af612ca2fd9bd44530c31398d4
     kubeVersion: '>= 1.19.0-0'
@@ -5552,7 +5562,7 @@ entries:
     version: 1.2.0
   - apiVersion: v1
     appVersion: v1.1.0
-    created: "2022-09-22T11:25:50.611189265Z"
+    created: "2022-09-22T12:19:29.947570583Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 663b4fc189664ad18ef0b6d94a87ac1ad75867b0f5c7a8e24b3f6eab2cd5c18f
     kubeVersion: '>= 1.19.0-0'
@@ -5562,7 +5572,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: v1.1.0-rc.1
-    created: "2022-09-22T11:25:50.609478479Z"
+    created: "2022-09-22T12:19:29.945013873Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: d8f6206a3c69aabd833a5b21c5feaa87fb00abc24102d950fa6790c2e77690c6
     kubeVersion: '>= 1.19.0-0'
@@ -5572,7 +5582,7 @@ entries:
     version: 1.1.0-rc.1
   - apiVersion: v1
     appVersion: v1.0.1
-    created: "2022-09-22T11:25:50.607792853Z"
+    created: "2022-09-22T12:19:29.94283104Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: fd90742b92d931ac4db7b8156d98c1c0d9d92b59af6ab1d0b309ad7eec0bda43
     kubeVersion: '>= 1.19.0-0'
@@ -5582,7 +5592,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: v1.0.0
-    created: "2022-09-22T11:25:50.605734822Z"
+    created: "2022-09-22T12:19:29.940611115Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: d5cd7128d477bff75722fadba433dc02abe80f886fc02b7fea0c9445f2008222
     kubeVersion: '>= 1.19.0-0'
@@ -5592,7 +5602,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: v1.0.0-rc.2
-    created: "2022-09-22T11:25:50.603894245Z"
+    created: "2022-09-22T12:19:29.938419481Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: e7d6f7a7bb787b09fae475dcfe00ca9729421cce2fbdb2c963a483dc1849d00f
     kubeVersion: '>= 1.19.0-0'
@@ -5602,7 +5612,7 @@ entries:
     version: 1.0.0-rc.2
   - apiVersion: v1
     appVersion: v0.12.4
-    created: "2022-09-22T11:25:50.602731017Z"
+    created: "2022-09-22T12:19:29.936275808Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: f67d34e6c8c0a27fd3ee3b5c93424bb8435164f1fdc14cc4ad821de6a188a8ce
     kubeVersion: '>= 1.19.0-0'
@@ -5612,7 +5622,7 @@ entries:
     version: 0.12.4
   - apiVersion: v1
     appVersion: v0.12.2
-    created: "2022-09-22T11:25:50.601519499Z"
+    created: "2022-09-22T12:19:29.933981302Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 27d90d1291fc20912105ddc291795c9636250d99e8575a22164fd4f63e63bb30
     kubeVersion: '>= 1.19.0-0'
@@ -5622,7 +5632,7 @@ entries:
     version: 0.12.2
   - apiVersion: v1
     appVersion: v0.12.1
-    created: "2022-09-22T11:25:50.60031813Z"
+    created: "2022-09-22T12:19:29.931781698Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: f32c085f39fa839edfc4d096e634573524001cbf7cf344b0ba6b8eacbbbc4cea
     kubeVersion: '>= 1.19.0-0'
@@ -5632,7 +5642,7 @@ entries:
     version: 0.12.1
   - apiVersion: v1
     appVersion: v0.12.0
-    created: "2022-09-22T11:25:50.597907724Z"
+    created: "2022-09-22T12:19:29.929144557Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 2a32f9047fc6332efa62073cce99cf2c5dad330b1c0533a6d1dfff36a5fdef14
     kubeVersion: '>= 1.19.0-0'
@@ -5642,7 +5652,7 @@ entries:
     version: 0.12.0
   - apiVersion: v1
     appVersion: 0.11.10
-    created: "2022-09-22T11:25:50.581952903Z"
+    created: "2022-09-22T12:19:29.916022955Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 7126488643dc8d2753abe7859c5093e2cedcecd310f5a7a8611e24e40c91b305
     name: wp-operator
@@ -5651,7 +5661,7 @@ entries:
     version: 0.11.10
   - apiVersion: v1
     appVersion: 0.11.9
-    created: "2022-09-22T11:25:50.595774671Z"
+    created: "2022-09-22T12:19:29.927441901Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 9794fbae1d91bbac1d960454c1590bccc89b4c402ca507543d0abf014c15c1a1
     name: wp-operator
@@ -5660,7 +5670,7 @@ entries:
     version: 0.11.9
   - apiVersion: v1
     appVersion: 0.11.8
-    created: "2022-09-22T11:25:50.593768931Z"
+    created: "2022-09-22T12:19:29.925833876Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: da9584aac183e5131dff1edb541a4745e5480d2dcabfbd69ac6b3e31106e2199
     name: wp-operator
@@ -5669,7 +5679,7 @@ entries:
     version: 0.11.8
   - apiVersion: v1
     appVersion: 0.11.7
-    created: "2022-09-22T11:25:50.591280584Z"
+    created: "2022-09-22T12:19:29.923828225Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 18131e0e3b23b683327f74454be5229f7edb2caa373bc872c0ccb343c536eaf7
     name: wp-operator
@@ -5678,7 +5688,7 @@ entries:
     version: 0.11.7
   - apiVersion: v1
     appVersion: 0.11.6
-    created: "2022-09-22T11:25:50.589783921Z"
+    created: "2022-09-22T12:19:29.922649907Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: e634368c55eacc0e8d92f13da6255993d580a0aec3561f2534292172a6f23daa
     name: wp-operator
@@ -5687,7 +5697,7 @@ entries:
     version: 0.11.6
   - apiVersion: v1
     appVersion: 0.11.5
-    created: "2022-09-22T11:25:50.588276948Z"
+    created: "2022-09-22T12:19:29.921466739Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 960e2061cd09f6ba215c5a3dbe98668c8ca4652764968d79806bf7927be4b699
     name: wp-operator
@@ -5696,7 +5706,7 @@ entries:
     version: 0.11.5
   - apiVersion: v1
     appVersion: 0.11.4
-    created: "2022-09-22T11:25:50.586788426Z"
+    created: "2022-09-22T12:19:29.920292581Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: deb3be88063208af61518c6dd0c5c692dbd5a8b6093116e7c11deabaad88ad96
     name: wp-operator
@@ -5705,7 +5715,7 @@ entries:
     version: 0.11.4
   - apiVersion: v1
     appVersion: 0.11.3
-    created: "2022-09-22T11:25:50.585272693Z"
+    created: "2022-09-22T12:19:29.919039782Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: c80b9040ce3a88954bdc52bce948041a4668c8e6951e8e9928c403132a88651c
     name: wp-operator
@@ -5714,7 +5724,7 @@ entries:
     version: 0.11.3
   - apiVersion: v1
     appVersion: 0.11.2
-    created: "2022-09-22T11:25:50.58373653Z"
+    created: "2022-09-22T12:19:29.917533738Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 68ad8ff278bbd21437471a347a172f8fee4fc69b88ccedbabc999671d3fc22ab
     name: wp-operator
@@ -5723,7 +5733,7 @@ entries:
     version: 0.11.2
   - apiVersion: v1
     appVersion: 0.11.1
-    created: "2022-09-22T11:25:50.579819311Z"
+    created: "2022-09-22T12:19:29.914136306Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 7210559c28023c1b53ba761deda9c605db8005cda1deccc33c20bb93d2b082ac
     name: wp-operator
@@ -5732,7 +5742,7 @@ entries:
     version: 0.11.1
   - apiVersion: v1
     appVersion: 0.11.0
-    created: "2022-09-22T11:25:50.578307618Z"
+    created: "2022-09-22T12:19:29.913368064Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 6bf96fd0ade16da25d370fa6bc455f7123acb24eafb1b44920075b2ae2a8b045
     name: wp-operator
@@ -5741,7 +5751,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: 0.11.0-alpha.7
-    created: "2022-09-22T11:25:50.576798445Z"
+    created: "2022-09-22T12:19:29.912599512Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 7dfdc88e6827c06cc15778aa6781ed4b5c77b6bbff129f7e67c71cb8d072997b
     name: wp-operator
@@ -5750,7 +5760,7 @@ entries:
     version: 0.11.0-alpha.7
   - apiVersion: v1
     appVersion: 0.11.0-alpha.6
-    created: "2022-09-22T11:25:50.575267812Z"
+    created: "2022-09-22T12:19:29.911790399Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: b46cc2de1224b40c502df2035ff6e4adad4f2acc8bed73fe96f39d9934e9c662
     name: wp-operator
@@ -5759,11 +5769,11 @@ entries:
     version: 0.11.0-alpha.6
   - apiVersion: v1
     appVersion: 0.11.0-alpha.5
-    created: "2022-09-22T11:25:50.573772589Z"
+    created: "2022-09-22T12:19:29.910352267Z"
     description: Presslabs WordPress Operator Helm Chart
     digest: 1a661c8fd0007e6ddbd2f0cd0f3d27442e82981c843dee9f040e6d3d2d86da1b
     name: wp-operator
     urls:
     - https://presslabs.github.io/charts/wp-operator-0.11.0-alpha.5.tgz
     version: 0.11.0-alpha.5
-generated: "2022-09-22T11:25:48.181327291Z"
+generated: "2022-09-22T12:19:27.537220109Z"
