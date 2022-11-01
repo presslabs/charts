@@ -10,6 +10,7 @@
 # when the hash of the last commit in the branch you set up changes. This does
 # NOT apply to ownership claim operations, which are processed immediately.
 #
+repositoryID: 420ccfda-4a71-4aeb-b64b-4ca560aa3fa0
 owners:
   - name: flavius
     email: flavius@presslabs.com
